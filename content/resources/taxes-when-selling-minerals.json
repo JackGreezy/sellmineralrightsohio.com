@@ -1,0 +1,64 @@
+{
+ "slug": "taxes-when-selling-minerals",
+ "title": "Taxes When You Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Taxes When You Sell Mineral Rights in Ohio",
+ "metaDescription": "How selling Ohio mineral rights is generally taxed, how basis and holding period work for inherited interests, and questions to bring to your CPA.",
+ "heroLead": "Selling mineral rights creates a tax event, and the size of it depends heavily on one number most owners have never calculated: their basis in the interest.",
+ "intro": [
+  "This is general information, not tax advice, and your specific situation, especially if the minerals were inherited, involve multiple owners, or came with an existing lease, changes the answer. Talk to your CPA or tax advisor about your circumstances before you close a sale. What follows is the framework so that conversation starts from an informed place."
+ ],
+ "sections": [
+  {
+   "heading": "How the sale is generally treated",
+   "paragraphs": [
+    "A sale of mineral rights is generally treated as a sale of real property, which means the gain, the difference between what you receive and your basis in the interest, is typically subject to capital gains treatment rather than ordinary income treatment. Whether that gain is long-term or short-term generally depends on how long you have held the interest. For inherited minerals, the holding period question and the basis question both work differently than for something you purchased yourself, which is exactly why this is worth a real conversation with a tax professional rather than an assumption carried over from selling a house or a stock.",
+    "If your minerals have been leased and producing, you have also likely been reporting royalty income annually as ordinary income, typically on Schedule E, separate from any gain on the eventual sale of the underlying mineral interest itself. Selling does not retroactively change how past royalty income was taxed."
+   ]
+  },
+  {
+   "heading": "Basis is the number that actually determines your tax bill",
+   "paragraphs": [
+    "Basis is what you are treated as having paid for the interest, and it is the number subtracted from your sale price to calculate gain. For minerals you purchased, basis is generally what you paid. For inherited minerals, basis is generally stepped up to the fair market value of the interest as of the date of the person you inherited it from passed away, not the original owner's cost decades earlier. This step-up can meaningfully reduce your taxable gain compared to what you might assume, but establishing that fair market value as of the date of death, particularly for a mineral interest inherited many years ago with no formal appraisal at the time, can require some work, sometimes a retroactive valuation done by a qualified appraiser.",
+    "If the interest passed through more than one generation, tracing the correct basis and holding period can get genuinely complicated, and getting it right, or wrong, directly changes your tax bill. This is one of the clearest cases where a short conversation with a CPA before closing is worth far more than it costs."
+   ]
+  },
+  {
+   "heading": "A few things worth asking your CPA specifically",
+   "paragraphs": [
+    "Ask what your basis in the interest actually is, and whether a step-up applies given how you acquired it. Ask whether your gain will be treated as long-term or short-term, and what that means for your rate. Ask whether any depletion you previously claimed against royalty income affects your basis calculation at sale. And if you are selling only a portion of a larger inherited interest split among relatives, ask how your specific share of the basis is calculated, since it is not always a simple even split. None of these are questions we can answer for you, since they depend on records and history specific to your family's interest, but they are the right questions to bring to the conversation.",
+    "It is also worth asking whether the timing of your sale, within a given tax year or relative to other income, changes your overall picture. Owners selling a larger interest sometimes have reason to think about timing a closing across tax years or coordinating with other planning, and that is squarely a conversation for your CPA, not something a mineral buyer is positioned to advise you on."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is selling mineral rights taxed differently than selling a house?",
+   "answer": "The general capital gains framework is similar, real property treatment based on gain over basis, but mineral-specific issues like depletion history and inherited basis calculations make it worth reviewing with a tax advisor familiar with mineral transactions."
+  },
+  {
+   "question": "What if I inherited the mineral rights and never had them appraised?",
+   "answer": "Your basis is still generally the fair market value at the date of death, even without a contemporaneous appraisal, but establishing that value now may require a retroactive valuation. Your CPA can advise on the best approach."
+  },
+  {
+   "question": "Do I owe tax on the sale even if the minerals never produced anything?",
+   "answer": "Generally yes, a sale still creates a taxable event based on gain over basis, whether or not the tract ever produced or paid royalties."
+  },
+  {
+   "question": "Will the buyer withhold taxes from my payment?",
+   "answer": "Typically no, mineral rights buyers generally do not withhold income tax from the purchase price. You are responsible for reporting and paying any tax due when you file."
+  },
+  {
+   "question": "Can selling multiple family members' shares at once simplify taxes?",
+   "answer": "Each owner generally reports their own share of gain based on their own basis, so selling together can simplify the transaction logistically without necessarily simplifying each person's individual tax calculation."
+  }
+ ],
+ "wordCount": 873,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-sellmineralrightsohio-com.jpg",
+  "alt": "Taxes When You Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

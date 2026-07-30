@@ -1,0 +1,70 @@
+{
+ "slug": "contact",
+ "title": "Contact",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Contact Us About Your Ohio Mineral Rights",
+ "metaDescription": "Reach out with questions about selling Ohio mineral rights, checking your title, or understanding what your interest might be worth. No obligation.",
+ "heroLead": "You do not need a finished plan to reach out, most people who contact us are still trying to figure out what they own and whether selling even makes sense.",
+ "intro": [
+  "Whether you have a specific question about a division order that does not add up, you are trying to figure out if your family's mineral interest is still valid after decades of no activity, or you simply want to understand what your interest might be worth, this is the place to start. There is no script you need to follow and no information you need to have gathered beforehand."
+ ],
+ "sections": [
+  {
+   "heading": "What people usually reach out about",
+   "paragraphs": [
+    "Some of the most common questions we get are not actually about selling at all, at least not at first. Owners want to know whether an old, unleased mineral interest inherited from a grandparent could be at risk under Ohio's Dormant Mineral Act. Others have a royalty check that dropped sharply and want to know if that is normal well decline or a sign something is wrong. Others simply inherited a fractional interest alongside several cousins and have no idea what it is worth or how a sale among multiple owners would even work. All of these are reasonable starting points, and we are glad to talk through any of them even if you are not ready to sell anything.",
+    "If you already know you want to sell and just need the process explained, we can walk through the steps and the rough timeline for your specific situation, whether the tract is producing, leased and undrilled, or unleased entirely."
+   ]
+  },
+  {
+   "heading": "What we need from you to actually help",
+   "paragraphs": [
+    "The most useful starting details are the county your interest sits in and a general sense of how you came to own it, since that shapes what questions we ask next. Beyond that, anything you have on hand, a deed, a division order, a royalty statement, a lease, helps us give you a more specific answer, but none of it is required to start a conversation. If you are missing documents entirely, that is common with inherited interests and something we can help track down through county records."
+   ]
+  },
+  {
+   "heading": "If your question is time-sensitive",
+   "paragraphs": [
+    "Some situations are worth flagging as urgent rather than working through at a casual pace. If you have received a recorded notice from a surface owner regarding your mineral interest, particularly anything referencing abandonment or Ohio's Dormant Mineral Act, that typically starts a strict sixty-day response window, and reaching out sooner rather than later gives you more room to respond properly, including recording a claim to preserve if that is the right move. Similarly, if you are in the middle of a probate proceeding and need clarity on a mineral interest before an estate can close, timing matters, and we would rather hear from you early than after a deadline has passed.",
+    "Outside of those situations, there is no wrong time to reach out. Plenty of people contact us months before they are ready to make any decision, just to understand their options."
+   ]
+  },
+  {
+   "heading": "Other ways to reach us",
+   "paragraphs": [
+    "Phone and email both work well, and which one makes sense often depends on how much you already know about your interest. A quick phone call is usually the fastest way to work through a question that has several parts, like an inherited interest split among multiple relatives with an unclear ownership history, since we can ask follow-up questions in real time. Email works well if you would rather send along scanned documents, a deed, a division order, a lease, so we can review them before we talk.",
+    "If you are contacting us on behalf of a parent, a sibling, or another family member's estate, let us know that up front. It changes what documentation we will eventually need, such as proof of your authority to act on the estate's behalf, but it does not change how we start the conversation."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I have to be ready to sell to contact you?",
+   "answer": "No, plenty of people reach out just to understand their situation better, including questions about title, dormant mineral risk, or what their interest is generally worth."
+  },
+  {
+   "question": "Is there a cost to asking questions or getting information?",
+   "answer": "No, there is no cost or obligation to reach out and discuss your mineral interest with us."
+  },
+  {
+   "question": "What information should I have ready before reaching out?",
+   "answer": "Your county and how you came to own the interest are the most useful starting points. Any deed, lease, or statement you have on hand helps, but none of it is required up front."
+  },
+  {
+   "question": "Can you help me figure out who else in my family owns a share of the same interest?",
+   "answer": "Often yes, since county recorder and probate records can usually establish how an interest was divided among heirs, and we can help you make sense of what those records show."
+  },
+  {
+   "question": "How quickly will someone respond?",
+   "answer": "We typically respond within a business day or two, and sooner if your question is time-sensitive, such as a dormant mineral notice deadline."
+  }
+ ],
+ "wordCount": 866,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-contact-sellmineralrightsohio-com.jpg",
+  "alt": "Contact mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

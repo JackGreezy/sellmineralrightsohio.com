@@ -1,0 +1,74 @@
+{
+ "slug": "trust-owned-minerals",
+ "title": "Trust-Owned Minerals",
+ "type": "situation",
+ "note": "trustee sale considerations",
+ "metaTitle": "Selling Mineral Rights Held in an Ohio Trust",
+ "metaDescription": "Managing Ohio mineral rights as a trustee? Learn what trust language allows, how a trustee sale differs from an individual sale, and what buyers require.",
+ "heroLead": "A trustee doesn't own the minerals personally, which means selling them starts with the trust document, not the deed.",
+ "intro": [
+  "Placing mineral rights into a trust is a common estate planning move in Ohio, especially for families trying to avoid probate or manage an interest for beneficiaries who aren't ready or able to handle it directly. That structure works well for holding the asset, but it adds a layer most first-time trustees don't expect when it comes time to actually sell: you're not only proving you own the minerals, you're proving the trust gives you the authority to sell them, and that the sale serves the purposes the trust was set up for.",
+  "None of this makes a trust-owned sale harder than a normal one in practice, it just means the paperwork trail runs through a different document."
+ ],
+ "sections": [
+  {
+   "heading": "What the trust document actually needs to say",
+   "paragraphs": [
+    "Before anything else, the trustee needs to confirm the trust agreement grants the power to sell real property, and specifically mineral interests, without requiring separate court approval or unanimous beneficiary consent. Most well-drafted revocable and irrevocable trusts include broad administrative powers covering exactly this, but older or informally drafted trusts sometimes don't address it clearly, which can require a probate court petition or a trust amendment before a sale can proceed.",
+    "A buyer's title company will typically ask for a copy of the relevant trust provisions, or a certification of trust document, which summarizes the trustee's authority without requiring the entire trust to be recorded publicly. Having that ready before you start shopping the interest around saves a round of back-and-forth later."
+   ]
+  },
+  {
+   "heading": "Fiduciary duty and getting a defensible price",
+   "paragraphs": [
+    "A trustee has a legal duty to act in the best interest of the trust's beneficiaries, which in practice means documenting that the sale price reflects a reasonable, informed valuation rather than an arbitrary or convenient number. This doesn't require a formal appraisal in every case, but it does mean the trustee should be able to point to something concrete: recent royalty history for producing interests, comparable nearby lease or sale activity for non-producing ones, or a written offer that explains its basis.",
+    "Keeping records of how the sale price was determined, and ideally getting more than one point of comparison, protects the trustee if a beneficiary ever questions the decision later, which is a real consideration when multiple family members have an interest in how the trust is managed."
+   ]
+  },
+  {
+   "heading": "Successor trustees and interests that outlived the original owner",
+   "paragraphs": [
+    "It's common for a trust to hold mineral rights for years after the person who set it up has passed, managed by a successor trustee who may be a family member with little background in oil and gas. If that's your situation, the same basic questions apply as any mineral sale, whether the interest is producing or not, what county and play it sits in, whether it's currently leased, but you're answering them on behalf of beneficiaries rather than yourself, which is worth keeping in mind when comparing offers.",
+    "If the trust itself has multiple beneficiaries with different preferences about selling versus holding, the trustee still generally has authority to make the decision under the trust's terms, though communicating the reasoning to beneficiaries ahead of time tends to avoid friction later."
+   ]
+  },
+  {
+   "heading": "Title and Dormant Mineral Act checks still apply",
+   "paragraphs": [
+    "Placing minerals in a trust doesn't reset or pause Ohio's Dormant Mineral Act twenty-year clock, and it doesn't clean up any title gaps that existed before the transfer into the trust. If the interest was severed decades ago and sat quiet before it was ever placed in the trust, it's worth doing a courthouse records check to confirm there's no abandonment exposure or competing claim before marketing the interest for sale."
+   ]
+  },
+  {
+   "heading": "Recording the deed into the trust correctly",
+   "paragraphs": [
+    "Occasionally a mineral interest gets included in a trust's general schedule of assets but never actually gets a deed recorded transferring it from the individual's name into the trust's name at the county recorder's office. This creates a mismatch: the trust document says the trustee controls the interest, but the public record still shows the original individual as owner. Before a sale can close, that gap usually has to be corrected with a confirmatory deed, which is a simple fix but one that can add a delay if it's discovered only after a buyer is already under contract."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does a trustee need beneficiary approval to sell mineral rights?",
+   "answer": "It depends on the trust document. Many trusts grant the trustee independent authority to sell real property including minerals, but some require notice to beneficiaries or their consent, so the specific trust language governs."
+  },
+  {
+   "question": "What paperwork does a buyer need to confirm trustee authority?",
+   "answer": "Typically a certification of trust, which summarizes the trustee's powers and identity without disclosing the full trust document, along with the trustee's identification and the deed itself."
+  },
+  {
+   "question": "Can a successor trustee sell minerals the original trust creator never sold?",
+   "answer": "Yes, as long as the trust document grants the successor trustee the same authority to manage and sell trust property, which is standard in most well-drafted trusts."
+  },
+  {
+   "question": "Should the trustee get more than one offer before selling?",
+   "answer": "It's a reasonable practice for documenting a fiduciary decision, even if not strictly required. Comparing an offer against recent royalty history or nearby lease activity gives the trustee a defensible basis for the price accepted."
+  }
+ ],
+ "status": "written",
+ "wordCount": 926,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-trust-owned-minerals-sellmineralrightsohio-com.jpg",
+  "alt": "Trust-Owned Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

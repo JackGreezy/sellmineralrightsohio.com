@@ -1,0 +1,68 @@
+{
+ "slug": "working-interests",
+ "title": "Working Interests",
+ "type": "interest-type",
+ "metaTitle": "Working Interests Explained for Ohio Mineral Owners",
+ "metaDescription": "Own or considering an Ohio working interest? Learn how it differs from royalty ownership, what costs it carries, and how it gets valued or sold.",
+ "heroLead": "A working interest pays more than a royalty when a well does well, and costs real money when it doesn't, which is the tradeoff most Ohio royalty owners never actually take on.",
+ "intro": [
+  "Most Ohio families who own oil and gas interests hold a royalty interest, not a working interest, and the difference between the two is bigger than the names suggest. A royalty interest is pure upside with no cost exposure. A working interest is the operator's side of the deal, the right to develop and produce the minerals, paired with the obligation to pay a proportionate share of drilling, completing, and operating costs. Some owners end up with a working interest through inheritance, an old family partnership in a well, or a direct purchase, and the responsibilities that come with it are genuinely different from anything a royalty owner deals with.",
+  "If you've come across the term on an old document, or you're evaluating whether owning one makes sense, understanding the cost side is the part that matters most."
+ ],
+ "sections": [
+  {
+   "heading": "What a working interest actually obligates you to",
+   "paragraphs": [
+    "Owning a working interest means owning a percentage share of the cost and the revenue of a well. If you hold a 5% working interest, you're generally responsible for 5% of the drilling, completion, and ongoing operating costs, and in exchange you receive 5% of the production revenue before any royalty deductions to mineral owners are subtracted from the total. This is fundamentally different from a royalty interest, where you receive a share of revenue with zero cost obligation regardless of how expensive the well turns out to be.",
+    "In Ohio, working interests in legacy Clinton sandstone wells sometimes trace back to older, informal arrangements, a group of local investors who pooled money decades ago to drill a well together, still splitting costs and revenue among the surviving owners or their heirs. Working interests in modern Utica horizontal wells are typically held by the large operators themselves and their institutional partners, rather than individual family owners, given the scale of capital required."
+   ]
+  },
+  {
+   "heading": "Why the cost exposure changes everything",
+   "paragraphs": [
+    "The upside of a working interest is real: a share of revenue calculated before royalty burdens are subtracted generally works out to a larger percentage of gross production value than an equivalent royalty percentage would. The downside is equally real: if the well underperforms, if costs run over budget, or if additional capital is called for a workover or recompletion, a working interest owner is on the hook for their share regardless of how the well performs.",
+    "This is what's known as being 'in the risk pool' alongside the operator, rather than being insulated from it the way a royalty owner is. For an individual who inherited a small working interest without fully understanding what it obligates them to, this can come as an unwelcome surprise the first time a cost call arrives instead of a check."
+   ]
+  },
+  {
+   "heading": "Non-operated versus operated working interests",
+   "paragraphs": [
+    "Most individual working interest owners hold what's called a non-operated working interest, meaning they share in costs and revenue but have no role in actually running day-to-day drilling or operating decisions, that authority belongs to the designated operator of the well or unit. This is the more common structure for legacy or inherited working interests, and it means the owner is largely a passive participant financially, without operational control, but still fully exposed to the cost side of the arrangement.",
+    "Reviewing the joint operating agreement, if one exists and can be located, clarifies exactly what obligations and voting rights, if any, come with a specific working interest, since terms can vary considerably between older informal arrangements and more modern institutional agreements."
+   ]
+  },
+  {
+   "heading": "Selling a working interest",
+   "paragraphs": [
+    "Working interests can be sold, though the pool of buyers is generally narrower than for royalty interests, since a buyer needs to be prepared to take on ongoing cost obligations rather than simply collect revenue. Buyers evaluating a working interest look closely at the well's production history, remaining reserves, current operating costs, and any known upcoming capital needs like workovers, since all of these directly affect the real net value of the interest after costs.",
+    "For owners who inherited a small working interest and would rather not manage ongoing cost calls, converting it to cash through a sale removes both the risk exposure and the administrative burden of tracking joint interest billing statements going forward. Buyers who specialize in these interests can also walk you through the joint operating agreement so you understand exactly what obligation you're transferring before signing anything."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between a working interest and a royalty interest?",
+   "answer": "A royalty interest receives a share of revenue with no cost obligation. A working interest receives a larger share of gross revenue but also carries a proportionate obligation to pay drilling and operating costs, meaning real financial risk if the well underperforms."
+  },
+  {
+   "question": "Can I lose money owning a working interest?",
+   "answer": "Yes. If costs exceed revenue, or if additional capital is called for repairs or a workover, a working interest owner is responsible for their proportionate share regardless of how the well is performing."
+  },
+  {
+   "question": "Do I have any say in how the well is operated?",
+   "answer": "Most individual working interest owners hold a non-operated interest, meaning the designated operator makes day-to-day decisions. Any voting rights or input would be defined in the joint operating agreement, if one exists for the interest."
+  },
+  {
+   "question": "Is it harder to sell a working interest than a royalty interest?",
+   "answer": "Generally yes, since buyers need to be prepared to take on ongoing cost exposure rather than simply collect payments. The pool of interested buyers is typically narrower and more specialized than for royalty interests."
+  }
+ ],
+ "status": "written",
+ "wordCount": 972,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-working-interests-sellmineralrightsohio-com.jpg",
+  "alt": "Working Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

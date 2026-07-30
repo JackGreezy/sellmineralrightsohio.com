@@ -1,0 +1,64 @@
+{
+ "slug": "homeworth-oh",
+ "title": "Sell Mineral Rights in Homeworth, OH",
+ "type": "city",
+ "kind": "cdp",
+ "county": "Columbiana",
+ "group": "Utica Flank",
+ "primaryKeyword": "sell mineral rights homeworth oh",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Homeworth, OH",
+ "metaDescription": "Homeworth sits in Columbiana County on the Utica flank. Learn how flank geology and old farm deeds shape mineral value in this area.",
+ "heroLead": "Homeworth sits near the Stark County line, in farmland that's changed remarkably little in the century since most mineral reservations here were first written.",
+ "intro": [
+  "Homeworth is a small unincorporated community straddling the Columbiana and Stark county line, in an area that's remained agricultural through most of its history. Sitting on the flank of the Utica/Point Pleasant fairway, this part of the state has seen limited horizontal drilling, and mineral ownership here is largely tied to old farm-family deeds rather than any recent leasing wave."
+ ],
+ "sections": [
+  {
+   "heading": "Checking which county your parcel is actually recorded in",
+   "paragraphs": [
+    "Because Homeworth sits near the Columbiana-Stark county line, it's worth confirming exactly which county's recorder holds your parcel's records before starting a title search, since filing in the wrong office wastes time. Your deed's legal description will state the county, and that's where the grantor/grantee index needs to be searched."
+   ]
+  },
+  {
+   "heading": "Flank-position value without much local activity",
+   "paragraphs": [
+    "With limited drilling directly around Homeworth, most mineral interests here are unleased, and value gets estimated against comparable regional activity rather than local production history. If your family does hold a lease or has received any royalty payment, no matter how small, that documentation gives a buyer a much more precise number to work from."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is Homeworth in Columbiana County or Stark County?",
+   "answer": "It straddles the line, so your specific parcel could be recorded in either county. The legal description on your deed will confirm which one applies."
+  },
+  {
+   "question": "Has there been drilling activity near Homeworth?",
+   "answer": "This area sits on the Utica flank, so development has been limited compared to core counties further south and east."
+  },
+  {
+   "question": "What if my family has held this land for generations without ever leasing the minerals?",
+   "answer": "That's common in this area. An unleased interest still has value, priced against comparable nearby activity and your confirmed net mineral acres."
+  },
+  {
+   "question": "What documents should I gather before contacting a buyer?",
+   "answer": "Your deed or severance instrument, any lease documents, and recent royalty statements if you have them. Those establish net mineral acres and decimal interest for a real quote."
+  },
+  {
+   "question": "How is value determined if there's no nearby drilling at all?",
+   "answer": "It's based on your confirmed net mineral acres and comparable recent activity in similar flank-position areas, priced more conservatively than an actively producing interest."
+  },
+  {
+   "question": "Should I get an attorney involved before selling an unleased interest?",
+   "answer": "It's not required for a straightforward sale, but if the chain of title has any gaps or unclear heirship, legal guidance can prevent problems before closing."
+  }
+ ],
+ "wordCount": 439,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-homeworth-oh.jpg",
+  "alt": "Sell Mineral Rights in Homeworth, OH location",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "slug": "non-participating-royalty",
+ "title": "Non-Participating Royalty (NPRI)",
+ "type": "interest-type",
+ "metaTitle": "NPRI Explained: Ohio Non-Participating Royalty",
+ "metaDescription": "Own a non-participating royalty interest (NPRI) in Ohio? Learn what it means, how it differs from mineral ownership, and what an NPRI is worth.",
+ "heroLead": "An NPRI pays like a mineral interest but decides nothing like one, and that gap is the whole story of what makes this interest type unusual.",
+ "intro": [
+  "Non-participating royalty interest, usually shortened to NPRI, is one of the more misunderstood pieces of Ohio mineral ownership, mostly because the name itself explains exactly what it is if you break it down slowly. It's a royalty interest, meaning the right to a share of production revenue, that is non-participating, meaning the owner has no say in whether the land gets leased, on what terms, or to which operator.",
+  "NPRIs get created a few different ways: a landowner sells the surface but carves out and keeps a royalty share, a mineral owner sells the executive rights to lease while keeping a royalty for themselves, or an NPRI gets created directly through a deed reservation. Whatever the origin, understanding what you can and can't do with one is the key to managing it correctly."
+ ],
+ "sections": [
+  {
+   "heading": "What NPRI owners can and can't control",
+   "paragraphs": [
+    "The core feature of an NPRI is that the owner has no executive rights, meaning they cannot sign a lease, negotiate lease terms, or choose which operator develops the land. That authority belongs entirely to whoever holds the mineral estate itself, sometimes called the executive interest. If you own an NPRI, you're entitled to your royalty percentage whenever production occurs, but you have no vote in whether or when that happens.",
+    "This distinction matters most when there's tension between the NPRI owner's interests and the mineral owner's. An NPRI owner obviously wants a lease signed and a well drilled as soon as possible, but the mineral owner controlling the executive rights might prioritize a different operator, hold out for better terms, or simply not lease at all for years. Ohio courts have generally held that the executive interest holder owes some duty of good faith to NPRI owners, but that duty doesn't give the NPRI owner direct control."
+   ]
+  },
+  {
+   "heading": "How NPRI royalty percentages get calculated",
+   "paragraphs": [
+    "An NPRI is typically expressed as a fraction of production, such as a 1/16 or 1/32 royalty, and that fraction is fixed regardless of what royalty rate the mineral owner later negotiates in a lease with an operator. If the mineral owner negotiates a generous royalty rate with the operator, the NPRI owner's fixed fraction stays the same, it doesn't automatically increase just because the underlying lease terms improved.",
+    "Reading the original deed language carefully matters here, since some NPRIs are defined as a fraction of total production, while others are defined as a fraction of whatever royalty the lease provides, and those two structures can produce meaningfully different payments depending on how a lease is eventually negotiated."
+   ]
+  },
+  {
+   "heading": "Selling an NPRI",
+   "paragraphs": [
+    "NPRIs can be sold like any other real property interest in Ohio, and buyers do purchase them, particularly when the underlying tract is producing or sits in an actively leased area. Because there's no executive control involved, valuing an NPRI is generally more straightforward than valuing a full mineral interest, it comes down almost entirely to the royalty fraction, current or likely production, and how active the surrounding play is.",
+    "One wrinkle worth checking before selling: because NPRIs are created through a specific deed reservation or conveyance, the exact language matters for confirming your fraction and whether it applies to oil and gas only or covers other minerals too. A courthouse title check clears this up before you're negotiating a price with a buyer."
+   ]
+  },
+  {
+   "heading": "NPRIs and the Dormant Mineral Act",
+   "paragraphs": [
+    "Ohio's Dormant Mineral Act generally applies to severed mineral interests broadly, and NPRIs, as a form of severed interest, can be subject to the same twenty-year use-it-or-lose-it framework depending on the specific facts. Because an NPRI owner has no power to sign a lease themselves, the interest depends entirely on someone else, the mineral owner holding executive rights, taking action to keep it active through leasing or production. That dependency makes it worth periodically confirming, through the county recorder's records, that the underlying mineral estate has stayed active."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can an NPRI owner block a lease they disagree with?",
+   "answer": "No. NPRI owners have no executive rights, meaning they can't sign, block, or negotiate a lease. That authority belongs solely to whoever holds the mineral estate's executive interest."
+  },
+  {
+   "question": "Does my NPRI royalty rate change if a new lease has better terms?",
+   "answer": "It depends on how your NPRI was originally defined. Some are a fixed fraction of total production regardless of lease terms, while others are tied to whatever royalty the lease provides, so the deed language determines the answer."
+  },
+  {
+   "question": "Is an NPRI worth less than owning the full mineral interest?",
+   "answer": "It's valued differently, not necessarily less, since it lacks executive control but still carries a real royalty right. Value depends mainly on the royalty fraction and the production or leasing activity on the underlying tract."
+  },
+  {
+   "question": "How do I know if I own an NPRI or a full mineral interest?",
+   "answer": "The original deed that created your interest will specify this. If it grants a royalty share while excluding the right to lease or execute agreements, it's an NPRI, and a title search can confirm the exact language if you're unsure."
+  }
+ ],
+ "status": "written",
+ "wordCount": 887,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-non-participating-royalty-sellmineralrightsohio-com.jpg",
+  "alt": "Non-Participating Royalty (NPRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

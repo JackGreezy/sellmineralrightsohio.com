@@ -1,0 +1,69 @@
+{
+ "slug": "leased-but-undrilled",
+ "title": "Leased but Undrilled",
+ "type": "situation",
+ "note": "bonus paid, no drilling yet",
+ "metaTitle": "Selling Leased but Undrilled Minerals in Ohio",
+ "metaDescription": "Signed an Ohio oil and gas lease but no well has been drilled yet? Learn what that means for value, how long leases last, and your options for selling.",
+ "heroLead": "A signed lease and a bonus check don't mean a well is coming, and plenty of Ohio owners have been waiting years to find out which way it will go.",
+ "intro": [
+  "Somewhere between owning raw, unleased minerals and collecting a monthly royalty check sits a strange middle stretch: you've leased your interest, you cashed the bonus payment, and then nothing happens. No rig shows up, no permit gets filed, no news from the operator at all. That silence is normal in Ohio's oil and gas industry, but it leaves owners in an odd position when they're trying to figure out what their interest is actually worth.",
+  "Understanding what your lease actually obligates the operator to do, and what happens if the primary term expires with no well drilled, matters more here than almost any other stage of ownership."
+ ],
+ "sections": [
+  {
+   "heading": "Reading your lease's primary term and extension clauses",
+   "paragraphs": [
+    "Most Ohio oil and gas leases run for a primary term of three to five years, during which the operator has the exclusive right to drill but no obligation to. If a well isn't spudded before the primary term ends, the lease typically expires on its own unless it includes an extension option, usually triggered by another bonus payment, or unless the lease contains a delay rental clause requiring periodic payments to keep it alive without drilling.",
+    "Some leases also include a pooling or unitization clause, which lets the operator combine your tract with neighboring parcels into a single drilling unit. If your acreage gets pooled into a unit and a well is drilled anywhere within that unit, even on a neighbor's tract, your lease is typically held by that production even though the rig never touched your specific parcel."
+   ]
+  },
+  {
+   "heading": "Why operators sit on leased acreage",
+   "paragraphs": [
+    "Leasing far more acreage than they immediately plan to drill is a normal part of how operators work in Ohio's Utica and Marcellus plays. They lease broadly to secure a large, contiguous drilling unit, then prioritize wells based on commodity prices, pipeline capacity, and which pads already have the best data from surrounding wells. A tract can sit leased and quiet for years simply because it's queued behind other units the operator considers a higher priority right now, not because anything is wrong with your acreage specifically.",
+    "That queue position is genuinely hard for an individual owner to predict from the outside, which is part of why leased-but-undrilled interests are valued more conservatively than producing ones, they carry real upside if a well eventually gets drilled, but no certainty about timing."
+   ]
+  },
+  {
+   "heading": "What a sale looks like at this stage",
+   "paragraphs": [
+    "Selling a leased-but-undrilled interest means selling the mineral estate subject to the existing lease. The buyer steps into your shoes as lessor, meaning they'd receive any future bonus, delay rental, or royalty payments tied to that lease going forward, and you'd walk away with a lump sum now instead of waiting on an uncertain drilling timeline.",
+    "Because there's no production history to point to, value here is driven more by the lease terms themselves, the royalty rate negotiated, how much of the primary term remains, and how active drilling has been on nearby units in the same county. A buyer familiar with the operator's activity in your area can usually tell you fairly quickly whether your unit looks close to development or further back in the queue."
+   ]
+  },
+  {
+   "heading": "What happens if the lease simply expires",
+   "paragraphs": [
+    "If the primary term runs out with no well drilled and no extension exercised, the lease terminates and your minerals revert to unleased status, free to lease again with a new operator or the same one under new terms. This isn't necessarily bad news, it can mean a fresh bonus payment and potentially better terms if drilling activity in the area has picked up since the original lease was signed.",
+    "Either way, it's worth confirming with the county recorder that an expired lease is properly released from the record, since an old lease that was never formally released can create a cloud on title that complicates a future sale even after it's no longer legally binding."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is my leased-but-undrilled interest worth less than a producing one?",
+   "answer": "Typically yes, since there's no royalty history to point to and drilling timing is uncertain. It still has real value tied to the lease terms and nearby activity, but buyers price in that uncertainty compared to a well already producing and paying."
+  },
+  {
+   "question": "Can I sell my minerals while they're under an active lease?",
+   "answer": "Yes. You'd be selling the mineral estate subject to the existing lease, and the buyer would take over your position as lessor, receiving any future bonus, rental, or royalty payments under that lease."
+  },
+  {
+   "question": "What if my lease's primary term is about to expire?",
+   "answer": "Check whether the lease includes an automatic extension or delay rental clause. If neither applies and no well has been drilled, the lease will likely expire on its own, returning your minerals to unleased status."
+  },
+  {
+   "question": "How do I find out if my tract is inside a drilling unit?",
+   "answer": "The Ohio Department of Natural Resources maintains unit and permit records by county, and your lease itself may already reference pooling authority. A courthouse or ODNR records check can confirm whether a unit has been formed around your acreage."
+  }
+ ],
+ "status": "written",
+ "wordCount": 909,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-leased-but-undrilled-sellmineralrightsohio-com.jpg",
+  "alt": "Leased but Undrilled mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

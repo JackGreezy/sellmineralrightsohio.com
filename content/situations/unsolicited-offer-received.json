@@ -1,0 +1,74 @@
+{
+ "slug": "unsolicited-offer-received",
+ "title": "Got an Unsolicited Offer?",
+ "type": "situation",
+ "note": "benchmarking mailbox offers",
+ "metaTitle": "Got an Unsolicited Ohio Mineral Rights Offer?",
+ "metaDescription": "Received a surprise mineral rights offer letter in Ohio? Learn how to read it, what it signals about nearby activity, and how to check if it's fair.",
+ "heroLead": "A letter offering to buy minerals you'd nearly forgotten you owned usually means something is happening nearby, whether or not the offer itself is fair.",
+ "intro": [
+  "Unsolicited mineral offers show up in Ohio mailboxes for a reason: someone, whether a landman, a buying company, or an operator's acquisition arm, has flagged your county, and often your specific township, as worth pursuing. That's genuinely useful information even before you consider the number on the page, because these letters rarely go out at random. The question worth answering first isn't whether to accept, it's why now, and why you.",
+  "Treating the letter as a starting point for research rather than a decision to make on the spot tends to produce a much better outcome either way, whether you end up selling to that buyer, a different one, or holding onto the interest."
+ ],
+ "sections": [
+  {
+   "heading": "What the timing of an offer usually signals",
+   "paragraphs": [
+    "Buyers and landmen send these letters in waves tied to real activity: a new well permit filed nearby, a lease renewal push by an operator expanding a unit, or a period of higher commodity prices making acquisition attractive. If you've suddenly received an offer after years of silence, it's worth checking the Ohio Department of Natural Resources' well database for recent permits or completions in your township, since that context often explains the timing and gives you a sense of whether more activity, and potentially better offers, might follow.",
+    "It's also common for several buyers to be working the same area at once. Receiving one letter doesn't mean it's the only offer you'll get, and comparing a couple of offers, even informally, is one of the simplest ways to sanity-check whether a number is reasonable."
+   ]
+  },
+  {
+   "heading": "Reading the letter itself",
+   "paragraphs": [
+    "Look closely at what's actually being offered: is it your full mineral interest, just a royalty interest, or a specific term? Is the price a per-acre number, and does it match what your deed actually shows in net mineral acres, or is it based on an assumed acreage the buyer hasn't verified? Vague language, a very short deadline to respond, or pressure to sign without reviewing the deed language are all worth treating as reasons to slow down rather than move faster.",
+    "A legitimate buyer should be comfortable with you taking a reasonable amount of time to review the offer, check your title, and even get a second opinion. Reluctance to allow that is itself useful information."
+   ]
+  },
+  {
+   "heading": "Checking the offer against real activity",
+   "paragraphs": [
+    "Beyond the well permit database, county recorder records will show any recent leases or mineral deeds filed nearby, which can give a rough sense of what similar interests in your area have recently commanded. This isn't a perfect substitute for a professional appraisal, but it's enough to tell you whether an offer is in a reasonable range or noticeably below what activity in your county would suggest.",
+    "If your interest is producing and you're receiving royalty checks, gather a few recent statements before responding. A buyer working from real royalty history can give a more grounded number, and you'll be able to tell whether their offer roughly lines up with that income and the well's decline trend."
+   ]
+  },
+  {
+   "heading": "You're not obligated to respond at all",
+   "paragraphs": [
+    "It's worth remembering that an unsolicited offer creates no obligation. You can ignore it, decline it, counter it, or shop it to other buyers, and nothing about receiving the letter puts you on a clock unless you choose to engage with the deadline it states. If your title has any complications, an heir who hasn't been added to the deed, a possible Dormant Mineral Act question, or an old lease that was never released, it's worth resolving those before signing anything, regardless of which buyer you eventually go with."
+   ]
+  },
+  {
+   "heading": "When a low-ball offer is actually useful information",
+   "paragraphs": [
+    "Even an offer you have no intention of accepting can be worth something. A lowball number still confirms that a buyer sees enough value in your area to reach out at all, and comparing it against what you learn from ODNR permit data or courthouse lease records can help you decide whether to hold, shop the interest elsewhere, or simply wait for drilling activity to develop further before engaging with any buyer at all."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did I suddenly get a mineral rights offer after years of nothing?",
+   "answer": "It usually means new permitting, leasing, or acquisition activity has picked up near your tract. Checking recent well permits in your township through Ohio's well database often explains the timing."
+  },
+  {
+   "question": "Should I accept the first offer I receive?",
+   "answer": "Not without checking it against something concrete, such as your own royalty history if the interest is producing, or nearby lease and sale activity if it's not. Comparing at least one other offer or opinion is a reasonable step before deciding."
+  },
+  {
+   "question": "Is it normal for these letters to have a short deadline?",
+   "answer": "Some buyers do use deadlines to encourage a quick response, but a legitimate offer shouldn't fall apart just because you took a few extra weeks to review your title and compare it against other information."
+  },
+  {
+   "question": "What if the offer doesn't match my actual net mineral acreage?",
+   "answer": "That's worth flagging directly with the buyer. Offers based on an assumed acreage that doesn't match your deed should be corrected before you consider signing anything, since it changes the real value of what's being offered."
+  }
+ ],
+ "status": "written",
+ "wordCount": 923,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-sellmineralrightsohio-com.jpg",
+  "alt": "Got an Unsolicited Offer? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

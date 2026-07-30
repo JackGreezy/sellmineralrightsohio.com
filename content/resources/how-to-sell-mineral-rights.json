@@ -1,0 +1,64 @@
+{
+ "slug": "how-to-sell-mineral-rights",
+ "title": "How to Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Sell Mineral Rights in Ohio, Step by Step",
+ "metaDescription": "A plain walkthrough of how selling Ohio mineral rights actually works, from confirming ownership to closing, with the questions to ask any buyer.",
+ "heroLead": "Selling mineral rights is a smaller, slower cousin of selling real estate — same recorder's office, same title chain, but a different set of numbers driving the value.",
+ "intro": [
+  "If you have never sold a mineral interest before, the process can feel opaque simply because nobody explains it in order. There is a sequence to it, and once you see the sequence, most of the mystery goes away. This is that sequence, written the way we would walk a first-time seller through it on the phone."
+ ],
+ "sections": [
+  {
+   "heading": "Step one: confirm what you actually own",
+   "paragraphs": [
+    "Before anyone can put a number on your minerals, you need clarity on the interest itself. Are you selling all of your minerals under a tract, or just the interest in a specific well or unit? Is the interest currently leased, and if so, are you selling the mineral fee subject to that lease, or a royalty interest carved out of it? Ohio owners frequently hold fractional interests inherited across siblings or cousins, so your actual net mineral acreage may be a fraction of the gross acreage on the original deed. Pulling your deed and, if the tract has produced, your division order will answer most of this before you talk to a buyer.",
+    "This is also the point to check whether the interest has any activity on record in the last twenty years — a lease, production, or a tax filing. Ohio's Dormant Mineral Act ties abandonment risk to a twenty-year gap in activity, and a buyer's title team will flag it if your interest has been quiet that long. It is worth knowing the answer before you are mid-negotiation."
+   ]
+  },
+  {
+   "heading": "Step two: get more than one look at value",
+   "paragraphs": [
+    "Mineral value in Ohio's Utica and Marcellus counties moves with three things: whether the tract is currently producing, the decline curve of the well or wells draining it, and how active permitting and leasing has been nearby in the last two years. A tract in the core of Belmont or Guernsey County with a producing well on it is a different conversation than a flank-area tract in a county where operators have not drilled in a decade. Ask any buyer to walk you through how they arrived at their number using these factors, not only hand you a figure. A buyer who cannot explain their math is not one you want to negotiate with.",
+    "It is reasonable to get more than one offer, and reasonable buyers expect that. What varies between offers is usually not only the headline price but the terms — how fast they close, whether they cover title curative costs, and whether the offer is contingent on things outside your control."
+   ]
+  },
+  {
+   "heading": "Step three: due diligence, deed, and closing",
+   "paragraphs": [
+    "Once you accept an offer, the buyer's title company or attorney will run a title search covering your chain of ownership, typically back several decades, sometimes to the original severance. This is where inherited interests most often hit friction: a missing probate record, an unrecorded prior deed, or an heir who was never formally added to title. None of these are unusual, and most are fixable, but they take time, so a realistic closing window is often several weeks rather than several days once curative work is needed.",
+    "The actual transfer happens through a mineral deed, recorded with the county recorder in the county where the minerals sit. Once recorded, you are done — no ongoing obligations, no future royalty checks, no more decisions to make about that interest. Funds are typically wired or mailed at closing, and you should get a copy of the recorded deed for your own records."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does it take to sell mineral rights in Ohio?",
+   "answer": "A clean title with no curative issues can close in a couple of weeks. A tract with an incomplete probate record or missing heirs on title commonly takes four to eight weeks while the title issue is resolved."
+  },
+  {
+   "question": "Do I need an attorney to sell my mineral rights?",
+   "answer": "It is not legally required, but it is a good idea if your title has any complexity, such as unresolved heirship, a fractional interest split across relatives, or a possible dormancy issue. A straightforward, clean-title sale can move without one."
+  },
+  {
+   "question": "Can I sell just part of my mineral interest?",
+   "answer": "Yes. Owners commonly sell a portion of their net mineral acres or a term interest and keep the rest, which lets you take some cash now while retaining upside if activity picks up later."
+  },
+  {
+   "question": "What if my mineral rights are currently leased?",
+   "answer": "You can still sell. The sale transfers your interest subject to the existing lease, and the buyer steps into your position as lessor, including any future royalty payments under that lease."
+  },
+  {
+   "question": "Will I owe taxes on the sale?",
+   "answer": "Generally yes, mineral rights sales are typically treated as a sale of real property for tax purposes. Talk to your CPA or tax advisor about your specific basis and gain before you close."
+  }
+ ],
+ "wordCount": 858,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-how-to-sell-mineral-rights-sellmineralrightsohio-com.jpg",
+  "alt": "How to Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "slug": "mineral-rights",
+ "title": "Mineral Rights",
+ "type": "interest-type",
+ "metaTitle": "What Are Mineral Rights? Ohio Owner's Guide",
+ "metaDescription": "Learn what mineral rights actually mean in Ohio: how they differ from surface ownership, what you can do with them, and how they get valued or sold.",
+ "heroLead": "Owning mineral rights in Ohio means owning what's underneath the land, not the land itself, and that distinction changes everything about how the interest works.",
+ "intro": [
+  "The phrase 'mineral rights' gets used loosely, sometimes to mean a royalty check, sometimes a working interest, sometimes just a vague sense of owning something related to oil and gas. Legally in Ohio, mineral rights specifically refer to ownership of the oil, gas, coal, and other minerals beneath a tract of land, which can be owned separately from the surface itself through a legal process called severance.",
+  "Understanding what that ownership actually includes, and what it doesn't, is the starting point for almost every decision an Ohio mineral owner eventually has to make, whether that's leasing, selling, or just figuring out what a deed from three generations back actually means."
+ ],
+ "sections": [
+  {
+   "heading": "How minerals get separated from the surface",
+   "paragraphs": [
+    "In Ohio, a landowner can sell or reserve the mineral rights separately from the surface at any point, most commonly through a severance deed. Once that happens, two distinct estates exist on the same piece of ground: the surface estate, which covers farming, building, and everything visible above ground, and the mineral estate, which covers oil, gas, coal, and other subsurface resources. These two estates can be owned by entirely different people, sometimes for generations, without either party having any relationship with the other.",
+    "This is extremely common across eastern and central Ohio, where coal and gas transactions going back to the early and mid-1900s severed minerals from farms that later changed hands many times over on the surface side alone. It's why you can find current surface owners with no mineral rights at all, sitting on land where the actual mineral owner lives out of state and has never visited the property."
+   ]
+  },
+  {
+   "heading": "What owning the mineral estate actually lets you do",
+   "paragraphs": [
+    "As a mineral owner, you generally have the right to lease your interest to an oil and gas operator in exchange for a bonus payment and a royalty on future production, or to sell the interest outright to another party. You typically don't have an automatic right to access the surface yourself to develop the minerals, Ohio law generally grants the mineral estate an implied right of reasonable surface use for development, which is part of why lease negotiations often address surface access and damages even when the mineral and surface owners are different people.",
+    "You also generally have the right to know what's happening with your interest: division order statements when a well is producing, and the ability to check public well permit and production records maintained by the Ohio Department of Natural Resources for any activity near your tract."
+   ]
+  },
+  {
+   "heading": "Mineral rights versus the specific interests carved from them",
+   "paragraphs": [
+    "Full mineral ownership can itself be divided further into more specific interest types. A royalty interest is the right to a share of production revenue without the cost-sharing burden of drilling. A working interest carries both the upside of production and the obligation to pay a share of drilling and operating costs. An overriding royalty interest is typically carved out of a lease itself rather than the mineral estate directly. Each of these behaves differently, gets valued differently, and comes with a different level of financial exposure, which is why it matters to know exactly which type of interest your deed actually describes rather than assuming 'mineral rights' covers all of it."
+   ]
+  },
+  {
+   "heading": "The Dormant Mineral Act and why ongoing ownership isn't automatic",
+   "paragraphs": [
+    "Because severed mineral interests can sit untouched for generations, Ohio adopted the Dormant Mineral Act to address interests that have gone unused for twenty years or more. If there's been no production, no lease, and no recorded claim to preserve the interest in that window, the surface owner can pursue reuniting the mineral rights with the surface estate. This makes Ohio somewhat unusual: simply holding a deed isn't always enough on its own to guarantee a severed mineral interest stays yours indefinitely if it's never used or actively preserved."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between mineral rights and surface rights?",
+   "answer": "Surface rights cover the visible land, buildings, and farming use. Mineral rights cover oil, gas, coal, and other resources beneath the ground, and in Ohio the two can be owned by completely different people once they've been legally severed."
+  },
+  {
+   "question": "Can I own mineral rights without owning any land?",
+   "answer": "Yes. Once minerals are severed from the surface through a deed, the mineral estate exists as its own separate property right, which can be owned, inherited, leased, or sold independently of who owns the surface."
+  },
+  {
+   "question": "Do I need to do anything to keep my mineral rights active?",
+   "answer": "Under Ohio's Dormant Mineral Act, a severed interest can be at risk of abandonment if it goes twenty years with no production, lease, or recorded preservation claim. Filing a preservation claim periodically, or leasing the interest, keeps it active."
+  },
+  {
+   "question": "How do I find out if my mineral rights are severed from my land?",
+   "answer": "A title search at the county recorder's office where the property sits will show whether a severance deed exists in the chain of title, and if so, who currently holds the mineral interest on record."
+  }
+ ],
+ "status": "written",
+ "wordCount": 891,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightsohio-com.jpg",
+  "alt": "Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "slug": "royalty-statements-guide",
+ "title": "Reading Your Royalty Statements",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Read an Ohio Oil & Gas Royalty Statement",
+ "metaDescription": "A line-by-line guide to reading your Ohio royalty statement: gross value, deductions, decimal interest, and what a falling check actually means.",
+ "heroLead": "A royalty statement looks like a wall of numbers the first time you open one, but it is really just five or six figures repeated every month, once you know what each one means.",
+ "intro": [
+  "If you receive royalty checks from an Ohio well, the statement that comes with each one carries more information than most owners ever use. Learning to read it properly tells you whether your interest is being handled correctly and gives you a much clearer sense of what the interest might be worth if you ever decide to sell it."
+ ],
+ "sections": [
+  {
+   "heading": "The core numbers on every statement",
+   "paragraphs": [
+    "Gross value is the total sale value of the oil or gas produced and attributed to your interest before anything is subtracted. Deductions typically follow, covering costs like gathering, compression, transportation, and processing, which the operator is generally permitted to subtract under most Ohio leases unless the lease specifically prohibits it. Net value is what remains after deductions. Your decimal interest, sometimes called your division order decimal, is the fraction of the well's production actually attributed to you, and it accounts for your net mineral acres relative to the total spacing unit, your royalty fraction under the lease, and any further split among co-owners of your tract.",
+    "Volume figures, barrels of oil or MCF of gas, show what was actually produced and sold in that period, and the price per unit shows what it sold for. Multiplying volume by price gives you the gross value line, so if that math does not roughly check out, it is worth a call to the operator's owner relations department, not an assumption of error on your part."
+   ]
+  },
+  {
+   "heading": "Why the check size changes month to month",
+   "paragraphs": [
+    "Two things move a royalty check independent of anything wrong happening: production volume and commodity price. Ohio Utica and Marcellus wells typically show their highest output in the first six to eighteen months, then decline, sometimes steeply, before settling into a long, shallow tail that can continue for years at a much lower rate. A check that is a fraction of what it was two years ago is often simply the well following a normal decline curve, not a sign of a problem. Commodity price swings layer on top of that and can cause a check to jump or drop even in a month with similar production volume.",
+    "It is worth tracking your statements over time rather than reacting to any single month, since a single low check can reflect a temporary price dip, a shut-in period for maintenance, or a normal seasonal gas price swing, while a sustained downward trend over a year or more usually reflects genuine decline."
+   ]
+  },
+  {
+   "heading": "What your statements tell you if you are thinking about selling",
+   "paragraphs": [
+    "If you are considering a sale, your recent statements are the single best piece of documentation you can hand a buyer, since they show real production and real revenue rather than an estimate. A buyer building a valuation will want twelve to twenty-four months of statements if you have them, because that history lets them model your decline curve directly instead of relying on broader well-level data reported to the state. Owners who keep their statements organized, even loosely, tend to get faster, more confidently modeled offers than owners who cannot produce any history at all.",
+    "If your statements have stopped arriving altogether, that is worth following up on directly with the operator rather than assuming production simply ended. A well can be temporarily shut in for maintenance, a change of operator can cause a gap while ownership records transfer, or a mailing address on file may be out of date. None of these automatically means the interest has lost value, but they are worth resolving before you assume anything about the well's status."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why does my statement show deductions I never agreed to?",
+   "answer": "Most Ohio leases permit the operator to deduct post-production costs like gathering and transportation unless the lease specifically says otherwise. Review your lease's language on deductions if the amounts seem unusually high."
+  },
+  {
+   "question": "What is a decimal interest and why is mine such a small number?",
+   "answer": "It is your fractional share of the well's total production, and it is normal for it to look small, since it reflects your net mineral acres divided across the full spacing unit, further divided if you share ownership with other heirs."
+  },
+  {
+   "question": "My check dropped by half. Should I be worried?",
+   "answer": "Not necessarily. Ohio wells commonly see sharp declines in the first few years, and price swings can also cause a big month-to-month change. Track it over several months before concluding something is wrong."
+  },
+  {
+   "question": "Can I request past statements I never received?",
+   "answer": "Yes, most operators' owner relations departments can reissue statement history on request, and this history is useful both for your records and for any future sale."
+  },
+  {
+   "question": "Does a shrinking royalty check mean my mineral rights are worth less?",
+   "answer": "It generally does affect value, since a buyer's valuation is built from expected future production, and a well into decline has less remaining value than a newer one, though it is one input among several."
+  }
+ ],
+ "wordCount": 876,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-sellmineralrightsohio-com.jpg",
+  "alt": "Reading Your Royalty Statements mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

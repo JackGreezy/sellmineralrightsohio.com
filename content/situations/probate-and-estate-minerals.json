@@ -1,0 +1,69 @@
+{
+ "slug": "probate-and-estate-minerals",
+ "title": "Minerals in Probate & Estates",
+ "type": "situation",
+ "note": "executor/estate sale mechanics",
+ "metaTitle": "Selling Mineral Rights Through an Ohio Estate",
+ "metaDescription": "Handling mineral rights as an executor or administrator of an Ohio estate? Learn the probate steps, authority needed, and how an estate sale works.",
+ "heroLead": "An executor's job with mineral rights isn't only listing them on an inventory, it's proving the estate actually has the legal authority to sell them.",
+ "intro": [
+  "When mineral rights show up in an Ohio estate, they usually surprise the executor at least a little. Maybe the deceased never mentioned owning them, or the family knew about a royalty check but never saw the underlying deed. Either way, before any decision about keeping or selling gets made, the estate has to go through the same basic steps as any other real property in probate, because that's legally what a mineral interest is in Ohio: a form of real property, severed from the surface but still real property.",
+  "For an executor or administrator working through this for the first time, understanding what authority you actually have, and when, prevents mistakes that can slow down or unwind a sale later."
+ ],
+ "sections": [
+  {
+   "heading": "Getting the interest onto the estate inventory",
+   "paragraphs": [
+    "The mineral interest needs to be identified and listed on the probate inventory filed with the Ohio probate court, ideally with the legal description pulled directly from the original severance deed or a prior conveyance, not only a general description like 'mineral rights in Guernsey County.' If the family isn't sure exactly what was owned, a courthouse records search in the county where the property sits, cross-referenced against any royalty statements the deceased received, usually clarifies it.",
+    "If the interest was overlooked when the estate was originally opened, most Ohio probate courts allow a supplemental inventory to be filed later, which is common when a mineral interest surfaces well after the rest of the estate has been settled."
+   ]
+  },
+  {
+   "heading": "What authority the executor actually has to sell",
+   "paragraphs": [
+    "Whether an executor can sell mineral rights without additional court approval depends on the specific powers granted in the will, or under Ohio's statutory authority for administrators if there's no will. Some wills grant broad power to sell real property, including minerals, without further court involvement. Others require the executor to petition the probate court for authority to sell, which involves a filing, sometimes a hearing, and court approval of the sale terms before closing.",
+    "Even with broad authority under the will, it's worth confirming with the probate attorney handling the estate exactly what documentation a title company or mineral buyer will expect to see, since buyers typically want proof of the executor's authority alongside the deed itself before funding a purchase."
+   ]
+  },
+  {
+   "heading": "Selling before versus after distribution to heirs",
+   "paragraphs": [
+    "There are two basic paths. The estate itself can sell the mineral interest while it's still open, with the proceeds then distributed to the heirs according to the will or Ohio's intestate succession rules, which is often the simpler route when there are multiple heirs who'd otherwise each need to sign off individually later. Alternatively, the interest can be formally distributed to the heirs first, with each heir then deciding independently whether to keep or sell their individual share.",
+    "Selling through the estate tends to be faster when heirs are already in general agreement about selling, since it avoids running the same sale process multiple times with multiple individual sellers. When heirs disagree about whether to sell at all, distributing first and letting each heir decide separately is often the more practical route."
+   ]
+  },
+  {
+   "heading": "Watching for dormant or clouded title during probate",
+   "paragraphs": [
+    "Probate is a natural moment to check whether an old mineral interest has any Dormant Mineral Act exposure, since these interests frequently trace back through multiple prior generations without much recorded activity in between. If the deceased never leased, never received a royalty payment, and never filed anything to preserve the interest for twenty years or more, a surface owner may already have grounds to claim abandonment, which is worth resolving before the estate distributes or sells the interest rather than after.",
+    "A quick title check at the county recorder's office as part of settling the estate can catch this early, when there's still time to file a preservation claim if needed."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can an executor sell mineral rights without going back to probate court?",
+   "answer": "It depends on the powers granted in the will or by Ohio statute for administrators. Some executors have broad authority to sell real property, including minerals, without further court approval; others need to petition the court first. The probate attorney handling the estate can confirm which applies."
+  },
+  {
+   "question": "What if the mineral interest wasn't listed on the original probate inventory?",
+   "answer": "Most Ohio probate courts allow a supplemental inventory to be filed once an overlooked asset like a mineral interest is discovered, even after the rest of the estate has been settled."
+  },
+  {
+   "question": "Should the estate sell the minerals or distribute them to heirs first?",
+   "answer": "Selling through the estate is often simpler when heirs generally agree on selling, since it avoids repeating the sale process for each individual heir. Distributing first makes more sense when heirs want to make independent decisions about keeping or selling their share."
+  },
+  {
+   "question": "Does probate reset the Dormant Mineral Act clock?",
+   "answer": "No, inheritance alone doesn't reset the twenty-year clock. If the interest sat unused with no lease, production, or preservation filing before the death, that exposure carries over to the estate and the heirs, which is worth checking during probate."
+  }
+ ],
+ "status": "written",
+ "wordCount": 895,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-probate-and-estate-minerals-sellmineralrightsohio-com.jpg",
+  "alt": "Minerals in Probate & Estates mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

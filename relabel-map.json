@@ -1,0 +1,532 @@
+{
+  "notes": "Faithful Suzlon relabel for the Ohio county mineral docket. The donor's real floating navigation, full-bleed hero, staggered offering field, teal and humble-beige editorial bands, broad resource track, platform index, Monda typography, amber accents, contact form geometry, and responsive footer remain the visual system.",
+  "refhost": "suzlon-com",
+  "templates": {
+    "home": "home.html.ref",
+    "about": "about.html.ref",
+    "contact": "contact.html.ref",
+    "index": "index.html.ref",
+    "slug": "slug.html.ref"
+  },
+  "scripts": "strip",
+  "external_css_images": "strip",
+  "chrome": {
+    "header": {
+      "selector": "nav.flex.items-center.justify-between",
+      "tag": "header",
+      "force_tag": true,
+      "wrap_header": false,
+      "strip_global": [
+        "body > iframe",
+        "body > noscript",
+        "[class*=cookie]",
+        "[id*=cookie]",
+        "[class*=consent]",
+        ".grecaptcha-badge"
+      ],
+      "strip": [],
+      "logo_slot": "a.h-5",
+      "footer_logo_slot": "footer > div.hidden a[aria-label=\"Home\"]",
+      "nav_button_selector": "div.hidden > button",
+      "html_map": {
+        "header > div > div:last-child": "<div class=\"flex gap-3 items-center text-ever-teal-100\"><a class=\"hidden lg:flex font-medium text-[14px] leading-[20px] tracking-[-0.28px] whitespace-nowrap text-ever-teal-100\" href=\"tel:+13305551034\">330-555-1034</a><a class=\"hidden lg:flex items-center justify-center rounded-[4px] bg-ever-teal-80 px-4 py-3 font-semibold text-[13px] leading-[16px] tracking-[0.28px] whitespace-nowrap text-white\" href=\"/contact#contact-form\">Request an Ohio Review</a><a aria-label=\"Menu\" class=\"flex size-[24px] shrink-0 cursor-pointer items-center justify-center touch-manipulation\" href=\"#mobile-navigation-fallback\"><span></span><span></span><span></span></a></div>"
+      },
+      "mobile_menu_slot": "nav[class*=\"mt-[40px]\"]",
+      "burger_selector": "a[aria-label=\"Menu\"]",
+      "burger_slot": "header > div",
+      "ensure_nav": false,
+      "repair_css": "header.flex.items-center.justify-between{position:sticky!important;top:12px!important;z-index:1000!important;width:min(calc(100% - 32px),1360px)!important;min-height:70px!important;margin:12px auto!important}header .rr-wordmark{display:flex!important;flex-direction:column!important;justify-content:center!important;min-width:180px!important;color:#007078!important;line-height:1!important;text-decoration:none!important}header .rr-wm-1{font-size:15px!important;font-weight:800!important;letter-spacing:.03em!important}header .rr-wm-2{font-size:11px!important;font-weight:700!important;letter-spacing:.18em!important;margin-top:4px!important}header>div{min-width:0!important;gap:clamp(14px,4vw,80px)!important}header div.hidden{gap:clamp(12px,2.2vw,32px)!important}header div.hidden>a{min-height:44px!important;display:flex!important;align-items:center!important;color:#007078!important;text-decoration:none!important;white-space:nowrap!important;font-size:clamp(13px,1vw,16px)!important;font-weight:500!important}@media(min-width:1024px) and (max-width:1199px){header div.hidden>a:nth-child(n+3){display:none!important}header>div>div:last-child>div{gap:8px!important}header>div>div:last-child a{font-size:12px!important;padding-left:10px!important;padding-right:10px!important}}@media(max-width:1023px){header.flex.items-center.justify-between{top:8px!important;width:calc(100% - 20px)!important;margin:8px auto!important}header .rr-wordmark{min-width:150px!important}header>div>div:last-child a:not(.rr-burger){display:none!important}}"
+    },
+    "footer": {
+      "selector": "footer.w-full.overflow-hidden.bg-ever-teal-100",
+      "tag": "footer",
+      "strip": [
+        "footer > div:first-child",
+        "footer > div.hidden .flex.flex-wrap",
+        "img",
+        "picture",
+        "svg",
+        "video",
+        "source",
+        "canvas",
+        "iframe",
+        "script",
+        "noscript"
+      ],
+      "columns": [
+        {
+          "heading": "Selling in Ohio",
+          "links": [
+            ["Selling Situations", "/situations"],
+            ["Interest Types", "/interest-types"],
+            ["Utica Shale Guide", "/basins"]
+          ]
+        },
+        {
+          "heading": "Owner Research",
+          "links": [
+            ["Owner Resources", "/resources"],
+            ["Mineral Investing", "/investing"],
+            ["1031 Exchange Guides", "/exchange-1031"]
+          ]
+        },
+        {
+          "heading": "Ohio Areas",
+          "links": [
+            ["All Ohio Areas", "/locations"],
+            ["Canton", "/locations/canton-oh"],
+            ["Stark County", "/locations/stark-county"],
+            ["Harrison County", "/locations/harrison-county"]
+          ]
+        },
+        {
+          "heading": "The County Docket",
+          "links": [
+            ["About", "/about"],
+            ["How to Sell", "/resources/how-to-sell-mineral-rights"],
+            ["Request a Review", "/contact#contact-form"]
+          ]
+        },
+        {
+          "heading": "Site Information",
+          "links": [
+            ["Privacy Policy", "/privacy"],
+            ["Terms", "/terms"],
+            ["Contact", "/contact"]
+          ]
+        }
+      ],
+      "column_selector": "footer > div.hidden div.grid > div.flex",
+      "replace_column_siblings": true,
+      "column_heading_selector": ":scope > p:first-child",
+      "drop_link_pattern": "Facebook|YouTube|LinkedIn|Instagram|GSTN|PAN Details|Sitemap|Disclaimer",
+      "link_map": {
+        "privacy policy": ["Privacy Policy", "/privacy"],
+        "terms of use": ["Terms", "/terms"]
+      },
+      "text_map": {
+        "© 2026 Suzlon Energy Ltd. All Rights Reserved": "© 2026 Sell Mineral Rights Ohio. All rights reserved."
+      },
+      "tagline_pattern": "Suzlon Energy Ltd|All Rights Reserved",
+      "copyright_year": 2026,
+      "ensure_ia": true,
+      "repair_css": "footer.w-full.overflow-hidden.bg-ever-teal-100{display:block!important;position:relative!important;overflow:hidden!important}footer>div.hidden{display:block!important}footer>div.hidden>div>div{gap:clamp(42px,7vw,110px)!important}footer>div.hidden div.grid{display:grid!important;grid-template-columns:repeat(5,minmax(0,1fr))!important;gap:clamp(22px,3vw,52px)!important}footer .rr-wordmark{display:flex!important;flex-direction:column!important;color:#fff!important;text-decoration:none!important;line-height:1!important}footer .rr-wm-1{font-size:18px!important;font-weight:800!important}footer .rr-wm-2{font-size:12px!important;font-weight:700!important;letter-spacing:.2em!important;margin-top:5px!important}footer .rr-footer-map{margin-top:40px!important;border-top:1px solid rgba(255,255,255,.3)!important;padding-top:32px!important}footer .rr-footer-map iframe{display:block!important;width:100%!important;height:300px!important;border:0!important}@media(max-width:900px){footer>div.hidden div.grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}footer>div.hidden>div>div{display:block!important}}@media(max-width:560px){footer>div.hidden div.grid{grid-template-columns:1fr!important}}"
+    }
+  },
+  "purge": {
+    "brand": [
+      "\\bSuzlon\\b",
+      "suzlon\\.com",
+      "Good Energies That Work"
+    ],
+    "content": [
+      "renewable energy",
+      "wind turbines",
+      "Wind 2\\.0",
+      "Blue Sky",
+      "S175",
+      "S163",
+      "S144",
+      "S133",
+      "S120",
+      "MW Platform",
+      "Vinod Tanti",
+      "Girish Tanti",
+      "Ajay Kapur",
+      "Tulsi Tanti",
+      "Tata Power",
+      "Sunsure Energy",
+      "Pralhad Joshi",
+      "Corporate Knights",
+      "ResGen",
+      "Windpower Monthly",
+      "Levelised cost",
+      "R&D Centres",
+      "India",
+      "China",
+      "Sri Lanka",
+      "Australia",
+      "Germany",
+      "Denmark",
+      "Wind Business",
+      "Solar Business",
+      "Media & Careers",
+      "Investor Relations",
+      "Manufacturing Facilities",
+      "Annual Domestic Capacity",
+      "Vertically Integrated"
+    ],
+    "strip_selectors": [
+      "[class*=cookie]",
+      "[id*=cookie]",
+      "[class*=consent]",
+      "a[class*=\"group/viewall\"] img",
+      "button[type=\"submit\"] img",
+      "svg image",
+      "footer.mx-auto.w-full.max-w-\\[1440px\\]",
+      ".grecaptcha-badge"
+    ],
+    "script_markers": [
+      "dataLayer",
+      "googletagmanager",
+      "facebook",
+      "linkedin",
+      "instagram",
+      "youtube",
+      "recaptcha"
+    ],
+    "social_pattern": "facebook\\.com/Suzlon|youtube\\.com/@suzlon|linkedin\\.com/company/suzlon|instagram\\.com/suzlon|x\\.com/Suzlon"
+  },
+  "buttons": {
+    "class": "group/viewall flex gap-[2px] items-center relative shrink-0 w-fit"
+  },
+  "forms": {
+    "form_class": "flex w-full min-w-0 max-w-[600px] flex-col gap-4",
+    "input_class": "min-w-0 w-full border-0 bg-transparent p-0 font-normal text-[16px] leading-[24px] tracking-[-0.32px] text-dark-1 focus:outline-none placeholder:text-dark-2 placeholder:opacity-50",
+    "group_class": "flex items-center w-full border-b border-dark-2 px-4 py-6 transition-colors focus-within:border-ever-teal-100"
+  },
+  "pages": {
+    "home": {
+      "signature": [
+        "section[aria-label=\"Homepage hero video\"]",
+        "section.relative.z-20.bg-humble-beige",
+        "section.bg-humble-beige.overflow-x-clip"
+      ],
+      "semantic_title_selector": "section[aria-label=\"Homepage hero video\"] h1",
+      "strip": [
+        "section.flex.w-full.flex-col.gap-8 [class*=\"lg:grid\"][class*=\"lg:max-w\"]"
+      ],
+      "repair_css": "section[data-rr-band=\"situations\"] ul[class*=\"lg:hidden\"]{display:grid!important;grid-template-columns:repeat(5,minmax(0,1fr))!important;gap:20px!important}section[data-rr-band=\"situations\"] ul[class*=\"lg:hidden\"]>li{min-width:0!important;min-height:390px!important;grid-column:auto!important}section[data-rr-band=\"situations\"] ul[class*=\"lg:hidden\"] a,section[data-rr-band=\"situations\"] ul[class*=\"lg:hidden\"] a>div{height:100%!important;min-height:390px!important}section[data-rr-band=\"resources\"] .embla-viewport{overflow-x:auto!important;scroll-snap-type:x mandatory!important;scrollbar-width:none!important}section[data-rr-band=\"resources\"] .embla-viewport>ul{transform:none!important;width:max-content!important}section[data-rr-band=\"resources\"] .embla-viewport li{scroll-snap-align:start!important}section[data-rr-band=\"basins\"] p{white-space:normal!important;overflow-wrap:normal!important;word-break:normal!important}@media(max-width:1199px){section[data-rr-band=\"situations\"] ul[class*=\"lg:hidden\"]{grid-template-columns:repeat(3,minmax(0,1fr))!important}}@media(max-width:760px){section[data-rr-band=\"situations\"] ul[class*=\"lg:hidden\"]{grid-template-columns:1fr!important}section[data-rr-band=\"situations\"] ul[class*=\"lg:hidden\"]>li,section[data-rr-band=\"situations\"] ul[class*=\"lg:hidden\"] a,section[data-rr-band=\"situations\"] ul[class*=\"lg:hidden\"] a>div{min-height:350px!important}}",
+      "sections": [
+        {
+          "selector": "section[aria-label=\"Homepage hero video\"]",
+          "action": "relabel",
+          "html_self": "<div class=\"relative z-30 h-[100svh] max-h-[100svh] min-h-[480px] w-full overflow-hidden bg-[#0a1214]\"><img class=\"absolute inset-0 size-full object-cover\" src=\"/ours/pages/mineral-rights-pages-home-sellmineralrightsohio-com.jpg\" alt=\"Ohio mineral rights land and energy landscape\"><div class=\"absolute inset-0 bg-black/40\"></div><div class=\"absolute inset-0 z-[3] flex items-end px-5 pb-16 md:px-[30px] md:pb-20 lg:px-[40px] lg:pb-24\"><div class=\"max-w-[900px] flex flex-col gap-6\"><p class=\"font-semibold text-[14px] leading-[20px] tracking-[0.28px] text-white\">THE OHIO COUNTY MINERAL DOCKET</p><h1 class=\"font-bold text-white text-[42px] leading-[48px] tracking-[-2px] sm:text-[56px] sm:leading-[62px] lg:text-[66px] lg:leading-[72px]\">Sell Mineral Rights in Ohio</h1><p class=\"max-w-[785px] font-normal text-white text-[18px] leading-[28px]\">A direct Ohio mineral review grounded in the deed chain, reservation language, recorded notices, paid decimals, Utica and Point Pleasant well evidence, written terms, and a recorder-ready closing file.</p><a class=\"group/viewall flex gap-[2px] items-center relative shrink-0 w-fit\" href=\"/contact#contact-form\"><span class=\"flex items-center justify-center p-3 sm:p-[16px] rounded-[4px] bg-ever-teal-80 text-white font-semibold\">Request an Ohio Review</span></a></div></div></div>"
+        },
+        {
+          "selector": "section.flex.w-full.flex-col.gap-8",
+          "action": "card-grid",
+          "source": "situations",
+          "limit": 5,
+          "heading": "h2",
+          "subheading": "header p",
+          "subheading_text": "Inheritance, shared title, an unsolicited offer, a dormant-interest question, or a producing royalty check can require different records and a different route to closing.",
+          "card": "ul[class*=\"lg:hidden\"] > li",
+          "card_fields": {
+            "title": "h3",
+            "sub": "p",
+            "image": "img",
+            "summary_chars": 145
+          }
+        },
+        {
+          "selector": "section.relative.z-20.bg-humble-beige",
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope", "self": true, "attrs": {"data-rr-band": "basins"}},
+            {"sel": "p.text-ever-teal-100.font-normal", "nth": 0, "text": "DEED"},
+            {"sel": "p.text-dark-2.w-full", "nth": 0, "text": "Legal description, conveyances, and reservations"},
+            {"sel": "p.text-ever-teal-100.font-normal", "nth": 1, "text": "NOTICE"},
+            {"sel": "p.text-dark-2.w-full", "nth": 1, "text": "Affidavits, service, and preservation record"},
+            {"sel": "p.text-ever-teal-100.font-normal", "nth": 2, "text": "WELLS"},
+            {"sel": "p.text-dark-2.w-full", "nth": 2, "text": "Utica and Point Pleasant production evidence"},
+            {"sel": "p.text-ever-teal-100.font-normal", "nth": 3, "text": "TERMS"},
+            {"sel": "p.text-dark-2.w-full", "nth": 3, "text": "Tract schedule, title conditions, and recording"}
+          ]
+        },
+        {
+          "selector": "section.bg-white.py-16",
+          "action": "card-grid",
+          "source": "resources",
+          "limit": 6,
+          "heading": "h2",
+          "subheading": "header p",
+          "subheading_text": "Each guide points to the next deed, notice, statement, well record, tax question, or written term that can be checked.",
+          "card": "li.min-w-0.shrink-0",
+          "card_fields": {
+            "title": "h3",
+            "category": "p",
+            "image": "img"
+          },
+          "view_all": ["Open All Owner Resources", "/resources"],
+          "view_all_selector": "a[class*=\"group/viewall\"]"
+        },
+        {
+          "selector": "section.bg-humble-beige.overflow-x-clip.pt-\\[70px\\]",
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope", "self": true, "attrs": {"data-rr-band": "locations"}},
+            {"sel": "h2", "text": "Ohio Coverage From the County Record Out"},
+            {"sel": "p", "nth": 0, "text": "Eastern Ohio mineral interests stay connected to the county recorder, tract, payor history, and Utica or Point Pleasant evidence."},
+            {"sel": "h3", "text": "OHIO"},
+            {"sel": "p", "nth": 1, "text": "Review Canton, Stark County, the Utica fairway, and mineral-producing counties across eastern Ohio."}
+          ]
+        },
+        {
+          "selector": "section.bg-humble-beige.overflow-x-clip.py-16",
+          "action": "drop",
+          "reason": "donor client logos have no honest Ohio equivalent"
+        },
+        {
+          "selector": "section.bg-white.py-16.overflow-x-clip",
+          "nth": 1,
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope", "self": true, "attrs": {"data-rr-band": "interest-types"}},
+            {"sel": "h2", "text": "Know Which Recorded Interest Is Actually on the Table"},
+            {"sel": "p", "nth": 0, "text": "Mineral rights, royalties, overriding royalties, working interests, and severed estates carry different rights, burdens, payment positions, and closing documents."},
+            {"sel": "img", "nth": 0, "img": "/ours/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightsohio-com.jpg", "alt": "Ohio mineral interest records"},
+            {"sel": "a", "nth": 0, "text": "Trace the Recorded Right", "href": "/interest-types/mineral-rights"},
+            {"sel": "a", "nth": 1, "text": "Compare Paid Interests", "href": "/interest-types/royalty-interests"},
+            {"sel": "a", "nth": 2, "text": "Read Severed Estates", "href": "/interest-types/surface-vs-mineral-estate"},
+            {"sel": "a", "nth": 3, "text": "View All Interest Types", "href": "/interest-types"}
+          ]
+        },
+        {
+          "selector": "section.relative.min-h-\\[560px\\]",
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope", "self": true, "attrs": {"data-rr-band": "investing"}},
+            {"sel": "h2", "text": "Keep Income, Decline, and Possible Inventory on Separate Schedules"},
+            {"sel": "img", "nth": 0, "img": "/ours/investing/mineral-rights-investing-how-to-evaluate-a-mineral-package-sellmineralrightsohio-com.jpg", "alt": "Ohio mineral package review"},
+            {"sel": "li", "nth": 0, "text": "Reconcile recent checks to wells, products, decimals, deductions, and sales months."},
+            {"sel": "li", "nth": 1, "text": "Keep decline, downtime, permits, offsets, and undeveloped acreage on separate lines."},
+            {"sel": "li", "nth": 2, "text": "Attach every assumption to a source, date, tract, and update path."},
+            {"sel": "li", "nth": 3, "text": "Reconcile recent checks to wells, products, decimals, deductions, and sales months."},
+            {"sel": "li", "nth": 4, "text": "Keep decline, downtime, permits, offsets, and undeveloped acreage on separate lines."},
+            {"sel": "li", "nth": 5, "text": "Attach every assumption to a source, date, tract, and update path."},
+            {"sel": "blockquote", "text": "County record, paid interest, production evidence, and written terms stay on one dated decision schedule."},
+            {"sel": "a", "nth": 0, "text": "Review Mineral Investing", "href": "/investing"},
+            {"sel": "a", "nth": 1, "text": "Evaluate an Ohio Package", "href": "/investing/how-to-evaluate-a-mineral-package"}
+          ]
+        },
+        {
+          "selector": "section.relative.overflow-hidden.bg-humble-beige.pt-\\[70px\\]",
+          "action": "relabel",
+          "ops": [
+            {"sel": ":scope", "self": true, "attrs": {"data-rr-band": "exchange-1031"}},
+            {"sel": "h2", "text": "Exchange Planning Must Begin Before Proceeds Move"},
+            {"sel": "p", "text": "Potential exchange questions belong with a qualified intermediary and independent tax counsel before closing. Keep property, timing, vesting, proceeds, and replacement choices in one dated file."},
+            {"sel": "img", "nth": 0, "img": "/ours/exchange-1031/mineral-rights-exchange-1031-is-a-1031-right-for-you-sellmineralrightsohio-com.jpg", "alt": "Ohio mineral rights exchange planning"},
+            {"sel": "a", "text": "Open Ohio Exchange Guides", "href": "/exchange-1031"}
+          ]
+        }
+      ],
+      "carousels": [
+        {
+          "selector": "section[data-rr-band=\"resources\"]",
+          "track": "ul.flex",
+          "slides": "li.min-w-0.shrink-0",
+          "no_controls": true
+        }
+      ]
+    },
+    "index": {
+      "signature": [
+        "#systems",
+        "section.relative.w-full.overflow-hidden.bg-humble-beige"
+      ],
+      "strip": [],
+      "sections": [
+        {"selector": "section", "action": "drop", "nth": 9, "reason": "donor explore cards duplicate the local taxonomy grid"},
+        {"selector": "section", "action": "drop", "nth": 8, "reason": "donor manufacturing metrics have no honest mineral equivalent"},
+        {"selector": "section", "action": "drop", "nth": 7, "reason": "donor R&D statistics have no honest mineral equivalent"},
+        {"selector": "section", "action": "drop", "nth": 6, "reason": "donor turbine timeline has no honest mineral equivalent"},
+        {"selector": "section", "action": "drop", "nth": 3, "reason": "donor product explanation duplicates the taxonomy docket"},
+        {"selector": "section", "action": "drop", "nth": 2, "reason": "donor technology feature stage duplicates the taxonomy docket"},
+        {
+          "selector": "section.relative.w-full.overflow-hidden.bg-humble-beige",
+          "action": "relabel",
+          "ops": [
+            {"sel": "img", "img": "{img0}", "alt": "{tax_title}"}
+          ]
+        },
+        {
+          "selector": "section.pb-16.pt-10",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h1", "text": "{tax_title}"},
+            {"sel": "p", "text": "{meta160}"}
+          ]
+        },
+        {
+          "selector": "#systems",
+          "action": "relabel",
+          "ops": [
+            {"sel": "header p", "text": "Browse the complete Ohio docket in a deliberate order, then open any page for the deed, notice, payor, production, valuation, or timing questions that matter to that topic."}
+          ]
+        },
+        {
+          "selector": "section[class*=\"min-h-[720px]\"][class*=\"bg-humble-beige\"]",
+          "action": "relabel",
+          "bg_self": "{img1}",
+          "ops": [
+            {"sel": "h2", "text": "Bring the Exact Ohio Record Into View"},
+            {"sel": "a", "text": "Request an Ohio Review", "href": "/contact#contact-form"}
+          ]
+        }
+      ],
+      "intro": {
+        "selector": "section.pb-16.pt-10",
+        "heading": "h1"
+      },
+      "hero_heading": "section.pb-16.pt-10 h1",
+      "hero_image": "section.relative.w-full.overflow-hidden.bg-humble-beige img",
+      "heading": "#systems h2",
+      "grid": "#systems ul.flex.flex-col",
+      "card": "li.grid",
+      "card_fields": {
+        "title": "div.border-b p.font-semibold",
+        "category": "div.flex.w-full.max-w-\\[300px\\] > p",
+        "sub": "article > div > p",
+        "more": "a[class*=\"group/viewall\"] span.font-semibold",
+        "image": ".integrated-solutions-row-image-cut",
+        "summary_chars": 300
+      },
+      "repair_css": "#systems .integrated-solutions-row-image-cut{background-position:center!important;background-size:cover!important;min-height:320px!important}#systems ul>li{border-top:1px solid rgba(255,255,255,.35)!important;padding-top:48px!important}#systems article p{white-space:normal!important;overflow-wrap:normal!important;word-break:normal!important}#systems article>div>div{display:none!important}@media(max-width:999px){#systems ul>li{grid-template-columns:1fr!important}#systems .integrated-solutions-row-image-cut{max-width:none!important;width:100%!important;height:340px!important}}",
+      "semantic_title_selector": "section.pb-16.pt-10 h1"
+    },
+    "slug": {
+      "signature": [
+        "section.rounded-t-\\[16px\\]",
+        "section.relative.w-full.overflow-hidden.bg-ever-teal-100"
+      ],
+      "title": "section.rounded-t-\\[16px\\] h1",
+      "hero_meta": "section.rounded-t-\\[16px\\] h1 + div p:first-child",
+      "hero_meta_full": false,
+      "hero_cta": "section.rounded-t-\\[16px\\] a[class*=\"group/viewall\"]",
+      "hero_image": "section.relative.w-full.overflow-hidden.bg-ever-teal-100 img",
+      "prose": "section.rounded-t-\\[16px\\] [class*=\"lg:grid-cols\"] > div:nth-child(2)",
+      "simple_prose": "section.rounded-t-\\[16px\\] [class*=\"lg:grid-cols\"] > div:nth-child(2)",
+      "simple_strip": [
+        "section.rounded-t-\\[16px\\] [class*=\"lg:grid-cols\"] > div:first-child div.flex.flex-col.gap-6.font-normal > p:nth-of-type(2)",
+        "section.rounded-t-\\[16px\\] [class*=\"lg:grid-cols\"] > div:first-child > a"
+      ],
+      "skip_related_in_prose": true,
+      "skip_detail_cta_in_prose": true,
+      "demote_extra_title_h1": true,
+      "semantic_title_selector": "section.rounded-t-\\[16px\\] h1",
+      "repair_css": "section.rounded-t-\\[16px\\] h1{white-space:normal!important;overflow-wrap:normal!important;word-break:normal!important}section.rounded-t-\\[16px\\] [data-rr-prose=\"detail\"]{min-width:0!important;width:100%!important;max-width:760px!important}section.rounded-t-\\[16px\\] [data-rr-prose=\"detail\"] h2,section.rounded-t-\\[16px\\] [data-rr-prose=\"detail\"] h3,section.rounded-t-\\[16px\\] [data-rr-prose=\"detail\"] p,section.rounded-t-\\[16px\\] [data-rr-prose=\"detail\"] li{white-space:normal!important;overflow-wrap:normal!important;word-break:normal!important}"
+    },
+    "about": {
+      "signature": [
+        "section.bg-ever-teal-100.rounded-t-\\[16px\\]",
+        "section.relative.isolate.overflow-hidden.bg-humble-beige"
+      ],
+      "semantic_title_selector": "section.bg-ever-teal-100.rounded-t-\\[16px\\] h1",
+      "sections": [
+        {
+          "selector": "section.relative.w-full.overflow-hidden.bg-ever-teal-100",
+          "action": "relabel",
+          "ops": [
+            {"sel": "img", "img": "/ours/pages/mineral-rights-pages-about-sellmineralrightsohio-com.jpg", "alt": "Ohio mineral rights review"}
+          ]
+        },
+        {
+          "selector": "section.bg-ever-teal-100.rounded-t-\\[16px\\]",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h1", "copy": "about_title"},
+            {"sel": "p", "nth": 0, "copy": "about_story_title"},
+            {"sel": "p", "nth": 1, "copy": "about_story_body"}
+          ]
+        },
+        {
+          "selector": "section.relative.overflow-hidden:not(.w-full)",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h3", "copy": "about_scope_title"},
+            {"sel": "p", "nth": 0, "copy": "about_scope_body"},
+            {"sel": "p.font-normal.text-\\[44px\\]", "nth": 0, "text": "DEED"},
+            {"sel": "p.whitespace-pre-line.font-normal", "nth": 0, "text": "Legal description, conveyance, and reservation"},
+            {"sel": "p.font-normal.text-\\[44px\\]", "nth": 1, "text": "NOTICE"},
+            {"sel": "p.whitespace-pre-line.font-normal", "nth": 1, "text": "Affidavit, service, and preservation record"},
+            {"sel": "p.font-normal.text-\\[44px\\]", "nth": 2, "text": "DECIMAL"},
+            {"sel": "p.whitespace-pre-line.font-normal", "nth": 2, "text": "Net acres, lease royalty, unit, and payor line"},
+            {"sel": "p.font-normal.text-\\[44px\\]", "nth": 3, "text": "TERMS"},
+            {"sel": "p.whitespace-pre-line.font-normal", "nth": 3, "text": "Tract schedule, title conditions, funding, and recording"}
+          ]
+        },
+        {
+          "selector": "section.bg-humble-beige.overflow-x-clip.pt-\\[70px\\]",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h2", "text": "Ohio Minerals, County by County"},
+            {"sel": "p", "nth": 0, "text": "The record trail stays local even when the Utica and Point Pleasant context spans multiple counties."},
+            {"sel": "h3", "text": "OHIO"},
+            {"sel": "p", "nth": 1, "text": "Canton, Stark County, the eastern Ohio fairway, and mineral-producing counties across the state."}
+          ]
+        },
+        {
+          "selector": "section.bg-humble-beige.px-5",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h2", "text": "What the County Docket Protects"},
+            {"sel": "p", "nth": 0, "text": "Record before assumption"},
+            {"sel": "p", "nth": 1, "text": "Unknown ownership, notice, unit, or payor questions remain visible until a source resolves them."},
+            {"sel": "p", "nth": 2, "text": "Terms before headline price"},
+            {"sel": "p", "nth": 3, "text": "Acreage, depths, products, retained interests, title conditions, and funding sit beside the number."},
+            {"sel": "p", "nth": 4, "text": "File ready for recording"},
+            {"sel": "p", "nth": 5, "text": "The deed, tract schedule, settlement record, correspondence, and retained rights remain reviewable after closing."}
+          ]
+        },
+        {
+          "selector": "section.overflow-x-hidden.bg-white",
+          "action": "drop",
+          "reason": "donor leadership profiles cannot be repurposed as invented staff"
+        },
+        {
+          "selector": "section.relative.isolate.overflow-hidden.bg-humble-beige",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h2", "copy": "about_close_title"},
+            {"sel": "p", "copy": "about_close_body"},
+            {"sel": "a", "nth": 0, "text": "Request an Ohio Review", "href": "/contact#contact-form"},
+            {"sel": "a", "nth": 1, "text": "Open Owner Resources", "href": "/resources"},
+            {"sel": "a", "nth": 2, "text": "Request an Ohio Review", "href": "/contact#contact-form"},
+            {"sel": "a", "nth": 3, "text": "Open Owner Resources", "href": "/resources"}
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "signature": [
+        "section.flex.w-full.flex-col.gap-10.rounded-t-2xl"
+      ],
+      "semantic_title_selector": "section.flex.w-full.flex-col.gap-10.rounded-t-2xl h1",
+      "strip": [
+        "form label:has(select[name=\"phoneCountry\"])",
+        "form > div:has(select[name=\"enquiry-type\"])",
+        "form > div:has(select[name=\"sector\"])",
+        "form > div:has(select[name=\"country\"])",
+        "form > div[aria-hidden=\"true\"]",
+        "section.flex.w-full.flex-col.gap-10.bg-white"
+      ],
+      "sections": [
+        {
+          "selector": "section.relative.w-full.overflow-hidden.bg-ever-teal-100",
+          "action": "relabel",
+          "ops": [
+            {"sel": "img", "img": "/ours/pages/mineral-rights-pages-contact-sellmineralrightsohio-com.jpg", "alt": "Ohio mineral review contact"}
+          ]
+        },
+        {
+          "selector": "section.flex.w-full.flex-col.gap-10.rounded-t-2xl",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h1", "copy": "contact_title"},
+            {"sel": "p", "nth": 0, "copy": "contact_intro"},
+            {"sel": "h2", "copy": "contact_form_title"}
+          ]
+        }
+      ],
+      "form_slot": "section.flex.w-full.flex-col.gap-10.rounded-t-2xl form",
+      "reuse_form": true,
+      "control_selector": "input[name=\"name\"],input[name=\"email\"],input[name=\"phone\"],textarea[name=\"message\"]",
+      "submit_label": "Request an Ohio Review",
+      "repair_css": "#inquiry{display:grid!important;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr)!important;gap:clamp(40px,7vw,110px)!important;align-items:start!important}#inquiry>h2{width:auto!important;max-width:440px!important}#inquiry>div{width:100%!important;max-width:none!important;min-width:0!important}#contact-form{position:relative!important;left:auto!important;width:100%!important;max-width:none!important;margin:0!important;transform:none!important}#contact-form>div{width:100%!important}#contact-form input,#contact-form textarea{width:100%!important;min-width:0!important;white-space:normal!important;word-break:normal!important}@media(max-width:990px){#inquiry{grid-template-columns:1fr!important}#inquiry>h2{max-width:700px!important}#contact-form{grid-template-columns:1fr!important}}"
+    },
+    "legal_template": "slug"
+  },
+  "final_repair_css": "html,body{max-width:100%!important;overflow-x:hidden!important}body{font-family:Monda,\"Monda Fallback\",sans-serif!important}h1,h2,h3,h4,h5,h6,p,a,li,button,input,textarea,select{overflow-wrap:normal!important;word-break:normal!important}img{max-width:100%!important}a[class*=\"group/viewall\"] img,button[type=\"submit\"] img{display:none!important}header .rr-burger{padding:0!important;gap:5px!important}header .rr-burger span{width:22px!important;height:2px!important;flex:0 0 2px!important}"
+}

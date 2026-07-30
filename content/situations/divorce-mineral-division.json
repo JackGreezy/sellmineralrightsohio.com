@@ -1,0 +1,69 @@
+{
+ "slug": "divorce-mineral-division",
+ "title": "Mineral Rights in Divorce",
+ "type": "situation",
+ "note": "dividing or liquidating in settlement",
+ "metaTitle": "Dividing Mineral Rights in an Ohio Divorce",
+ "metaDescription": "Splitting mineral rights during an Ohio divorce? Learn how courts treat oil and gas interests, why appraisals matter, and when selling simplifies things.",
+ "heroLead": "Oil and gas interests don't split evenly the way a bank account does, which is exactly why they trip up so many Ohio divorce settlements.",
+ "intro": [
+  "A house can be sold and the proceeds split. A retirement account can be divided by a court order without either spouse touching a dime of it directly. Mineral rights are harder, because they aren't a single lump sum, they're an ownership fraction in rock that may or may not ever produce anything, tied to a legal description that has to be tracked, valued, and either divided or bought out.",
+  "In Ohio, whether minerals count as marital or separate property depends heavily on when and how the interest was acquired, and that answer shapes every option that follows, including whether a sale makes more sense than trying to co-own a fractional interest with an ex-spouse for the next twenty years."
+ ],
+ "sections": [
+  {
+   "heading": "Marital property or separate property",
+   "paragraphs": [
+    "Ohio is an equitable distribution state, not a community property state, which means the court divides marital property fairly, not necessarily 50/50. Minerals acquired during the marriage, whether purchased or received through a joint inheritance, are typically treated as marital property subject to division. Minerals one spouse inherited individually, or owned before the marriage, are usually separate property, though that can get muddied if lease bonus or royalty income from a separately-owned interest was deposited into a joint account and used for household expenses over the years.",
+    "Because the classification question can be genuinely close, it's common for both spouses' attorneys to want a documented valuation before settlement talks go far. Waiting until the divorce is nearly final to figure out what the minerals are actually worth almost always slows things down."
+   ]
+  },
+  {
+   "heading": "Why co-ownership after divorce rarely works well",
+   "paragraphs": [
+    "Some couples try to simply leave mineral interests jointly titled after the divorce, planning to split any future royalty checks. In practice this creates an ongoing administrative tie between two people who are no longer married: both names have to sign off on future leases, both have to be reachable for division order paperwork, and if one remarries, moves out of state, or becomes hard to locate, the surviving co-owner can be stuck unable to lease or sell without tracking down a signature.",
+    "It works fine for some families, especially when the interest is modest and the relationship stays amicable. But for many divorcing couples, converting the mineral interest to cash at the time of the settlement, either through a buyout by one spouse or a sale to a third party with proceeds split under the decree, is the cleaner path. It closes the account the way a house sale does, instead of leaving a shared asset outstanding for decades."
+   ]
+  },
+  {
+   "heading": "Getting a real number before you negotiate",
+   "paragraphs": [
+    "Divorce settlements move faster when both sides are working from the same set of facts. If the minerals are producing, recent royalty statements and the well's decline trend give a reasonably grounded starting point for value. If they're leased but undrilled or entirely unleased, the number depends more on nearby drilling activity and county position, and any figure discussed should be treated as a range tied to current market conditions rather than a fixed appraisal.",
+    "A buyout between spouses can be handled with a private valuation, but if either side plans to pursue a market sale instead, getting a real offer from a buyer familiar with Ohio oil and gas gives both attorneys a concrete number to negotiate against, rather than arguing over guesses."
+   ]
+  },
+  {
+   "heading": "Practical steps if a sale is on the table",
+   "paragraphs": [
+    "If the settlement calls for selling the mineral interest, both spouses typically need to sign the deed even after the divorce is final, unless the decree already assigns the interest solely to one party who then sells alone. Confirming exactly how title will read after the decree is entered, and checking that any severed interest hasn't picked up complications like a Dormant Mineral Act claim while the divorce was pending, avoids a second round of paperwork delays after the settlement is signed.",
+    "Courthouse records in the county where the minerals sit will show the current recorded ownership, which is worth checking early rather than assuming the deed from the marriage is still clean."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are mineral rights always split 50/50 in an Ohio divorce?",
+   "answer": "No. Ohio uses equitable distribution, meaning the court divides marital property fairly based on the whole financial picture, not automatically in half. Minerals acquired before the marriage or received as an individual inheritance are usually treated as separate property and may not be divided at all."
+  },
+  {
+   "question": "Can one spouse sell mineral rights without the other's consent during a divorce?",
+   "answer": "Generally no, if the interest is jointly titled or classified as marital property, both signatures are needed on a deed until a court order or settlement assigns sole ownership to one spouse. Selling without proper authority can cloud title and unwind the transaction later."
+  },
+  {
+   "question": "How is a mineral interest valued for divorce purposes?",
+   "answer": "Producing interests are usually valued off recent royalty history and the well's decline trend. Non-producing or unleased acreage is valued more loosely, based on nearby drilling activity and lease terms in the area, and any number should be presented as a range rather than a guaranteed figure."
+  },
+  {
+   "question": "What happens if we just leave the minerals jointly owned after the divorce?",
+   "answer": "It's legally possible and some ex-spouses do it, but it means both parties have to keep cooperating on future leases and paperwork indefinitely. Many couples prefer a clean buyout or sale specifically to avoid that ongoing entanglement."
+  }
+ ],
+ "status": "written",
+ "wordCount": 951,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-divorce-mineral-division-sellmineralrightsohio-com.jpg",
+  "alt": "Mineral Rights in Divorce mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

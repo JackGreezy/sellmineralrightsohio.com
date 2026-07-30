@@ -1,0 +1,75 @@
+{
+ "slug": "terms",
+ "title": "Terms",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Terms of Use | Ohio Mineral Rights",
+ "metaDescription": "The terms governing use of this site, including what our information is and is not, and how offers and transactions actually work.",
+ "heroLead": "These terms explain what this site is, what it is not, and what using it does and does not commit you to.",
+ "intro": [
+  "Please read this page before relying on anything you find on this site. It is written to be clear rather than dense, but it covers real limits on what we can promise you."
+ ],
+ "sections": [
+  {
+   "heading": "What this site is",
+   "paragraphs": [
+    "This site provides general educational information about mineral and royalty ownership in Ohio, and a way to request a no-obligation offer for your interest from us as a buyer. The content here, including anything about Ohio's Dormant Mineral Act, royalty statements, valuation methods, or tax treatment, is general information intended to help you understand the topic, not specific legal, tax, or appraisal advice for your situation. We are a buyer and connector in mineral transactions, not a licensed attorney, CPA, or professional appraiser, and nothing on this site should be treated as a substitute for advice from one.",
+    "Any figures, ranges, or examples discussed on this site or in a conversation with us are illustrative or preliminary unless and until we provide you a specific written offer based on our review of your actual title and production history. We do not guarantee any price, offer, or outcome, and any value discussion is inherently a range tied to current activity and market conditions, not a fixed promise."
+   ]
+  },
+  {
+   "heading": "Requesting information or an offer",
+   "paragraphs": [
+    "Submitting a contact form, calling, or otherwise reaching out to us does not create any obligation on your part to sell, and does not create any binding obligation on our part to purchase, until both sides sign a definitive agreement, such as a mineral deed, at closing. Either party may decline to proceed at any point before closing. Information you provide to us will be used as described in our privacy policy to research and evaluate your mineral interest and to communicate with you about it.",
+    "You are responsible for the accuracy of the information you provide to us about your ownership, and we rely on public records and your representations in forming any offer, subject to our own title review before closing."
+   ]
+  },
+  {
+   "heading": "Limitations",
+   "paragraphs": [
+    "This site and its content are provided as is, without warranty of any kind regarding completeness or applicability to your specific circumstances. Oil and gas law, tax treatment, and title requirements can change and can vary by county and by the specific facts of your ownership, so general content on this site may not reflect the current state of the law or your specific situation. For anything involving your legal rights, tax obligations, or a complex title question, consult a qualified Ohio attorney or your CPA. These terms may be updated from time to time, and continued use of the site after an update constitutes acceptance of the revised terms."
+   ]
+  },
+  {
+   "heading": "Ohio Dormant Mineral Act content specifically",
+   "paragraphs": [
+    "Content on this site discussing Ohio Revised Code 5301.56 and the Dormant Mineral Act is a general explanation of how the statute and its notice procedures generally work, based on our understanding of the law as commonly applied. It is not a substitute for a title examination of your specific parcel or for legal advice about your specific chain of title and history of activity. Case law interpreting the statute, including how savings events and lookback periods are calculated, has evolved over time, and how it applies to your interest depends on facts specific to your parcel. If you believe your interest may be at risk, or you have received a notice referencing the statute, consult an Ohio real estate attorney directly rather than relying solely on general content here."
+   ]
+  },
+  {
+   "heading": "Governing law and disputes",
+   "paragraphs": [
+    "These terms are governed by the laws of the State of Ohio, without regard to conflict of law principles, and any dispute arising from your use of this site or a transaction with us is intended to be resolved under Ohio law. If any provision of these terms is found unenforceable, the remaining provisions continue in effect. These terms, together with our privacy policy, represent the full understanding between you and us regarding use of this site, separate and apart from the terms of any definitive purchase agreement you may later sign for an actual mineral rights transaction."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does contacting you obligate me to sell my mineral rights?",
+   "answer": "No, reaching out or receiving a preliminary offer does not obligate you to sell. Nothing is binding until both sides sign a definitive agreement at closing."
+  },
+  {
+   "question": "Is the information on this site legal or tax advice?",
+   "answer": "No, it is general educational information. For advice specific to your situation, consult a qualified Ohio attorney or your CPA or tax advisor."
+  },
+  {
+   "question": "Are the value ranges mentioned on this site guaranteed?",
+   "answer": "No, any figures or ranges discussed are illustrative and depend on your specific title and production history, current commodity prices, and recent activity. We do not guarantee a specific price."
+  },
+  {
+   "question": "Can I stop a transaction after agreeing to an offer?",
+   "answer": "Yes, either party can decline to proceed at any point before a definitive agreement is signed and the transaction closes."
+  },
+  {
+   "question": "Who do I contact with questions about these terms?",
+   "answer": "Reach out through the contact page with any questions about these terms or how they apply to your situation."
+  }
+ ],
+ "wordCount": 897,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-terms-sellmineralrightsohio-com.jpg",
+  "alt": "Terms mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

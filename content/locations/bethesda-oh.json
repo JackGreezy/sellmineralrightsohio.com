@@ -1,0 +1,64 @@
+{
+ "slug": "bethesda-oh",
+ "title": "Sell Mineral Rights in Bethesda, OH",
+ "type": "city",
+ "kind": "city",
+ "county": "Belmont",
+ "group": "Utica Core",
+ "primaryKeyword": "sell mineral rights bethesda oh",
+ "seo": null,
+ "metaTitle": "Sell Mineral Rights in Bethesda, OH | Belmont County",
+ "metaDescription": "Selling mineral rights near Bethesda, Belmont County? Learn how a decimal interest and royalty statement translate into an actual offer, then request one.",
+ "heroLead": "Bethesda sits in northern Belmont County, and if your family owns minerals here, the decimal interest on your division order is the single most important number in the whole conversation.",
+ "intro": [
+  "It's easy to look at a royalty statement full of decimals, deductions, and well names and feel like the numbers don't mean much. They actually tell you almost everything a buyer needs to know: exactly how much of a well's production belongs to you, and how that production has trended over time. Understanding your statement is worth ten minutes before you talk to anyone about selling.",
+  "Bethesda-area land has been part of Belmont County's Utica development for over a decade, so most producing tracts here have a real payment history behind them by now, not only a projection."
+ ],
+ "sections": [
+  {
+   "heading": "Reading the decimal interest",
+   "paragraphs": [
+    "Your decimal interest, sometimes written as 'net revenue interest' or 'NRI,' is a small fraction, often five or six digits after the decimal point, representing your tract's proportional share of a much larger pooled spacing unit. Multiply that decimal by the well's gross monthly revenue and you get your gross royalty before any deductions.",
+    "Some Ohio leases allow the operator to deduct post-production costs, gathering, compression, processing, before calculating your net payment, while others don't. Checking your lease language on this point explains any gap between gross and net figures on your statement."
+   ]
+  },
+  {
+   "heading": "What production trends tell you",
+   "paragraphs": [
+    "Look at your statements over several months or a year, if you have them. A steep decline shortly after a well starts producing is normal for shale wells and doesn't necessarily signal a problem, it's the expected curve. What matters more for valuing an interest is where the well currently sits on that curve, early, mid-decline, or into its longer, shallower tail, since that shapes how future production is weighed against a lump-sum offer today."
+   ]
+  },
+  {
+   "heading": "Getting an offer without a lot of legwork",
+   "paragraphs": [
+    "You don't need to reconstruct years of statements yourself. Sending us your most recent one or two, along with your deed or division order, gives us enough to confirm the interest against Belmont County and state well records and put together a written offer. From there, the decision to accept is entirely yours."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What does 'decimal interest' actually mean on my statement?",
+   "answer": "It's your tract's proportional share of a pooled spacing unit's production, expressed as a decimal fraction, usually a small number with several digits after the decimal point."
+  },
+  {
+   "question": "Why is my net payment lower than gross production times my decimal?",
+   "answer": "Some leases allow the operator to deduct post-production costs like gathering and processing before paying royalty. Your lease language determines whether and how much this applies."
+  },
+  {
+   "question": "My royalty has dropped a lot since the well started. Is that a red flag?",
+   "answer": "Not necessarily. Shale wells decline steeply in the first year or two before leveling off. It affects value, but a decline on its own is expected behavior, not a sign of a problem."
+  },
+  {
+   "question": "Do I need every royalty statement I've ever received?",
+   "answer": "No, one or two recent ones are usually enough to get started. We can request additional production history from the operator if needed."
+  }
+ ],
+ "status": "written",
+ "wordCount": 552,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-bethesda-oh.jpg",
+  "alt": "Sell Mineral Rights in Bethesda, OH location",
+  "width": 1600,
+  "height": 1000
+ }
+}

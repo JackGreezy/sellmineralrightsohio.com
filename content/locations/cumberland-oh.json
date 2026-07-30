@@ -1,0 +1,59 @@
+{
+ "slug": "cumberland-oh",
+ "title": "Sell Mineral Rights in Cumberland, OH",
+ "type": "city",
+ "kind": "city",
+ "county": "Guernsey",
+ "group": "Utica Core",
+ "primaryKeyword": "sell mineral rights cumberland oh",
+ "seo": null,
+ "metaTitle": "Sell Mineral Rights in Cumberland, OH | Guernsey County",
+ "metaDescription": "Own mineral rights near Cumberland, Guernsey County? Learn what to check before selling, including dormant mineral risk, then get a straightforward offer.",
+ "heroLead": "Cumberland sits in southern Guernsey County, near the Noble and Muskingum county lines, inside the Utica core.",
+ "intro": [
+  "Because Cumberland sits close to three county lines, some families here have mineral holdings that technically fall in different counties depending on exactly where a given tract's boundary runs. Before assuming your interest is recorded in Guernsey County, it's worth double-checking the legal description on your deed, since a parcel described as 'near Cumberland' isn't always the same as one recorded within Guernsey County itself.",
+  "That detail sorted, this area has seen consistent Utica development for years, and most producing tracts nearby carry a real payment history by now."
+ ],
+ "sections": [
+  {
+   "heading": "Confirming which county actually holds your record",
+   "paragraphs": [
+    "If your family's paperwork is ambiguous about which county your Cumberland-area tract falls in, checking the legal description, township, section, and range, against a plat map will clarify it. This matters because deed and lease records for your specific tract will only be found at the correct county recorder's office, whether that's Guernsey, Noble, or Muskingum."
+   ]
+  },
+  {
+   "heading": "Production activity in this corner of the play",
+   "paragraphs": [
+    "This part of the Utica core has drawn steady operator interest for years, and if your tract is inside an active spacing unit, your division order and royalty statements will show real production numbers to work from. If your minerals haven't been leased, an offer is built from comparable activity in the surrounding townships instead."
+   ]
+  },
+  {
+   "heading": "Watching for dormant mineral risk",
+   "paragraphs": [
+    "As with much of this region, some older mineral interests near Cumberland have sat unused for long stretches without anyone in the family realizing it. If your family's minerals fit that profile, no lease, no production, no recorded activity for 20 years, they could be vulnerable to a dormant mineral claim under Ohio's ORC 5301.56. Checking the recorder's index for any abandonment notice is a sensible step before assuming an old interest is unaffected."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "My family's land near Cumberland might be in a different county. How do I check?",
+   "answer": "Compare your deed's legal description, township, section, and range, against a county plat map, or check with the recorder's office in the county you believe is correct to confirm."
+  },
+  {
+   "question": "Is this area of Guernsey County part of the Utica core?",
+   "answer": "Yes, southern Guernsey County has seen steady horizontal development for years."
+  },
+  {
+   "question": "How do I check for a dormant mineral claim?",
+   "answer": "Search the recorder's index in the correct county for any notice of abandonment filed against your legal description before moving forward with a sale."
+  }
+ ],
+ "status": "written",
+ "wordCount": 441,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-cumberland-oh.jpg",
+  "alt": "Sell Mineral Rights in Cumberland, OH location",
+  "width": 1600,
+  "height": 1000
+ }
+}

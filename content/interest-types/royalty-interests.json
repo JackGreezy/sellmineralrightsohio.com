@@ -1,0 +1,73 @@
+{
+ "slug": "royalty-interests",
+ "title": "Royalty Interests",
+ "type": "interest-type",
+ "metaTitle": "Royalty Interests Explained for Ohio Mineral Owners",
+ "metaDescription": "Understand what a royalty interest is in Ohio oil and gas, how it's calculated, what deductions apply, and how royalty interests are valued or sold.",
+ "heroLead": "A royalty interest is the version of mineral ownership most Ohio families actually experience: a share of production revenue, with none of the drilling cost or risk.",
+ "intro": [
+  "When people picture owning oil and gas rights, they're usually picturing a royalty interest, even if they don't know the term. It's the right to receive a percentage of the value of oil and gas produced from a well, without paying any share of the cost to drill, complete, or operate it. That combination, upside without cost exposure, is what makes royalty interests the most common and most straightforward form of mineral ownership for Ohio families who inherited or leased their minerals rather than actively investing in drilling.",
+  "Understanding exactly how that percentage gets calculated, and what can reduce it before it reaches your bank account, is worth knowing whether you're reviewing your own royalty statement or considering selling the interest."
+ ],
+ "sections": [
+  {
+   "heading": "Where a royalty interest comes from",
+   "paragraphs": [
+    "A royalty interest is created the moment a mineral owner signs an oil and gas lease. The lease specifies a royalty rate, commonly somewhere between 1/8 and 1/5 in Ohio depending on when and where the lease was signed, and that rate determines the mineral owner's share of production revenue once a well starts producing. The remainder goes to the operator, who bears the full cost of drilling, completing, and operating the well in exchange for the working interest they hold.",
+    "Older Ohio leases, particularly ones tied to legacy Clinton sandstone wells from decades ago, sometimes carry lower royalty rates than more recently negotiated Utica or Marcellus leases, since royalty rates have generally trended upward as competition among operators for leasing acreage increased."
+   ]
+  },
+  {
+   "heading": "What actually shows up on a royalty check",
+   "paragraphs": [
+    "The number on a royalty statement is rarely just production volume multiplied by the royalty rate and a sale price. Most Ohio leases allow the operator to deduct certain post-production costs, gathering, processing, compression, and transportation, before calculating the royalty owed, unless the lease specifically states royalties are calculated at the wellhead with no deductions. Whether your lease allows these deductions, and how they're described, is one of the most common sources of confusion, and occasionally dispute, between royalty owners and operators.",
+    "Reviewing your division order and periodically comparing your check against actual reported production for the well, which is public information through the Ohio Department of Natural Resources, is a reasonable way to catch discrepancies early."
+   ]
+  },
+  {
+   "heading": "How royalty interests are valued for a sale",
+   "paragraphs": [
+    "Because a royalty interest's value is directly tied to actual cash flow, buyers price it using a multiple of trailing production income, adjusted for the well's decline trend and remaining expected life. A well early in its production life with a strong first year or two of history generally supports a higher valuation than one well into its tail production with declining monthly volumes. Commodity price assumptions also factor in, since future royalty income moves with oil and gas prices, not only production volume.",
+    "Any number quoted to you for a royalty interest sale should be explained in terms of these factors rather than presented as a flat figure with no basis shown, since the underlying production data is the actual foundation of the price."
+   ]
+  },
+  {
+   "heading": "Royalty interests that predate the current play",
+   "paragraphs": [
+    "Some Ohio royalty interests trace back to old, shallow Clinton sandstone wells drilled decades before the Utica play existed, still producing small volumes at a slow, steady decline that can continue for a very long time. These interests behave differently from newer Utica royalty streams, lower monthly income, but often a longer remaining production tail, and get valued with that different profile in mind rather than compared directly against a modern horizontal well's numbers."
+   ]
+  },
+  {
+   "heading": "What to gather before talking to a buyer",
+   "paragraphs": [
+    "If you're considering selling a royalty interest, the most useful documents to have on hand are your most recent division order, the last several months of royalty statements, and any lease or amendment you can locate. Together they let a buyer price the interest off real numbers instead of estimates, and they let you double-check that whatever offer you receive is grounded in the same production history rather than a guess."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's a typical royalty rate on an Ohio oil and gas lease?",
+   "answer": "It varies by when the lease was signed and local competition among operators, but Ohio royalty rates have commonly ranged from about 1/8 to 1/5 of production, with more recent leases in active plays generally trending toward the higher end."
+  },
+  {
+   "question": "Why is my royalty check smaller than expected based on production numbers?",
+   "answer": "Most leases allow the operator to deduct post-production costs like gathering, processing, and transportation before calculating your royalty, unless your lease specifically prohibits it. Reviewing your division order clarifies what deductions apply to your specific lease."
+  },
+  {
+   "question": "How do buyers decide what a royalty interest is worth?",
+   "answer": "They look at trailing production and royalty income, the well's decline trend, remaining expected production life, and current commodity price assumptions, then price a multiple of that expected future income."
+  },
+  {
+   "question": "Are royalty interests from old wells worth selling?",
+   "answer": "They can be, even with modest monthly income, since older wells sometimes have a long, slow remaining decline that adds up over time. Value depends on the specific well's production history rather than its age alone."
+  }
+ ],
+ "status": "written",
+ "wordCount": 911,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightsohio-com.jpg",
+  "alt": "Royalty Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

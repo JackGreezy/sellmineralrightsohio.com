@@ -1,0 +1,58 @@
+{
+ "slug": "lore-city-oh",
+ "title": "Sell Mineral Rights in Lore City, OH",
+ "type": "city",
+ "kind": "city",
+ "county": "Guernsey",
+ "group": "Utica Core",
+ "primaryKeyword": "sell mineral rights lore city oh",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Lore City, OH | Guernsey County",
+ "metaDescription": "Lore City sits in Guernsey County's Utica core near Cambridge. See how nearby drilling units, old Clinton sand wells, and heirship affect a sale here.",
+ "heroLead": "Lore City is a small village in Guernsey County, close to Cambridge, sitting in a part of the Utica core that has drawn steady horizontal drilling since the mid-2010s.",
+ "intro": [
+  "Guernsey County has a layered oil and gas history. Long before anyone talked about the Utica shale, this county had shallow Clinton sandstone wells dotting farms around Lore City, some of them still technically active, most of them producing next to nothing. The modern story is different: deep horizontal wells targeting the Point Pleasant formation, run by operators who lease thousands of acres at a time. If you own minerals near Lore City, you may be sitting on both histories at once."
+ ],
+ "sections": [
+  {
+   "heading": "Two layers of ownership: shallow rights and deep rights",
+   "paragraphs": [
+    "Some older leases in Guernsey County only ever covered shallow formations, leaving the deep Utica/Point Pleasant rights open even on land that's technically 'leased.' Before assuming your minerals are locked up, check exactly which formations your existing lease, if any, actually covers. A lease signed in the 1980s for a stripper well almost never mentions the Point Pleasant by name."
+   ]
+  },
+  {
+   "heading": "What Cambridge-area drilling activity tells a buyer",
+   "paragraphs": [
+    "Cambridge, the Guernsey County seat, sits close enough to Lore City that permit and unit activity around the county seat is a reasonable proxy for value on nearby tracts. Operators who have drilled in this county include Ascent Resources and, going back further, Gulfport and Chesapeake acreage now largely consolidated under Encino Energy. A buyer valuing your interest will look at how those units are performing before naming a number."
+   ]
+  },
+  {
+   "heading": "Heirship and the paper trail at the county recorder",
+   "paragraphs": [
+    "Guernsey County land around small villages like Lore City often changed hands through inheritance rather than sale, which means the name on the tax bill and the name on the actual mineral deed don't always match. The Guernsey County Recorder's office in Cambridge is where you confirm the real chain of title before trying to sell, so a buyer isn't stuck untangling probate history mid-transaction."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does an old lease on my land cover the deep shale rights too?",
+   "answer": "Not necessarily. Older leases written for shallow Clinton sandstone wells sometimes don't extend to the deeper Point Pleasant formation. Read the depth and formation language in your existing lease carefully, or have it reviewed, before assuming your deep rights are tied up."
+  },
+  {
+   "question": "Are there still working shallow wells near Lore City?",
+   "answer": "Some low-volume Clinton sandstone wells remain scattered through Guernsey County from decades of earlier drilling. They typically produce very little and are a separate consideration from deep Utica rights."
+  },
+  {
+   "question": "How do I confirm who legally owns the minerals in my family's name?",
+   "answer": "Pull the deed and probate history at the Guernsey County Recorder's office in Cambridge. Land that passed through inheritance sometimes has a gap between the tax-bill name and the actual title of record."
+  }
+ ],
+ "wordCount": 505,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-lore-city-oh.jpg",
+  "alt": "Sell Mineral Rights in Lore City, OH location",
+  "width": 1600,
+  "height": 1000
+ }
+}

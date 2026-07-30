@@ -1,0 +1,60 @@
+{
+ "slug": "east-palestine-oh",
+ "title": "Sell Mineral Rights in East Palestine, OH",
+ "type": "city",
+ "kind": "city",
+ "county": "Columbiana",
+ "group": "Utica Flank",
+ "primaryKeyword": "sell mineral rights east palestine oh",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in East Palestine, OH",
+ "metaDescription": "East Palestine sits in Columbiana County near the Pennsylvania line, on the Utica flank. See what that geology means for a mineral rights sale.",
+ "heroLead": "East Palestine sits right at Ohio's eastern edge, close enough to Pennsylvania that some families here hold mineral interests that cross into both states' record systems.",
+ "intro": [
+  "East Palestine is a small city in eastern Columbiana County, close to the Pennsylvania border, in an area whose economy historically centered on farming and small manufacturing rather than oil and gas. Columbiana County sits on the flank of the Utica/Point Pleasant fairway, and development around East Palestine specifically has been limited compared to core counties further south, though mineral ownership here is no less real for families who've held farmland for generations."
+ ],
+ "sections": [
+  {
+   "heading": "Flank-edge geology near the state line",
+   "paragraphs": [
+    "Being at the far eastern edge of Columbiana County, tracts around East Palestine sit toward the outer boundary of the Utica play's productive area. That doesn't rule out future development, but it does mean current value depends heavily on lease status and nearby comparable activity rather than existing local production, since drilling here has been sparse."
+   ]
+  },
+  {
+   "heading": "Confirming which state's records actually govern your minerals",
+   "paragraphs": [
+    "If your property or your family's original land holding straddled the state line at any point, it's worth double-checking that your specific parcel is recorded in Ohio, since Ohio mineral law, including the Dormant Mineral Act, only applies to interests recorded here. The Columbiana County Recorder's office in Lisbon is the correct starting point for any Ohio-side title search."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is my mineral interest recorded in Ohio or Pennsylvania?",
+   "answer": "That depends on which county your parcel actually sits in, which the property's legal description will confirm. Ohio mineral law applies only to interests recorded with an Ohio county recorder."
+  },
+  {
+   "question": "Has there been any drilling activity near East Palestine?",
+   "answer": "Development in this far-eastern part of Columbiana County has been limited, so many interests here have never been leased, which affects how conservatively they're valued."
+  },
+  {
+   "question": "What's the first step if I've inherited land here and don't know about the minerals?",
+   "answer": "A title search through the Columbiana County Recorder tracing the deed back to any original severance will show whether minerals were ever separated from the surface and who currently holds them."
+  },
+  {
+   "question": "What paperwork should I gather before reaching out to a buyer?",
+   "answer": "Your deed or severance instrument, any lease documents, and recent royalty statements if you have them. Those let a buyer quote a real range instead of a rough estimate."
+  },
+  {
+   "question": "Does the Ohio Dormant Mineral Act apply to interests near the state line the same way?",
+   "answer": "Yes, as long as the parcel is recorded in an Ohio county, ORC 5301.56 applies the same way it would anywhere else in the state, regardless of proximity to Pennsylvania."
+  }
+ ],
+ "wordCount": 464,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-east-palestine-oh.jpg",
+  "alt": "Sell Mineral Rights in East Palestine, OH location",
+  "width": 1600,
+  "height": 1000
+ }
+}

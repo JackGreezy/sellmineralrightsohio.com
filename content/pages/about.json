@@ -1,0 +1,70 @@
+{
+ "slug": "about",
+ "title": "About",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "About Us | Ohio Mineral Rights Buyer",
+ "metaDescription": "Who we are, how we approach Ohio mineral rights purchases, and why we explain our numbers instead of just quoting them.",
+ "heroLead": "We buy mineral and royalty interests in Ohio, and we built this site around a fairly simple idea: most owners have never sold minerals before, so the explaining matters as much as the offer.",
+ "intro": [
+  "This page exists to answer the questions people usually ask before they trust anyone with something as unfamiliar as a mineral sale: who are you, how do you actually value an interest, and what happens if my title has problems. Here is the honest version of all three."
+ ],
+ "sections": [
+  {
+   "heading": "What we actually do",
+   "paragraphs": [
+    "We evaluate and purchase mineral and royalty interests from Ohio owners, primarily in the state's eastern Utica and Marcellus counties, though we look at interests statewide. Some of the tracts we buy are producing, with years of royalty history behind them. Others are leased but undrilled, or unleased entirely, sitting quietly waiting to see whether activity picks up nearby. We treat each of those situations differently in how we build a number, because they genuinely are different, and we would rather explain that distinction than paper over it with a single quoted figure.",
+    "A meaningful part of what we do is title review, specifically because Ohio mineral title carries risks that owners in most other states never encounter. Interests severed from the surface a century ago, inherited across multiple generations, and sometimes sitting quiet long enough to raise a question under the state's Dormant Mineral Act, all show up regularly in the parcels we look at. Catching those issues early, before they become a problem for you, is part of the job, not an afterthought."
+   ]
+  },
+  {
+   "heading": "How we think about a fair offer",
+   "paragraphs": [
+    "For producing interests, we build our number from actual production history, using a decline curve modeled off your well's real output rather than a generic county assumption. For unleased or undrilled interests, we look at recent permitting and leasing activity in your specific township, since a tract near an active pad is a different conversation than one in a quiet flank area of the play. We will walk through the reasoning behind any number with you, and we think that is the difference between a fair process and a rushed one, whether or not you ultimately decide to sell to us.",
+    "We are not licensed appraisers, attorneys, or CPAs, and we do not pretend otherwise. For questions specific to your tax situation or complex title matters beyond a standard review, we tell owners directly to talk to their CPA or an Ohio real estate attorney, because that is the right answer, not because it is convenient for us to say."
+   ]
+  },
+  {
+   "heading": "Why the process moves the way it does",
+   "paragraphs": [
+    "Once you accept an offer, our title team runs a real examination of your chain of ownership, not a rubber stamp, because a clean, recordable transfer protects both sides. If curative work is needed, a missing heir, an unresolved probate matter, a dormant mineral question, we explain what it is and roughly how long it takes rather than leaving you guessing. Most straightforward sales close within a few weeks; ones with title complexity take longer, and we would rather set that expectation honestly up front than surprise you midway through."
+   ]
+  },
+  {
+   "heading": "Why Ohio's dormant mineral rules shape how we operate",
+   "paragraphs": [
+    "We spend more time on title research than a lot of buyers do, and Ohio's Dormant Mineral Act is a big part of why. A mineral interest with no recorded lease, production, or other savings event in twenty years can be at risk of a surface owner starting the statutory abandonment process, and inherited Ohio interests sit in exactly that position more often than owners realize, since nobody in the family thought to lease or record anything for decades. We check for this on every parcel before we get far into a valuation conversation, because knowing early changes what the right next step actually is, sometimes it means recording a claim to preserve before anything else happens, and sometimes it means the interest is entirely fine and the conversation moves straight to value.",
+    "This is also why we do not treat every Ohio county the same. Eastern Ohio's Utica and Marcellus counties have very different activity levels town to town, and a family's mineral interest can sit anywhere from the active core of the play to a quiet flank area with no recent permitting at all. We would rather tell you honestly where your tract sits than describe every parcel we look at in the same optimistic terms."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Are you a law firm or appraisal company?",
+   "answer": "No, we are a mineral rights buyer. We are not licensed to give legal or tax advice, and we will point you to a qualified attorney or CPA for anything outside what a buyer can properly advise on."
+  },
+  {
+   "question": "How do you determine what my mineral rights are worth?",
+   "answer": "It depends on production history if the tract is producing, or recent leasing and permitting activity nearby if it is not, plus current commodity prices. We explain the specific factors behind any number, not only the number itself."
+  },
+  {
+   "question": "What counties in Ohio do you focus on?",
+   "answer": "We are most active in the eastern Utica and Marcellus counties, including Belmont, Guernsey, Harrison, Carroll, Noble, and Monroe, though we evaluate interests statewide."
+  },
+  {
+   "question": "Do you check for Dormant Mineral Act issues before making an offer?",
+   "answer": "Yes, checking whether an interest has any dormancy exposure under Ohio Revised Code 5301.56 is a standard part of how we review a parcel's title."
+  },
+  {
+   "question": "Is getting an offer from you free?",
+   "answer": "Yes, there is no cost or obligation to have us review your situation and discuss what your interest might be worth."
+  }
+ ],
+ "wordCount": 962,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-about-sellmineralrightsohio-com.jpg",
+  "alt": "About mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

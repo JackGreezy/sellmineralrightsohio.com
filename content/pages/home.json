@@ -1,0 +1,63 @@
+{
+ "slug": "home",
+ "title": "Home",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Ohio | Get an Offer",
+ "metaDescription": "Sell your Ohio mineral rights with a buyer who explains the number, checks your title including dormant mineral risk, and closes on your timeline.",
+ "heroLead": "We buy mineral and royalty interests across Ohio's oil and gas counties, and we explain every part of how we arrived at your number before you ever have to decide anything.",
+ "intro": [
+  "If you own mineral rights in Ohio, whether they came from a grandparent's farm, a lease your family signed decades ago, or a producing well you have collected royalty checks on for years, you have probably had more questions than answers about what the interest is actually worth and how selling it would even work. That is what this site is for. We would rather walk you through the mechanics first and let you decide from there than push a number at you and hope you do not ask how we got it."
+ ],
+ "sections": [
+  {
+   "heading": "What makes an Ohio mineral sale different",
+   "paragraphs": [
+    "Ohio owners deal with something most mineral owners in other states never think about: the Dormant Mineral Act. Under Ohio Revised Code 5301.56, a mineral interest with no recorded activity in twenty years can be claimed as abandoned by the surface owner, and that risk sits quietly under a lot of Ohio mineral title, especially interests that have been inherited and never leased or touched. We check for this on every parcel we look at, because it changes both the value conversation and, sometimes, the urgency of it.",
+    "Beyond that, Ohio's Utica Shale counties in the eastern part of the state, Belmont, Guernsey, Harrison, Carroll, Noble, and Monroe among them, plus Marcellus activity layered in along the state's eastern edge, mean production history and location within the play both matter enormously to what a given tract is actually worth. There is no flat statewide number, and we will tell you that directly rather than quote one."
+   ]
+  },
+  {
+   "heading": "How we build an offer",
+   "paragraphs": [
+    "If your minerals are producing, we work from actual production history and current activity nearby to build a value estimate, and we will explain the decline assumptions and other factors behind it if you ask, not only hand you a figure. If they are unleased or the tract has never been drilled, we look at recent permitting and leasing activity in your township to size up realistic value, which is inherently a more uncertain number and we say so. Either way, the value we discuss with you is a range tied to real, current activity, never a fixed promise, because commodity prices and drilling activity both move.",
+    "We also do the title work up front, including checking whether your interest carries any dormant mineral exposure, so that a title problem does not surface for the first time after you have already agreed to a number. If something needs to be fixed, an affidavit, a probate gap, a missing heir on record, we tell you plainly what it is and what it typically takes to resolve. This up-front review is also where we catch the situations that need attention before value even matters, an interest sitting near the twenty-year mark with no recorded activity, for instance, where the right first move might be securing the title before negotiating a price at all."
+   ]
+  },
+  {
+   "heading": "What selling actually involves",
+   "paragraphs": [
+    "You send us basic information about your interest and your county, we review your deed and any production or lease history you have, and we put together an offer with the reasoning behind it. If you accept, our title team runs a full title examination, handles any curative work needed, and prepares the mineral deed for recording with your county recorder. You are not managing statements, chasing decline curves, or thinking about dormant mineral notices after that. We are a buyer and connector in this process, not a licensed appraiser, attorney, or CPA, so for anything specific to your tax situation or legal title questions beyond what we can review, we will point you to your CPA or an Ohio attorney and mean it."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you buy mineral rights anywhere in Ohio, or just certain counties?",
+   "answer": "We look at interests across the state's producing counties, with the most activity in eastern Ohio's Utica and Marcellus areas. Send us your county and we can tell you quickly whether it is an active area for us."
+  },
+  {
+   "question": "What if I am not sure whether my mineral rights are still mine?",
+   "answer": "That uncertainty is common, especially with inherited interests, and it is exactly the kind of question we check as part of reviewing your parcel, including whether Ohio's Dormant Mineral Act could be a factor."
+  },
+  {
+   "question": "Is there any cost or obligation to get information from you?",
+   "answer": "No. Reviewing your situation and discussing what your interest might be worth costs nothing and does not obligate you to sell."
+  },
+  {
+   "question": "How is my mineral rights value actually determined?",
+   "answer": "It depends on whether your tract is producing, its decline curve if so, and recent leasing or permitting activity nearby if not. We will walk you through the specific factors behind any number we discuss with you."
+  },
+  {
+   "question": "Do you buy interests that are currently leased?",
+   "answer": "Yes, a sale can happen with an existing lease in place, and the buyer simply steps into your position as lessor for any future royalty payments under that lease."
+  }
+ ],
+ "wordCount": 885,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-home-sellmineralrightsohio-com.jpg",
+  "alt": "Home mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

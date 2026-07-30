@@ -1,0 +1,76 @@
+{
+ "slug": "privacy",
+ "title": "Privacy",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Privacy Policy | Ohio Mineral Rights",
+ "metaDescription": "How we collect, use, and protect the information you share with us when asking about your Ohio mineral rights, and the choices you have about it.",
+ "heroLead": "This page explains, in plain language, what information we collect when you contact us about your mineral rights and what we do with it.",
+ "intro": [
+  "We know discussing your mineral ownership means sharing some personal and property information, and we take that seriously. This policy covers what we collect, how we use it, and what choices you have."
+ ],
+ "sections": [
+  {
+   "heading": "What information we collect",
+   "paragraphs": [
+    "When you reach out through this site, by phone, email, or a contact form, we collect the information you choose to provide, which typically includes your name, contact details, the county your mineral interest is located in, and any details about your ownership, production history, or documentation you share with us, such as a deed or division order. We may also collect basic technical information automatically when you visit the site, such as browser type and general location, through standard website analytics tools.",
+    "We do not collect financial account information, Social Security numbers, or other sensitive identifiers through this site directly. If those become necessary later in an actual transaction, that exchange happens through secure, direct channels appropriate to a real estate closing, not through general web forms."
+   ]
+  },
+  {
+   "heading": "How we use it",
+   "paragraphs": [
+    "We use the information you provide to research your mineral interest using public county records, to prepare and discuss a potential offer with you, and to communicate with you about your inquiry or an active transaction. We do not sell your personal information to third parties. We may share relevant details with title companies, attorneys, or recording offices as necessary to complete a transaction you have agreed to move forward with, and with service providers who help us operate this site, under confidentiality expectations consistent with this policy.",
+    "If you contact us but do not proceed with a sale, we retain your information only as long as reasonably necessary to respond to your inquiry or as required for our business records, and you can ask us to delete it at any time."
+   ]
+  },
+  {
+   "heading": "Your choices and how to reach us",
+   "paragraphs": [
+    "You can ask us at any time what information we have on file for you, ask us to correct it, or ask us to delete it, subject to any records we are required to retain for completed transactions. You can also opt out of any non-essential communications from us at any time by telling us directly. If you have questions about this policy or how your information is handled, reach out through the contact page and we will respond directly."
+   ]
+  },
+  {
+   "heading": "How we protect the information you share",
+   "paragraphs": [
+    "Given that inquiries about mineral rights often involve details about property ownership and family estates, we limit access to the information you provide to the people directly involved in reviewing your interest or preparing a transaction, and we expect the same handling from any title company, attorney, or service provider we work with on your behalf. We do not publish or display any owner's name, contact information, or ownership details publicly as part of operating this site.",
+    "If our practices around your information change in a way that affects how it is used, we will update this policy and, where appropriate, notify you directly if you have an active inquiry or transaction with us."
+   ]
+  },
+  {
+   "heading": "Information involving multiple family members",
+   "paragraphs": [
+    "Because mineral interests are frequently inherited and shared among relatives, you may share information with us that touches on family members beyond yourself, such as identifying co-owners of a tract or explaining an estate's ownership history. We treat that information with the same care as information you provide about yourself, and we use it only to help clarify ownership and title, not for any unrelated purpose. If a family member you have named contacts us directly, we treat their inquiry separately and do not disclose what you shared without appropriate reason to do so."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you sell my personal information to other companies?",
+   "answer": "No, we do not sell your personal information to third parties. We only share what is necessary with parties like title companies or attorneys involved in completing a transaction you have chosen to move forward with."
+  },
+  {
+   "question": "How long do you keep my information if I do not sell?",
+   "answer": "We retain it only as long as reasonably necessary to respond to your inquiry or for standard business recordkeeping, and you can request deletion at any time."
+  },
+  {
+   "question": "Can I ask what information you have about me?",
+   "answer": "Yes, contact us and we will tell you what we have on file and can correct or delete it at your request, subject to records we must retain for completed transactions."
+  },
+  {
+   "question": "Do you use cookies or tracking on this site?",
+   "answer": "We may use standard website analytics tools that collect general, non-identifying technical information, such as browser type, to understand site usage."
+  },
+  {
+   "question": "Who do you share my mineral interest details with during a sale?",
+   "answer": "Only parties directly necessary to complete the transaction, such as title companies, attorneys, and the county recorder, and only with your understanding that the sale is proceeding."
+  }
+ ],
+ "wordCount": 857,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-privacy-sellmineralrightsohio-com.jpg",
+  "alt": "Privacy mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

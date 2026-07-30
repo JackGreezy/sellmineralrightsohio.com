@@ -1,0 +1,58 @@
+{
+ "slug": "malvern-oh",
+ "title": "Sell Mineral Rights in Malvern, OH",
+ "type": "city",
+ "kind": "city",
+ "county": "Carroll",
+ "group": "Utica Core",
+ "primaryKeyword": "sell mineral rights malvern oh",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Malvern, OH | Carroll County",
+ "metaDescription": "Malvern sits in Carroll County's Utica core near heavy legacy drilling. Here's what division orders, unit maps, and old leases mean for your sale.",
+ "heroLead": "Malvern is a small village in Carroll County, sitting inside one of Ohio's most consistently drilled Utica core areas since the play's earliest days.",
+ "intro": [
+  "Carroll County was ground zero for the first wave of Ohio Utica drilling, and Malvern sits well within that footprint. Mineral owners here are unusually likely to already have some paper trail, whether that's an original lease from 2011 or 2012, a division order from a producing well, or at minimum a landman's offer letter tucked away somewhere. Finding that paperwork is the fastest path to an accurate value."
+ ],
+ "sections": [
+  {
+   "heading": "Original Carroll County leases and how they've aged",
+   "paragraphs": [
+    "A lot of leases signed in Carroll County during the 2011-2012 rush are now over a decade old. If a well was drilled and is still producing on your unit, the lease is likely held by production and will stay in force as long as the well produces in paying quantities. If no well was ever drilled, that lease has almost certainly expired by now, and your minerals should be open again, which is worth confirming rather than assuming."
+   ]
+  },
+  {
+   "heading": "What a division order tells a buyer about your interest",
+   "paragraphs": [
+    "If you're receiving royalty payments from a Malvern-area well, your division order specifies your exact decimal interest in that unit. That single number, cross-referenced against the well's actual production history, is what lets a buyer calculate a real offer instead of a rough estimate."
+   ]
+  },
+  {
+   "heading": "Recorder records in Carrollton",
+   "paragraphs": [
+    "The Carroll County Recorder's office in Carrollton is the place to confirm lease status, unit boundaries, and chain of title for land near Malvern. Given how long ago the original leasing wave happened here, it's worth double-checking whether more recent title transactions, like a sale or inheritance, have actually been recorded."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How old are typical leases around Malvern?",
+   "answer": "Many date to the initial Carroll County leasing rush around 2011-2012. Whether they're still active depends on whether a well was actually drilled and is producing on that unit."
+  },
+  {
+   "question": "What is a division order and why does it matter for selling?",
+   "answer": "It's the document that states your exact decimal share of a producing well's revenue. It's one of the most useful documents a buyer can review to value a producing mineral interest accurately."
+  },
+  {
+   "question": "If my lease expired with no well drilled, are my minerals free again?",
+   "answer": "Generally yes, once the primary lease term ends without a well being drilled or the lease otherwise held by production, the minerals revert to unleased status. Confirm this with a title check rather than assuming."
+  }
+ ],
+ "wordCount": 450,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-malvern-oh.jpg",
+  "alt": "Sell Mineral Rights in Malvern, OH location",
+  "width": 1600,
+  "height": 1000
+ }
+}

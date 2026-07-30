@@ -1,0 +1,69 @@
+{
+ "slug": "inherited-mineral-rights",
+ "title": "Inherited Mineral Rights",
+ "type": "situation",
+ "note": "heirs deciding whether to keep or sell",
+ "metaTitle": "Inherited Mineral Rights in Ohio: What to Do Next",
+ "metaDescription": "Inherited Ohio mineral rights from a parent or grandparent? Learn how to confirm ownership, understand royalty history, and decide whether to keep or sell.",
+ "heroLead": "Inheriting mineral rights usually starts with a folder of old paperwork and a lot more questions than answers.",
+ "intro": [
+  "Most people who inherit Ohio mineral rights didn't ask for them and don't fully understand what they own. Maybe a royalty check shows up in a parent's name a few months after the funeral, or a landman's letter arrives referencing a deed from three generations back. Either way, the first job isn't deciding whether to sell, it's figuring out exactly what you now hold and whether it's actually yours yet on paper.",
+  "The good news is that Ohio's process for sorting this out is well established, even if it can feel unfamiliar the first time you're doing it."
+ ],
+ "sections": [
+  {
+   "heading": "Confirming the interest is actually recorded in your name",
+   "paragraphs": [
+    "Inheriting an interest legally and having it reflected in the county recorder's records are two different things. If the estate went through probate, the mineral interest should have been listed in the probate inventory and a certificate of transfer or executor's deed recorded conveying it to the heirs. If the estate skipped probate, or the mineral interest was overlooked because nobody realized the deceased still owned it, the record may still show your parent or grandparent as the owner of record decades after they passed.",
+    "Until that gap is closed, whether through a late probate filing, an affidavit of heirship, or a small estate procedure depending on the value involved, you technically can't sign a clean deed or division order for the interest. This is one of the more common delays in an Ohio mineral sale, and it's worth starting early rather than discovering it mid-transaction."
+   ]
+  },
+  {
+   "heading": "Understanding what you actually inherited",
+   "paragraphs": [
+    "Not every inherited interest is the same. Some heirs inherit minerals that are actively producing, with royalty checks arriving regularly. Others inherit a lease with no well drilled yet, which pays nothing until production starts, or worse, an expired lease with no current agreement at all. Still others inherit raw, unleased minerals that have simply sat quiet for decades.",
+    "Pulling the last few years of royalty statements, if any exist, or checking the Ohio Department of Natural Resources' well records for the county tells you which category you're in. That single piece of information changes almost everything about how to think about the interest, from what it might be worth to how urgently anything needs to happen with it."
+   ]
+  },
+  {
+   "heading": "Multiple heirs, one interest",
+   "paragraphs": [
+    "It's common for a mineral interest to pass to several siblings or cousins at once, each inheriting an undivided fractional share. Everyone owns a percentage of the whole rather than a specific piece, which means decisions about leasing or selling technically require everyone's agreement, or at minimum, each heir can only sell their own individual share to a buyer willing to become a co-owner with the rest of the family.",
+    "Family disagreements about whether to keep or sell are common, and there's no requirement that everyone act the same way. One heir can sell their fractional share while others hold onto theirs, which sometimes resolves a stalemate faster than trying to get unanimous agreement."
+   ]
+  },
+  {
+   "heading": "The Dormant Mineral Act clock doesn't pause for inheritance",
+   "paragraphs": [
+    "One detail that catches heirs off guard: Ohio's Dormant Mineral Act twenty-year abandonment clock keeps running through a death and inheritance. If the original interest sat unused for a long stretch before your relative passed, and nobody in the family took a recorded action like filing a preservation claim or signing a lease, the interest could already be vulnerable to a surface owner's abandonment claim by the time it reaches you.",
+    "Checking the recorder's records for any prior lease, preservation filing, or notice of abandonment related to the tract is worth doing as part of settling the estate, not something to leave for later."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I have to go through probate to sell inherited Ohio minerals?",
+   "answer": "If the estate wasn't already probated, some form of legal transfer, whether a late probate filing, affidavit of heirship, or small estate procedure, is usually needed to establish clear title before a buyer's title company will close on the interest."
+  },
+  {
+   "question": "How do I find out if my inherited minerals are leased or producing?",
+   "answer": "Start by checking for recent royalty statements addressed to the person you inherited from, and search the Ohio Department of Natural Resources well database for the county and township where the tract sits to see if any wells have been permitted or drilled nearby."
+  },
+  {
+   "question": "Can I sell my share if my siblings want to keep theirs?",
+   "answer": "Yes. Each heir who owns an undivided fractional interest can generally sell their own share independently, and your siblings would simply continue owning their percentage alongside whoever buys yours."
+  },
+  {
+   "question": "What if the mineral interest was never mentioned in the will?",
+   "answer": "It's not unusual for mineral interests to be left out of a will simply because the deceased forgot they owned them or the family didn't realize the estate included them. An attorney can usually still establish heirship through Ohio's intestate succession rules or a supplemental probate filing."
+  }
+ ],
+ "status": "written",
+ "wordCount": 867,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-inherited-mineral-rights-sellmineralrightsohio-com.jpg",
+  "alt": "Inherited Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

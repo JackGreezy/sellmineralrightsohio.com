@@ -1,0 +1,56 @@
+{
+ "slug": "east-liverpool-oh",
+ "title": "Sell Mineral Rights in East Liverpool, OH",
+ "type": "city",
+ "kind": "city",
+ "county": "Columbiana",
+ "group": "Utica Flank",
+ "primaryKeyword": "sell mineral rights east liverpool oh",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in East Liverpool, OH",
+ "metaDescription": "East Liverpool sits in Columbiana County on the Utica flank, a former pottery-industry hub with layered mineral history. See what that means for your interest.",
+ "heroLead": "East Liverpool built its economy on pottery and clay, not oil and gas, which is part of why mineral ownership here tends to surprise people who inherit it.",
+ "intro": [
+  "East Liverpool sits on the Ohio River in Columbiana County, historically known as the pottery capital of the country, with an economy that leaned on clay, ceramics and river industry rather than oil and gas for most of its history. Columbiana County sits on the flank of the Utica/Point Pleasant play, and while it hasn't seen the drilling density of counties further south, mineral rights under East Liverpool-area land are still real assets, often tied to old farm or industrial-era deeds that most current owners have never closely examined."
+ ],
+ "sections": [
+  {
+   "heading": "Utica flank position along the river",
+   "paragraphs": [
+    "East Liverpool's location along the Ohio River, near the West Virginia and Pennsylvania borders, puts it in a corner of the state where Utica flank geology and Marcellus proximity both come into play depending on the specific tract. Development here has been more selective than in the deep core counties, so whether your interest has ever been leased is often the single biggest factor in how it gets valued."
+   ]
+  },
+  {
+   "heading": "Industrial-era deeds and forgotten reservations",
+   "paragraphs": [
+    "Because East Liverpool's economy was built on clay and pottery rather than farming or coal, a lot of mineral reservations here trace back to industrial land transactions rather than the farm-family severances common elsewhere in the region. That history can make chain of title less straightforward, so a search through the Columbiana County Recorder in Lisbon is the reliable way to confirm what a specific parcel's deed actually reserved."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Has there been any Utica drilling activity near East Liverpool?",
+   "answer": "Columbiana County sits on the flank of the play, so development has been more limited here compared to core counties, though this varies by township and can change as operators expand their footprint."
+  },
+  {
+   "question": "My family's land was tied to a pottery company generations ago. Could minerals be involved?",
+   "answer": "It's possible. Industrial-era land transactions sometimes reserved mineral rights alongside or instead of surface rights, so it's worth checking the original deed language at the county recorder's office."
+  },
+  {
+   "question": "How do I get a sense of value with no nearby drilling?",
+   "answer": "Without local production, value is estimated against comparable recent activity in similar flank-position areas, and depends heavily on your net mineral acres and whether the interest has ever been leased."
+  },
+  {
+   "question": "Does being near two state lines complicate a title search?",
+   "answer": "Not directly, since Ohio mineral rights are governed by Ohio law and recorded in the Columbiana County Recorder's office regardless of proximity to Pennsylvania or West Virginia, but it's worth confirming your parcel is actually on the Ohio side of any boundary."
+  }
+ ],
+ "wordCount": 478,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-east-liverpool-oh.jpg",
+  "alt": "Sell Mineral Rights in East Liverpool, OH location",
+  "width": 1600,
+  "height": 1000
+ }
+}

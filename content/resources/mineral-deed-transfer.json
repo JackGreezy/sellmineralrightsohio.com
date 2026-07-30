@@ -1,0 +1,63 @@
+{
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Mineral Deeds and Title Transfer in Ohio, Explained",
+ "metaDescription": "What a mineral deed actually does, how title transfer works with the county recorder, and where Ohio mineral owners commonly hit title snags.",
+ "heroLead": "A mineral deed does one specific job — it moves ownership of the mineral estate from one name to another, on the public record, permanently.",
+ "intro": [
+  "The deed is the whole transaction, in the sense that everything before it is negotiation and everything after it is just paperwork confirming what the deed already did. It is worth understanding what the document actually says and does, because it is easy to sign one without reading the details that matter."
+ ],
+ "sections": [
+  {
+   "heading": "What a mineral deed actually conveys",
+   "paragraphs": [
+    "A mineral deed transfers ownership of the minerals underlying a described tract of land, separate from the surface. In Ohio, where surface and mineral ownership have frequently been split apart for a century or more, this is a distinct estate with its own chain of title running independently of who owns the farmland or house sitting above it. The deed will describe the tract using the same legal description as the original severance or the current parcel record, state the fraction of the mineral estate being conveyed if it is less than 100 percent, and specify whether the grant includes any existing lease, meaning whether the buyer steps into your position as lessor and begins receiving future royalty.",
+    "Some deeds convey the full mineral fee; others convey only a royalty interest carved out of it, which entitles the holder to a share of production revenue without the executive right to sign future leases. These are not the same thing, and the deed's language, not its title, is what controls. Read the granting clause carefully, or have someone who understands it read it for you, before you sign."
+   ]
+  },
+  {
+   "heading": "How the transfer actually happens",
+   "paragraphs": [
+    "Once both sides agree to terms, the buyer's side typically prepares the deed and, before closing, runs a title examination covering the chain of ownership back through prior deeds, probate records, and any recorded liens or judgments. This is standard, not a sign of distrust — it protects the buyer and confirms to you that your title is clean enough to transfer without future disputes. If the search turns up a gap, such as an heir never formally added to the chain or a probate estate that was never fully closed, that gap has to be cured, usually with an affidavit of heirship, a corrective deed, or a completed probate filing, before closing can proceed.",
+    "The signed deed is then recorded with the county recorder in the county where the minerals are located, which makes the transfer part of the permanent public record and puts the world on notice of the new owner. Ohio charges a modest per-page recording fee, and most transactions include a conveyance fee statement even though mineral transfers are commonly exempt from actual transfer tax. You should receive a copy of the recorded deed, stamped with its recording number, for your own file."
+   ]
+  },
+  {
+   "heading": "Where title snags most often show up",
+   "paragraphs": [
+    "The most common issue we see in Ohio mineral title is an incomplete inheritance chain — a parcel that passed through two or three generations with some heirs never formally recorded on title, sometimes because the original owner died without a will and no probate estate was opened to formally distribute the mineral interest. The second most common issue is a lapsed or ambiguous dormant-mineral history, where the interest has sat quiet long enough that a title examiner wants to confirm there has been no notice of abandonment filed against it under Ohio's Dormant Mineral Act. Both are fixable, usually with the right affidavit or a probate filing, but both take real time, so building that time into your expectations for closing avoids frustration later."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What is the difference between a mineral deed and a royalty deed?",
+   "answer": "A mineral deed conveys the full mineral estate, including the right to sign future leases. A royalty deed conveys only a share of production revenue, without that leasing right. The document's actual language, not its label, controls which one you are signing."
+  },
+  {
+   "question": "Who pays the recording fee when I sell my mineral rights?",
+   "answer": "This is negotiable and varies by transaction, but it is common for the buyer to cover recording and standard closing costs as part of the deal, particularly on straightforward transactions."
+  },
+  {
+   "question": "What happens if there is a lien on the property when I sell minerals?",
+   "answer": "A title search will surface most liens or judgments against the record owner. These typically need to be resolved or released before or at closing, since they can attach to the interest being conveyed."
+  },
+  {
+   "question": "Do I need to notify anyone else in my family before selling my share?",
+   "answer": "Legally, you generally only need to convey your own interest, but if the mineral rights are held jointly or as tenants in common with relatives, discussing it with them first avoids surprises and disputes later."
+  },
+  {
+   "question": "How long after closing until the deed is recorded?",
+   "answer": "Most buyers record within days of closing, sometimes the same day. You can confirm recording directly with the county recorder's office once you have the deed number."
+  }
+ ],
+ "wordCount": 863,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-sellmineralrightsohio-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

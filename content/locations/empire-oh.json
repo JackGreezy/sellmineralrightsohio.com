@@ -1,0 +1,56 @@
+{
+ "slug": "empire-oh",
+ "title": "Sell Mineral Rights in Empire, OH",
+ "type": "city",
+ "kind": "city",
+ "county": "Jefferson",
+ "group": "Utica Flank",
+ "primaryKeyword": "sell mineral rights empire oh",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Empire, OH",
+ "metaDescription": "Empire sits on the Ohio River in Jefferson County, an old power-plant town with layered mineral history. See what that means before you sell.",
+ "heroLead": "Empire sits right on the Ohio River, and for most of its history the land here was valued for power generation and river industry, not for what's underneath it.",
+ "intro": [
+  "Empire is a small river village in Jefferson County, historically associated with power generation along the Ohio River rather than farming or coal mining, which gives it a somewhat different land-history profile than many surrounding communities. Sitting on the Utica flank, drilling activity around Empire has been limited, and mineral ownership here is often tied to older industrial or utility-adjacent land transactions rather than simple farm severances."
+ ],
+ "sections": [
+  {
+   "heading": "River-industry land history and mineral severances",
+   "paragraphs": [
+    "Because Empire's land history involves power and industrial use along the river, mineral reservations here can trace back to utility company transactions as easily as farm deeds, and those two types of deeds don't always use the same language or structure. Confirming which applies to your specific parcel means pulling the actual recorded instrument from the Jefferson County Recorder's office rather than assuming based on general area history."
+   ]
+  },
+  {
+   "heading": "What flank positioning means for Empire-area value",
+   "paragraphs": [
+    "With limited local drilling activity, an unleased mineral interest around Empire is typically valued against nearby comparable activity in Jefferson County and the broader flank region, rather than against local production, since there may not be any. A leased or producing interest, by contrast, gives a buyer real numbers to work from immediately."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does Empire's industrial history affect mineral ownership?",
+   "answer": "It can. Land tied to power generation or utility use sometimes has a different chain of title than simple farmland, so it's worth pulling the actual deed rather than assuming a typical farm-severance structure."
+  },
+  {
+   "question": "Is there current drilling activity near Empire?",
+   "answer": "This part of Jefferson County sits on the flank of the Utica play, so activity has generally been limited, though it's worth checking your specific township for any recent leasing."
+  },
+  {
+   "question": "What if I can't find any deed mentioning mineral rights at all?",
+   "answer": "That could mean the minerals were never severed and simply pass with the surface, or it could mean an early conveyance is missing from your personal records. A full title search at the county recorder's office will clarify which is the case."
+  },
+  {
+   "question": "What documents help establish my exact interest?",
+   "answer": "Your deed, any lease or division order, and recent royalty statements if you receive them. Those give a buyer real numbers instead of a general estimate."
+  }
+ ],
+ "wordCount": 425,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-empire-oh.jpg",
+  "alt": "Sell Mineral Rights in Empire, OH location",
+  "width": 1600,
+  "height": 1000
+ }
+}

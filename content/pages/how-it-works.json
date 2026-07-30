@@ -1,0 +1,76 @@
+{
+ "slug": "how-it-works",
+ "title": "How It Works",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "How Selling Your Ohio Mineral Rights Works",
+ "metaDescription": "The step-by-step process for selling Ohio mineral rights with us, from your first call through title review, closing, and getting paid.",
+ "heroLead": "Four steps get you from a first phone call to a recorded deed and a payment, and none of them require you to already understand the oil and gas business.",
+ "intro": [
+  "We built this process to move at a pace that matches the complexity of your specific title, not a fixed script. Some sales close in under two weeks. Others, particularly inherited interests with title gaps, take longer because there is real work to do first. Here is what actually happens at each stage."
+ ],
+ "sections": [
+  {
+   "heading": "Tell us about your interest",
+   "paragraphs": [
+    "This starts with basic information: the county your minerals sit in, roughly how many net mineral acres you hold if you know it, whether the tract is currently leased or producing, and how you came to own the interest, purchased, inherited, or otherwise. You do not need your deed pulled or your paperwork organized before this call. If you are not sure of some of these answers, that is normal, and we can often help track down the missing pieces using public county records.",
+    "If the interest has never been leased or has sat with no recorded activity in a long time, we will also ask a few questions aimed at checking whether Ohio's Dormant Mineral Act could be a factor, since that changes both the value picture and the urgency of moving forward."
+   ]
+  },
+  {
+   "heading": "We review title and build an offer",
+   "paragraphs": [
+    "We pull the recorder's records for your parcel, confirm your chain of title, and check for anything that would complicate a transfer, an incomplete probate record, an heir never formally added to title, or a dormancy question. If the tract is producing, we build our valuation from your actual production history and a decline curve modeled off it. If it is unleased or undrilled, we look at recent permitting and leasing activity in your township. Either way, we will explain the reasoning behind the number, not only state it.",
+    "This step typically takes a few days to a week, depending on how much county-level research is needed and whether you have documentation on hand like division orders or a lease copy."
+   ]
+  },
+  {
+   "heading": "Handling title curative and closing prep",
+   "paragraphs": [
+    "If you accept the offer and title review turned up anything that needs fixing, we handle coordinating that, whether it is preparing an affidavit of heirship, completing a probate filing, or filing a claim to preserve if a dormant mineral question exists. Straightforward title moves to closing prep quickly. Title with real gaps takes longer, and we will keep you updated on exactly what is outstanding and roughly how long it should take to resolve, rather than leaving you in the dark.",
+    "During this stage we also prepare the mineral deed itself, confirming the legal description, your fractional interest, and whether any existing lease transfers with the sale."
+   ]
+  },
+  {
+   "heading": "Signing, recording, and getting paid",
+   "paragraphs": [
+    "Once title is clear, you sign the deed, we record it with your county recorder, and payment is sent, typically by wire or check depending on your preference. Once the deed is recorded, the transaction is complete: no ongoing obligations, no future statements to track, and the mineral interest is fully transferred. You will receive a copy of the recorded deed for your own records."
+   ]
+  },
+  {
+   "heading": "What if your interest raises a dormant mineral question",
+   "paragraphs": [
+    "For some Ohio owners, the process includes an extra branch before closing: confirming there is no live dormant mineral issue under Ohio Revised Code 5301.56. If your interest has gone quiet for close to twenty years with no lease, production, or tax filing in your name, we flag this early rather than after you have already agreed to a number, since it can affect both the timeline and, in rare cases, whether the interest is still yours to sell at all. Most of the time this resolves with a simple recorded claim to preserve, prepared with an Ohio attorney, and the sale proceeds on a slightly adjusted timeline. It is far better to catch this in step one than to discover it during a title exam after you thought you were close to closing."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does the whole process take from start to finish?",
+   "answer": "A clean title with no complications can close in one to two weeks. Interests with title gaps, such as an incomplete probate record, commonly take four to eight weeks while curative work is completed."
+  },
+  {
+   "question": "Do I have to pay anything out of pocket to sell?",
+   "answer": "No. Standard closing and title costs are typically covered as part of the transaction rather than billed to you separately."
+  },
+  {
+   "question": "What if title work uncovers a problem I did not know about?",
+   "answer": "We explain exactly what the issue is and what it generally takes to resolve, whether that is a missing heir, an unclosed probate estate, or a dormant mineral question, and we coordinate the fix rather than leaving it to you."
+  },
+  {
+   "question": "Can I back out after getting an offer?",
+   "answer": "Yes, there is no obligation to proceed until you sign the deed at closing. Getting an offer and reviewing it does not commit you to anything."
+  },
+  {
+   "question": "How do I get paid at closing?",
+   "answer": "Payment is typically sent by wire or check once the deed is signed and ready to record, and timing is coordinated directly with you."
+  }
+ ],
+ "wordCount": 898,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-how-it-works-sellmineralrightsohio-com.jpg",
+  "alt": "How It Works mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

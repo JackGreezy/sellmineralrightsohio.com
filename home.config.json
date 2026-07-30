@@ -1,0 +1,29 @@
+{
+  "domain": "sellmineralrightsohio.com",
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsohio.com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsohio.com",
+  "reference": "https://www.suzlon.com/",
+  "refhost": "suzlon-com",
+  "biz": "Sell Mineral Rights Ohio",
+  "businessName": "Sell Mineral Rights Ohio",
+  "wordmark_l1": "SELL MINERAL RIGHTS",
+  "wordmark_l2": "OHIO",
+  "city": "Canton",
+  "state": "Ohio",
+  "region": "Canton, the Utica and Point Pleasant fairway, and mineral-producing counties across eastern Ohio",
+  "phone": "330-555-1034",
+  "email": "ohio@sellmineralrightsohio.com",
+  "address": "218 Cleveland Ave SW, Canton, OH 44702",
+  "vertical": "mineral-rights",
+  "suppress_footer_media": true,
+  "brand_favicon": "/favicon.svg",
+  "hero_image": "/ours/pages/mineral-rights-pages-home-sellmineralrightsohio-com.jpg",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightsohio.com/site-voice.json",
+  "nav": [
+    ["Selling Situations", "/situations"],
+    ["Interest Types", "/interest-types"],
+    ["Owner Resources", "/resources"],
+    ["Ohio Areas", "/locations"]
+  ],
+  "cta": ["Request an Ohio Review", "/contact#contact-form"]
+}

@@ -1,0 +1,65 @@
+{
+ "slug": "spotting-lowball-offers",
+ "title": "How to Spot a Lowball Offer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How to Spot a Lowball Mineral Rights Offer in Ohio",
+ "metaDescription": "The specific patterns that separate a fair Ohio mineral rights offer from a lowball one, and the questions that expose the difference fast.",
+ "heroLead": "A lowball offer rarely announces itself with an obviously bad number — it usually hides in a rushed timeline, a vague explanation, or a number pulled with no data behind it.",
+ "intro": [
+  "Ohio mineral owners get cold calls and mailers constantly, and the range of offers can be genuinely wide for the exact same interest. Some of that spread is legitimate, since buyers use different assumptions. Some of it is a deliberate bet that an owner will not check the math. Here is how to tell the difference."
+ ],
+ "sections": [
+  {
+   "heading": "The pattern of a rushed offer",
+   "paragraphs": [
+    "The clearest warning sign is pressure to decide fast, an offer that expires in 48 hours, a claim that the price is only good if you sign this week, or repeated calls pushing you toward an immediate answer. A legitimate buyer's valuation does not spoil in two days. Commodity prices and local activity move over weeks and months, not hours, so urgency of that kind is almost always a tactic to keep you from getting a second opinion, not a reflection of the market actually shifting under you.",
+    "A related pattern is an offer with no explanation behind the number at all — just a flat dollar figure with no reference to your production history, your county's recent activity, or how the buyer arrived at it. Ask directly what data the offer is based on. A real answer names specific inputs: recent production volumes, a decline assumption, nearby permitting activity. A vague answer, or a change of subject, tells you something."
+   ]
+  },
+  {
+   "heading": "The pattern of a mismatched number",
+   "paragraphs": [
+    "If you have royalty statement history and the offer does not seem to reflect it at all, that is worth questioning directly. A buyer who never asked to see your statements or your production history but still produced a confident number is either working from very thin state-level data or is not trying very hard to get the number right. Ask them to walk through how they used, or would use, your actual production data, and see how the number moves once they have it.",
+    "It is also worth watching for offers that ignore your specific position within the play. A flat number quoted for 'your county' without acknowledging whether your tract sits near recent permits or far from them treats a core tract and a flank tract as identical, which they are not. If a second buyer's number changes meaningfully once they learn your township-level position, that tells you the first number was not built carefully."
+   ]
+  },
+  {
+   "heading": "How to protect yourself without much effort",
+   "paragraphs": [
+    "Get a second offer before signing anything. This alone catches most lowball attempts, because a legitimate range of offers will cluster reasonably close together once both buyers have the same production data, while a lowball offer tends to stand out clearly once compared. Ask every buyer the same three questions: what production or activity data is the offer based on, what happens to any existing lease if I sell, and what is covered versus what comes out of my proceeds at closing. Consistent, specific answers across buyers are a good sign. Evasive or shifting answers are not.",
+    "None of this requires hiring an expert before you even start, though for a complex title situation, involving an heirship dispute or a large interest, a one-time consult with an Ohio mineral attorney is money well spent before you sign.",
+    "It is also worth remembering that a lowball attempt and a legitimately lower offer are not the same thing. A buyer who has looked closely at your tract's decline curve or its distance from active permitting and arrived honestly at a modest number is not lowballing you, they are pricing real uncertainty. The distinction is in the explanation, not the number alone, which is exactly why asking for the reasoning matters more than comparing headline figures in isolation."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a cold-call mailer offer automatically a lowball?",
+   "answer": "Not automatically, but mailers are often sent broadly with rough, county-level estimates rather than a number built from your actual production data, so treat the figure as a starting point to verify, not a final offer."
+  },
+  {
+   "question": "How much should offers typically differ from each other?",
+   "answer": "Reasonable offers built from the same production data tend to land in a similar range, though differing decline and price assumptions can create real spread. A number far outside that range in either direction deserves a closer look."
+  },
+  {
+   "question": "What should I do if a buyer pressures me to sign today?",
+   "answer": "Tell them you need time to compare offers. A legitimate buyer with a fair number will not walk away over a reasonable delay of a week or two."
+  },
+  {
+   "question": "Can I ask a buyer to show their math?",
+   "answer": "Yes, and you should. A buyer confident in their number will explain the production data, decline assumption, and recent activity behind it without hesitation."
+  },
+  {
+   "question": "Does getting multiple offers cost me anything?",
+   "answer": "No, requesting offers and information from mineral buyers is free and does not obligate you to sell to anyone."
+  }
+ ],
+ "wordCount": 862,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-spotting-lowball-offers-sellmineralrightsohio-com.jpg",
+  "alt": "How to Spot a Lowball Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

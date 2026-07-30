@@ -1,0 +1,75 @@
+{
+ "slug": "get-an-offer",
+ "title": "Get An Offer",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Get an Offer on Your Ohio Mineral Rights",
+ "metaDescription": "Request a no-obligation offer on your Ohio mineral or royalty interest. Tell us your county and ownership details and we will explain what your interest is likely worth.",
+ "heroLead": "Tell us where your minerals sit and roughly what you know about them, and we will come back with a real explanation of what they might be worth, not only a number.",
+ "intro": [
+  "Requesting an offer costs nothing and does not commit you to selling. The information below is what actually helps us give you a useful, grounded answer instead of a generic guess, and it is fine if you do not have all of it yet."
+ ],
+ "sections": [
+  {
+   "heading": "What to have ready, if you have it",
+   "paragraphs": [
+    "The county your mineral interest sits in matters most, since Ohio's value picture varies enormously by county and even by township within a county. Beyond that, knowing your approximate net mineral acres, whether the interest is currently leased, and whether the tract has ever produced all sharpen the estimate we can give you. If you have a copy of your deed, a recent division order, or royalty statements, those speed up the review considerably, but none of them are required just to start the conversation.",
+    "If you inherited the interest and are unsure of the chain of title, or you simply have not touched it in years and do not know its current status, that is a completely normal starting point. Part of what we do is pull the county recorder's records ourselves and help sort out what you actually hold."
+   ]
+  },
+  {
+   "heading": "What happens after you reach out",
+   "paragraphs": [
+    "We review whatever information you provide alongside the public record for your parcel, checking your chain of title and, where relevant, whether there is any dormant mineral exposure to be aware of under Ohio law. If the tract is producing, we build a value estimate from real production history. If it is unleased or undrilled, we look at recent activity nearby to size up a realistic range. We will come back to you with that reasoning laid out plainly, and you can ask us to walk through any part of it.",
+    "From there, the decision is entirely yours. There is no pressure to accept quickly, and a fair offer today does not disappear if you take a week or two to think it over or get a second opinion elsewhere."
+   ]
+  },
+  {
+   "heading": "A note on accuracy",
+   "paragraphs": [
+    "Any number we discuss before formally reviewing your parcel's title and production history is necessarily a preliminary range, not a final figure, since commodity prices, decline curves, and title condition all factor into a firm offer. We would rather give you an honest range up front than a confident-sounding number that changes once we actually pull your records."
+   ]
+  },
+  {
+   "heading": "If your interest has not been touched in years",
+   "paragraphs": [
+    "A specific situation worth flagging when you reach out: if your mineral interest has never been leased, has not produced, and has not shown up on any tax filing in your name for close to twenty years or longer, that is worth mentioning up front. Ohio's Dormant Mineral Act ties abandonment risk to exactly that kind of extended inactivity, and we check for it as part of reviewing your parcel regardless, but flagging it yourself lets us prioritize that check early rather than discovering it partway through. If it turns out to be a live issue, resolving it, often with a simple recorded affidavit, is usually straightforward when caught with time to spare, and knowing sooner rather than later works in your favor either way."
+   ]
+  },
+  {
+   "heading": "If you own the interest with other family members",
+   "paragraphs": [
+    "Many Ohio mineral interests are owned by several relatives together, siblings, cousins, or a mix of generations who inherited from the same original owner. If that describes your situation, requesting an offer for your own share is perfectly workable even if the others are not ready to act at the same time. We can review your specific fractional interest on its own, and if the rest of the family later decides to sell as well, that can happen as a separate step. Let us know upfront how the ownership is structured so we can review the right share against the right title records from the start."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there any cost to requesting an offer?",
+   "answer": "No, requesting an offer and discussing your situation with us is free and does not obligate you to sell."
+  },
+  {
+   "question": "I do not know exactly how many acres I own. Can I still get an offer?",
+   "answer": "Yes, we can often help determine your net mineral acres from county records if you are unsure, using your name or the tract description you do have."
+  },
+  {
+   "question": "How fast will I hear back after reaching out?",
+   "answer": "Initial review typically takes a few days, though it can take longer if your county's records require more digging or if there is a title question to sort out first."
+  },
+  {
+   "question": "Will you buy my interest even if it has never been leased?",
+   "answer": "Yes, we evaluate unleased and undrilled interests as well, though the valuation approach and the range of value differ from a producing tract."
+  },
+  {
+   "question": "What if I decide not to sell after getting an offer?",
+   "answer": "That is entirely your choice. There is no obligation at any point until you sign a deed at closing."
+  }
+ ],
+ "wordCount": 882,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-get-an-offer-sellmineralrightsohio-com.jpg",
+  "alt": "Get An Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "slug": "glenmoor-oh",
+ "title": "Sell Mineral Rights in Glenmoor, OH",
+ "type": "city",
+ "kind": "cdp",
+ "county": "Columbiana",
+ "group": "Utica Flank",
+ "primaryKeyword": "sell mineral rights glenmoor oh",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Glenmoor, OH",
+ "metaDescription": "Glenmoor sits in Columbiana County on the Utica flank. See how flank-position geology and old farm deeds affect your mineral interest's value.",
+ "heroLead": "Glenmoor sits in a quiet corner of Columbiana County where the Utica play's reach has been more theoretical than actual so far.",
+ "intro": [
+  "Glenmoor is a small unincorporated community in Columbiana County, an area that's stayed largely agricultural through the decades with limited industrial or drilling history. Columbiana County as a whole sits on the flank of the Utica/Point Pleasant fairway, and the area around Glenmoor specifically has seen little horizontal development, which shapes how any mineral interest here should realistically be valued."
+ ],
+ "sections": [
+  {
+   "heading": "What limited activity means for value",
+   "paragraphs": [
+    "Without nearby producing wells, a mineral interest around Glenmoor is priced based on comparable activity in the broader flank region and on your net mineral acres, rather than on local royalty history that may not exist. That's not the same as saying the interest has no value, it just means the number reflects potential and comparables rather than confirmed production."
+   ]
+  },
+  {
+   "heading": "Farm-deed reservations and confirming what you hold",
+   "paragraphs": [
+    "Most mineral reservations in this part of Columbiana County trace back to simple farm deeds, often using broad language like reserving 'all oil, gas and mineral rights' without further detail. A title search through the Columbiana County Recorder's office in Lisbon will confirm whether that reservation still applies to your specific parcel and trace it through to current ownership."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there any drilling activity planned near Glenmoor?",
+   "answer": "There's no way to predict future development with certainty, but this area has seen limited activity historically compared to core Utica counties further south and east."
+  },
+  {
+   "question": "How is an unleased interest here typically valued?",
+   "answer": "It's priced against comparable recent activity in similar flank-position areas and against your confirmed net mineral acres, generally more conservatively than a producing interest."
+  },
+  {
+   "question": "What should I check first if I think I might own minerals here?",
+   "answer": "Start with a title search at the Columbiana County Recorder's office to confirm whether a severance ever occurred on your specific parcel and who currently holds the interest."
+  },
+  {
+   "question": "What documents should I have ready if I decide to sell?",
+   "answer": "Your deed, any lease documents, and recent royalty statements if you receive them. Without recent activity nearby, these documents matter even more for establishing a fair, grounded number."
+  },
+  {
+   "question": "Could my interest be affected by the Ohio Dormant Mineral Act if it's never been leased?",
+   "answer": "Potentially, if 20 years pass with no lease, no production, and no recorded title activity. Checking the county recorder's index for any pending abandonment notice is worth doing periodically."
+  }
+ ],
+ "wordCount": 433,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-glenmoor-oh.jpg",
+  "alt": "Sell Mineral Rights in Glenmoor, OH location",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "slug": "mineral-rights-value-guide",
+ "title": "What Are Mineral Rights Worth?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "What Are Ohio Mineral Rights Worth? A Real Answer",
+ "metaDescription": "There is no fixed per-acre price for Ohio mineral rights. Here is what actually drives value, and how to read a quoted range against your own tract.",
+ "heroLead": "The honest answer to what your minerals are worth is that it depends on production, location, and timing, and anyone who skips straight to a number without asking about those three things is guessing.",
+ "intro": [
+  "This is the question we get on nearly every call, and it deserves a real answer rather than a single figure pulled out of thin air. Value in Ohio's oil and gas counties moves with specific, checkable facts about your tract, not with a statewide average that applies evenly to everyone."
+ ],
+ "sections": [
+  {
+   "heading": "The three things that actually set your number",
+   "paragraphs": [
+    "Production status comes first. A tract with an active, producing well pays off a real, measurable stream that can be modeled with reasonable confidence. A leased-but-undrilled tract carries the possibility of future production but no certainty of it. An unleased tract in a quiet area carries neither. These three situations are valued in a completely different way, and conflating them, treating an unleased flank-area parcel like a producing core tract, is the most common source of unrealistic expectations we run into.",
+    "Location within the play comes second. Eastern Ohio's Utica Shale counties, Belmont, Guernsey, Harrison, Carroll, Noble, and Monroe among them, are not uniformly active. Some townships have seen consistent permitting and drilling for a decade; others sit on the flank of the play with sparse activity. A handful of counties along the state's eastern edge also see Marcellus interest layered on top of Utica. Knowing where your tract sits relative to recent permits, not only which county it is in, is a better predictor of value than the county name alone.",
+    "Timing comes third, because commodity prices and drilling activity both move, and a valuation built today reflects today's price deck and today's rig count, not a fixed truth about the ground."
+   ]
+  },
+  {
+   "heading": "Why per-acre numbers you hear are often misleading",
+   "paragraphs": [
+    "Owners frequently ask us to confirm a per-acre figure they heard from a neighbor, a Facebook group, or a cold caller. The trouble with a single per-acre number is that it strips out everything that actually determines value: whether that neighbor's tract was producing or not, which well was draining it, how far along its decline curve that well was, and what commodity prices were doing at the time the number was quoted. The same county, even the same township, can have wildly different values sitting a half mile apart because one tract is under an early-life high-volume well and the other has never been drilled.",
+    "Any figure discussed with you should be presented as a range tied to your specific tract's production history and current activity nearby, not as a fixed, firm price. Be skeptical of anyone who quotes a firm number before reviewing your deed, your division order history if any, and recent activity in your township."
+   ]
+  },
+  {
+   "heading": "How to sanity-check an offer",
+   "paragraphs": [
+    "Ask what production data the offer is based on, ask what decline assumption and price deck were used, and ask how recent activity in your specific township factored in. A buyer who can answer those questions in plain language is working from the same fundamentals a second buyer would use, even if the final number differs slightly. It is also reasonable, and often useful, to get a second offer before deciding, since a comparison tells you more than any single number in isolation.",
+    "It also helps to separate the value question from the timing question. A fair range for your tract today reflects today's production data and today's commodity prices, and that range can shift in either direction as those inputs change, which is normal and not a sign the earlier number was wrong. Treat any figure as a snapshot tied to current conditions rather than a permanent ceiling or floor on what the interest is worth."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there a standard per-acre price for mineral rights in Ohio?",
+   "answer": "No. Value depends on whether the tract is producing, where it sits relative to active drilling, and current commodity prices, all of which vary parcel by parcel even within the same county."
+  },
+  {
+   "question": "Why is my neighbor's offer different from mine?",
+   "answer": "Different production history, different position relative to active wells, and different timing all produce different numbers, even for adjoining tracts. A higher or lower neighbor offer does not necessarily reflect your tract's value."
+  },
+  {
+   "question": "Does an unleased tract have any value at all?",
+   "answer": "Yes, though typically less certain value than a producing tract, since it reflects the possibility of future leasing and drilling rather than a measurable production stream."
+  },
+  {
+   "question": "Should I wait for prices to go up before selling?",
+   "answer": "Prices could rise or fall, and there is no way to guarantee either. Waiting is a legitimate choice if you can tolerate the uncertainty, but it is a bet, not a sure improvement."
+  },
+  {
+   "question": "How do I know if an offer is fair?",
+   "answer": "Ask the buyer to explain the production data, decline assumptions, and nearby activity behind the number, and compare it against at least one other offer before deciding."
+  }
+ ],
+ "wordCount": 859,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-sellmineralrightsohio-com.jpg",
+  "alt": "What Are Mineral Rights Worth? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

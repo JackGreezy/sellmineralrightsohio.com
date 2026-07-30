@@ -1,0 +1,65 @@
+{
+ "slug": "lease-vs-sell",
+ "title": "Lease vs. Sell: Which Is Right?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Lease vs. Sell Ohio Mineral Rights: How to Decide",
+ "metaDescription": "Leasing pays over time and depends on drilling; selling pays once and removes the risk. Here is how Ohio mineral owners weigh the two.",
+ "heroLead": "Leasing and selling answer two different questions — leasing asks whether you want to bet on future drilling, selling asks whether you would rather remove the bet entirely.",
+ "intro": [
+  "This question comes up constantly, and there is no single right answer to it, only a right answer for your situation. A lease and a sale are structurally different transactions with different risks, and the honest way to compare them is to lay out what each one actually commits you to."
+ ],
+ "sections": [
+  {
+   "heading": "What a lease actually gives you",
+   "paragraphs": [
+    "An oil and gas lease grants a company the right to drill your minerals for a set term, usually with a bonus payment up front and a royalty fraction on anything produced later. The bonus is real money in hand, but it is often modest relative to what production could eventually pay, because the operator is compensating you for tying up the right to drill, not for the oil and gas itself. The royalty is where the real upside sits, but it only exists if a well is actually drilled and produces, and Ohio has plenty of leased acreage sitting with no rig in sight. A lease with no drilling activity behind it can also expire at the end of its primary term, leaving you free to lease again, but with nothing to show for the interim beyond the bonus.",
+    "Leasing also keeps you exposed to decline. If a well is drilled and produces, output typically falls fastest in the first two to three years, then tapers into a long, shallow tail. Royalty income tends to mirror that curve, so a strong first-year check is not necessarily representative of year five or year ten."
+   ]
+  },
+  {
+   "heading": "What a sale actually gives you",
+   "paragraphs": [
+    "Selling converts whatever value a buyer sees in your minerals — leased or unleased, producing or not — into a single payment now. You give up any future royalty, any future lease bonus, and any upside from a well being drilled after the sale closes. In exchange, you remove decline risk, commodity price risk, operator risk, and the uncertainty of whether drilling happens at all. For an owner holding a small fractional interest with modest expected royalty, or an owner who simply wants the asset off their plate and out of their estate, that trade is often worth more than the theoretical upside of holding on.",
+    "The value a buyer offers reflects their own read on likely future production, current commodity prices, and how active the area has been recently — it is not a fixed number, and it moves with those inputs, so an offer today is not necessarily the same offer six months from now in either direction."
+   ]
+  },
+  {
+   "heading": "How to actually decide",
+   "paragraphs": [
+    "If your minerals sit in an area with no recent leasing or permitting activity, waiting on a lease may mean waiting a long time for very little. If they sit in an active county with recent permits nearby, a lease may be the better first move, since it preserves your ability to sell later once a well is producing and the value is clearer. If you already hold a producing royalty interest and are tired of managing statements, chasing division order updates, or dealing with the interest as part of an estate, selling removes all of that at once.",
+    "There is also a middle path some owners take: selling a portion of the interest while keeping the rest, which banks some certain money now without giving up all future upside. None of these choices are permanent mistakes if made with clear eyes about what each one trades away.",
+    "Family circumstances factor in too, more than owners sometimes expect. A mineral interest split among several heirs can become a recurring source of disagreement if some want to lease and hold while others want cash now, and a partial sale by the owners who want out, while the others keep their share, can resolve that tension without forcing everyone into the same decision."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I sell mineral rights that are not currently leased?",
+   "answer": "Yes, unleased minerals can be sold. A buyer will typically value them differently than leased, producing minerals, factoring in the uncertainty of whether and when drilling might occur."
+  },
+  {
+   "question": "If I lease now, can I still sell later?",
+   "answer": "Yes, and many owners do exactly that. Leasing first, then selling once a well is drilled and producing, often gives a buyer clearer production data to work from."
+  },
+  {
+   "question": "Does selling end my existing lease?",
+   "answer": "No, the sale transfers your mineral interest subject to the lease. The buyer becomes the lessor and receives future royalty payments in your place."
+  },
+  {
+   "question": "Which pays more, leasing or selling?",
+   "answer": "It depends entirely on whether the tract eventually produces and how much. A lease with strong, long production can pay more over time than a sale; a lease that never gets drilled pays only the bonus. A sale removes that uncertainty for a payment now."
+  },
+  {
+   "question": "Is there a wrong time to sell?",
+   "answer": "Selling into a period of very low commodity prices or with no recent activity nearby can mean a lower offer than you would get in a stronger market. Timing matters, but it is one factor among several, including your own need for certainty now."
+  }
+ ],
+ "wordCount": 900,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-lease-vs-sell-sellmineralrightsohio-com.jpg",
+  "alt": "Lease vs. Sell: Which Is Right? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

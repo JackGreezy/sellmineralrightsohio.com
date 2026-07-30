@@ -1,0 +1,222 @@
+{
+  "_": "This voice belongs only to sellmineralrightsohio.com. It is the Ohio county mineral docket: a calm business voice built around the deed chain, reservation language, recorded notice, Dormant Mineral Act questions, paid decimals, Utica and Point Pleasant well evidence, written conveyance terms, and a recorder-ready closing file. It is never a reusable mineral-rights voice pack.",
+  "identity": {
+    "name": "Ohio county mineral docket",
+    "domain_lock": "sellmineralrightsohio.com",
+    "reusable": false,
+    "cadence": "open the deed chain, mark the notice record, reconcile the decimal, read the well evidence, schedule the conveyed interest, close with a recordable file",
+    "lexicon": [
+      "county mineral docket",
+      "deed chain",
+      "reservation language",
+      "recorded notice",
+      "preservation filing",
+      "paid decimal",
+      "Utica and Point Pleasant evidence",
+      "tract schedule",
+      "written conveyance terms",
+      "recorder-ready closing file"
+    ],
+    "avoid": [
+      "personal blog voice",
+      "first-person singular narration",
+      "instant cash language",
+      "guaranteed value",
+      "highest offer claims",
+      "secret valuation formula",
+      "generic nationwide buyer copy",
+      "reusable voice pack"
+    ]
+  },
+  "scrub": [
+    ["\\bHow do I\\b", "How do you"],
+    ["\\bDo I\\b", "Do you"],
+    ["\\bCan I\\b", "Can you"],
+    ["\\bWhat if I\\b", "What if you"],
+    ["\\bAm I\\b", "Are you"],
+    ["\\bWill I\\b", "Will you"],
+    ["\\bShould I\\b", "Should you"],
+    ["(^|<p>|[.!?]\\s+)My family\\b", "\\1An Ohio mineral-owning family"],
+    ["(^|<p>|[.!?]\\s+)My aunt\\b", "\\1An Ohio mineral owner's aunt"],
+    ["(^|<p>|[.!?]\\s+)My uncle\\b", "\\1An Ohio mineral owner's uncle"],
+    ["(^|<p>|[.!?]\\s+)My mother\\b", "\\1An Ohio mineral owner's mother"],
+    ["(^|<p>|[.!?]\\s+)My father\\b", "\\1An Ohio mineral owner's father"],
+    ["(^|<p>|[.!?]\\s+)My grandfather\\b", "\\1An Ohio mineral owner"],
+    ["(^|<p>|[.!?]\\s+)My grandmother\\b", "\\1An Ohio mineral owner"],
+    ["\\bmy family\\b", "an Ohio mineral-owning family"],
+    ["\\bmy aunt\\b", "an Ohio mineral owner's aunt"],
+    ["\\bmy uncle\\b", "an Ohio mineral owner's uncle"],
+    ["\\bmy mother\\b", "an Ohio mineral owner's mother"],
+    ["\\bmy father\\b", "an Ohio mineral owner's father"],
+    ["\\bmy grandfather\\b", "an Ohio mineral owner"],
+    ["\\bmy grandmother\\b", "an Ohio mineral owner"],
+    ["(^|<p>|[.!?]\\s+)My interest\\b", "\\1Your interest"],
+    ["(^|<p>|[.!?]\\s+)My minerals\\b", "\\1Your minerals"],
+    ["(^|<p>|[.!?]\\s+)My statement\\b", "\\1Your statement"],
+    ["\\bmy interest\\b", "your interest"],
+    ["\\bmy minerals\\b", "your minerals"],
+    ["\\bmy statement\\b", "your statement"],
+    ["\\bI['’]m\\b", "you are"],
+    ["\\bI['’]ve\\b", "you have"],
+    ["\\bI['’]ll\\b", "you will"],
+    ["\\bI['’]d\\b", "you would"],
+    ["\\bI don['’]t\\b", "you do not"],
+    ["\\bI didn['’]t\\b", "you did not"],
+    ["\\bI can['’]t\\b", "you cannot"],
+    ["\\bmyself\\b", "yourself"],
+    ["\\bmine\\b", "your mineral interest"],
+    ["\\bmy\\b", "your"],
+    ["\\bme\\b", "you"],
+    ["\\bI\\b", "you"]
+  ],
+  "heroes": [
+    [
+      "Sell Mineral Rights in Ohio",
+      "A direct Ohio mineral review grounded in the deed chain, reservation language, recorded notices, paid decimals, Utica and Point Pleasant well evidence, written terms, and a recorder-ready closing file."
+    ],
+    [
+      "Open the County Record Before the Offer",
+      "The legal description, conveyances, reservations, leases, affidavits, notices, division orders, and payor records define the interest before a sale number is compared."
+    ],
+    [
+      "Separate Current Royalty Evidence From Future Development",
+      "Producing wells, decline, deductions, shut-in history, permits, offsets, unit activity, and undeveloped acreage belong on different lines of the Ohio mineral docket."
+    ],
+    [
+      "Schedule Every Acre, Depth, and Term",
+      "Price belongs beside the tract list, ownership fraction, formations, products, effective date, retained interests, title conditions, funding, and recording documents."
+    ]
+  ],
+  "copy": {
+    "home_eyebrow": "THE OHIO COUNTY MINERAL DOCKET",
+    "home_title": "Sell Mineral Rights in Ohio",
+    "home_meta": "Sell Ohio mineral rights with a record-based review of ownership, Dormant Mineral Act questions, paid decimals, Utica and Point Pleasant wells, written terms, and closing.",
+    "home_intro": "Ohio mineral decisions become clearer when the deed chain, notice history, paid decimal, well evidence, and written offer schedule remain in the same file.",
+    "home_situations_title": "Start With the Decision the Owner Needs to Make",
+    "home_situations_body": "Inheritance, shared title, an unsolicited offer, a dormant-interest question, or a producing royalty check can require different records and a different route to closing.",
+    "home_docket_title": "Four Lines Keep the Ohio Review Auditable",
+    "home_docket_body": "County record, paid interest, well evidence, and written terms stay separate until they can be reconciled.",
+    "home_resources_title": "Owner Guides That Point to the Next Record",
+    "home_resources_body": "Each guide connects the question to a deed, notice, lease clause, division order, royalty statement, well record, tax issue, or offer term that can be checked.",
+    "home_locations_title": "Ohio Coverage From the County Record Out",
+    "home_locations_body": "The review follows mineral interests across eastern Ohio, with close attention to the courthouse record, tract location, producing units, payor history, and Utica or Point Pleasant context.",
+    "home_interests_title": "Know Which Recorded Interest Is Actually Being Sold",
+    "home_interests_body": "Mineral rights, royalty interests, overriding royalties, working interests, and severed estates carry different rights, burdens, payment positions, and closing documents.",
+    "home_investing_title": "Keep Income, Decline, and Possible Inventory on Separate Schedules",
+    "home_investing_body": "Recent royalty checks, mature decline, downtime, permits, offsets, undeveloped acreage, and title risk do not belong inside one unexplained multiple.",
+    "home_exchange_title": "Exchange Planning Must Begin Before Proceeds Move",
+    "home_exchange_body": "Potential exchange questions belong with a qualified intermediary and independent tax counsel before closing. The mineral docket keeps property, timing, title, and closing facts visible.",
+    "hero_cta": "Request an Ohio Review",
+    "index_tagline": "Use the {title} county docket to identify the controlling deed, recorded notice, paid interest, Utica and Point Pleasant evidence, open title question, and written decision terms.",
+    "index_step_one_title": "Open the Record",
+    "index_step_one_body": "County, legal description, deed chain, reservations, affidavits, notices, leases, and assignments establish the interest.",
+    "index_step_two_title": "Reconcile the Revenue",
+    "index_step_two_body": "Division orders, royalty statements, wells, products, deductions, taxes, adjustments, and suspense should agree.",
+    "index_step_three_title": "Schedule the Offer",
+    "index_step_three_body": "Acreage, fractions, depths, products, effective date, retained interests, title reserves, payment, and recording belong together.",
+    "detail_cta_title": "Add This Question to the Ohio Mineral Docket",
+    "detail_cta_body": "Share the county, interest type, producing status, records already available, and the decision that needs a clearer answer. Bank credentials, government identification numbers, and original documents should not be submitted through the website.",
+    "detail_followup": "Connect this topic to the exact county, tract, recorded interest, notice history, paid decimal, wells, and written terms in the property file.",
+    "faq_heading": "Questions From the Ohio Record",
+    "about_title": "An Ohio Mineral Buyer Built Around the County Docket",
+    "about_story_title": "The Record Comes Before the Sales Conversation",
+    "about_story_body": "The review begins with the county, legal description, deed chain, reservation language, recorded affidavits and notices, lease position, division orders, royalty statements, and producing wells.",
+    "about_scope_title": "Every Unknown Remains Visible",
+    "about_scope_body": "Ownership gaps, Dormant Mineral Act questions, missing statements, unit changes, payor differences, title exceptions, and conditional offer terms remain attached to the line they could change.",
+    "about_terms_title": "The Complete Conveyance Sits Beside Price",
+    "about_terms_body": "A useful offer identifies the acres, fractions, depths, products, receivables, retained interests, effective date, title conditions, funding sequence, and recording documents.",
+    "about_roles_title": "Professional Roles Stay Clear",
+    "about_roles_body": "Sell Mineral Rights Ohio is a direct mineral buyer, not a law firm, tax adviser, title company, engineering firm, appraiser, broker, qualified intermediary, or fiduciary. Questions in those lanes should go to qualified independent professionals.",
+    "about_close_title": "The Closing File Stays Recorder-Ready",
+    "about_close_body": "A clean file retains the executed deed, legal description, tract schedule, settlement record, funding confirmation, title correspondence, tax documents, payor notices, and any retained interests.",
+    "contact_title": "Request an Ohio Mineral Review",
+    "contact_intro": "Share the Ohio county, owner name, interest type, producing status, available statements, and the decision that needs a clearer answer. A complete title file is not required for the first conversation.",
+    "contact_form_title": "Start With the Property Facts Already Available",
+    "contact_form_body": "The first review identifies what is known, what remains open, and which record can answer the next material question.",
+    "footer_tagline": "Deed chain open. Notice record marked. Decimal reconciled. Wells read. Terms scheduled. Closing file ready to record.",
+    "privacy": "Sell Mineral Rights Ohio uses submitted contact, ownership, property, production, statement, lease, title, offer, and timing information only to answer an inquiry and evaluate requested next steps. Submitted personal information is not sold. Bank credentials, government identification numbers, and original documents should not be submitted through this website.",
+    "terms": "This website provides general educational and transaction-preparation information, not legal, title, tax, accounting, investment, engineering, reserve, appraisal, brokerage, exchange, or fiduciary advice. Ownership, recorded notices, production, commodity prices, assumptions, market evidence, offers, title findings, and closing amounts can change. Qualified professionals should review decisions involving title, dormant minerals, estates, taxes, exchanges, investments, appraisals, or transfers.",
+    "nf_title": "That Ohio Record Is Not on This Page",
+    "nf_body": "Return to selling situations, interest types, the Utica guide, Ohio areas, owner resources, investing, exchange guidance, or the review form.",
+    "nf_cta": "Return to the Ohio Mineral Docket"
+  },
+  "about_blocks": [
+    [
+      "Open the Deed Chain",
+      "The county mineral docket starts with the legal description, recorded conveyances, reservation language, affidavits, notices, leases, assignments, and the party authorized to sign."
+    ],
+    [
+      "Mark the Notice Record",
+      "Dormant-mineral questions can turn on facts and filings that need legal review. The transaction file keeps notice, service, preservation, succession, and recording questions visible instead of assuming an outcome."
+    ],
+    [
+      "Reconcile the Paid Decimal",
+      "The ownership fraction, net mineral acres, lease royalty, unit participation, products, taxes, deductions, adjustments, and suspense should explain the amount actually paid."
+    ],
+    [
+      "Read the Utica Evidence",
+      "Producing wells, decline, downtime, unit history, permits, offsets, operator activity, and Point Pleasant or Utica position remain distinct from unsupported future-development claims."
+    ],
+    [
+      "Schedule the Conveyance",
+      "The written offer identifies every tract, fraction, depth, product, effective date, receivable, retained interest, title condition, funding step, and recording document."
+    ]
+  ],
+  "slug_ui": {
+    "faq_kicker": "OHIO RECORD QUESTIONS",
+    "faq_heading": "Questions to Mark in the County Docket",
+    "faq_intro": "Each answer points back to a record, date, paid line, or written term that can be checked before a decision.",
+    "related_kicker": "CONNECTED RECORDS",
+    "related_heading": "Continue Through the Ohio File",
+    "related_intro": "Carry the same deed chain, notice history, paid interest, and well evidence from {item} into these {taxonomy} guides.",
+    "related_action": "Open the Complete Docket"
+  },
+  "form_fields": [
+    ["name", "text", "Name", true],
+    ["email", "email", "Email", true],
+    ["phone", "tel", "Phone", true],
+    ["message", "textarea", "Message", true]
+  ],
+  "taxonomy_enrichment": {
+    "situations": [
+      ["Define the Ohio decision first", "{name} can change signing authority, notice questions, title work, family coordination, timing, retained interests, and the evidence needed before closing."],
+      ["Keep the open record beside the offer", "For {name}, unresolved ownership, missing statements, uncertain units, Dormant Mineral Act questions, title exceptions, and conditional terms stay visible."]
+    ],
+    "interest-types": [
+      ["Trace the recorded interest", "{name} should be followed through deeds, reservations, leases, assignments, units, division orders, statements, formations, depths, and cost obligations before a sale is quoted."],
+      ["Attach a complete tract schedule", "The {name} schedule identifies counties, legal descriptions, fractions, depths, products, wells, units, effective dates, receivables, reservations, and burdens included in the transaction."]
+    ],
+    "basins": [
+      ["Use Utica context without losing the tract", "{name} can inform well design, products, decline, spacing, operator activity, development pace, deductions, and comparable transactions. It does not replace the deed chain."],
+      ["Separate current checks from possible inventory", "Producing wells, intermittent wells, permits, offsets, unit activity, and undeveloped acreage in {name} carry different evidence, timing, and risk."]
+    ],
+    "locations": [
+      ["Begin with the local record trail", "A mineral review in {name} starts with the county recorder, legal description, deed chain, reservations, affidavits, notices, lease, units, division orders, payor records, statements, and Ohio well data."],
+      ["Route Ohio title questions correctly", "Probate, marital property, dormant-mineral procedure, pooling, recording, transfer, regulatory filings, and payor notices can change the file in {name}. Qualified advisers should review legal and tax questions."],
+      ["Keep the local review tract-specific", "Use local context as a prompt, not a valuation shortcut. {meta} The county mineral docket then reconciles the exact tract against gross and net acres, ownership fraction, recorded notices, producing and inactive wells, paid decimal, recent statements, lease burdens, title exceptions, and the complete written offer."]
+    ],
+    "resources": [
+      ["Turn the guide into a record question", "{name} should help locate a deed, notice, statement, division order, lease clause, production record, tax question, or offer term that can be checked before a decision."],
+      ["Keep the source and date attached", "Every figure used with {name} should retain its source, observation date, unit, period, tract, adjustment, and fact-or-scenario label."]
+    ],
+    "investing": [
+      ["Reconcile production to paid royalties", "For {name}, products, volumes, prices, taxes, deductions, paid decimals, downtime, and adjustments should reconcile to revenue actually received. Match each payor line to the well, unit, product, sales month, decimal, and net amount before using a forecast."],
+      ["Test one driver at a time", "Price, deductions, decline, downtime, development timing, title reserves, concentration, marketability, and discounting should be tested separately for {name}. Existing producing wells stay apart from permits, offsets, and undeveloped inventory."],
+      ["State the forecast horizon", "A {name} review distinguishes recent observed checks, medium-term decline, and longer-term development assumptions. Each scenario keeps its evidence, observation date, and unresolved title questions attached."],
+      ["Show the downside file", "The downside schedule for {name} can test lower prices, faster decline, longer downtime, higher deductions, delayed development, title-curative cost, and reduced marketability without hiding those changes inside one haircut."],
+      ["Preserve the update path", "A {name} file is easier to refresh when it retains deeds, notices, leases, division orders, statements, production records, operator notices, tax records, assumptions, and observation dates."],
+      ["Tie Ohio title risk to the scenario", "A {name} analysis should state whether the modeled interest has a complete deed chain, unresolved heirship, a Dormant Mineral Act question, a missing division order, suspense, or a tract mismatch. Those issues do not automatically erase value, but they can change timing, curative cost, marketability, payment reserves, and who can execute a conveyance. Keep the title assumption beside the revenue assumption so a clean-title scenario is never mistaken for the current recorded file."],
+      ["Write the acquisition schedule before comparing returns", "For {name}, the reviewed package should identify county, legal description, gross acres, net acres, ownership fraction, formations, depths, wells, units, products, payors, recent revenue, lease burdens, title exceptions, and interests excluded from the transaction. Compare scenarios against that exact schedule. A headline return calculated from a basin name or royalty check alone cannot show which property was modeled, what must be cured, or which future events remain assumptions."]
+    ],
+    "exchange-1031": [
+      ["Put exchange planning before closing", "{name} begins before an owner receives or controls proceeds. A potential exchanger should consult a qualified intermediary and independent tax counsel before closing."],
+      ["Write deadlines as calendar dates", "Identification and completion periods for {name} should become actual dates beside intermediary instructions, property research, financing, title, backup choices, and closing tasks."],
+      ["Keep vesting and property questions visible", "The working file for {name} should show current ownership, contemplated conveyance, expected proceeds, debt, closing dates, replacement choices, and unresolved eligibility questions for qualified advisers."],
+      ["Separate mineral economics from tax advice", "The mineral review can organize title, production, offer, and replacement-property facts for {name}; the intermediary and independent advisers must determine the exchange structure and tax treatment."],
+      ["Retain the complete exchange file", "Keep intermediary agreements, identification notices, contracts, settlement statements, deeds, title records, funding instructions, correspondence, and adviser conclusions for {name} together."],
+      ["Build Ohio title lead time into the calendar", "A {name} plan should not assume that a mineral deed, severed-interest history, heirship issue, recorded notice, legal description, or payor record will clear on the same schedule as a simple surface transaction. Give county research, curative work, adviser review, intermediary instructions, replacement-property diligence, and backup choices dated owners. The exchange calendar remains a planning file, not a promise that an unresolved mineral interest will become transferable before a federal deadline."],
+      ["Confirm the relinquished schedule before closing", "For {name}, the sale file should identify the exact county, tract, ownership fraction, depths, products, receivables, retained interests, title conditions, effective date, proceeds, debt, and signing party before the closing statement is treated as final. The qualified intermediary and independent tax counsel need consistent facts across the contract, deed, settlement statement, vesting, identification notice, and replacement acquisition. Any difference should be resolved before funds move rather than reconstructed after closing."],
+      ["Separate federal timing from Ohio record work", "Federal exchange deadlines and Ohio mineral-title work move on different tracks. A prospective seller should calendar the identification and closing windows with qualified tax and legal advisers while separately tracking county recorder copies, probate or trust authority, reservation language, Dormant Mineral Act questions, payor verification, lease exhibits, unit records, and curative documents. The file should name the person responsible for each item, the date requested, the source received, and any unresolved assumption. If title cannot be confirmed in time, the planning record should show the contingency instead of treating a hoped-for curative result as completed. That distinction helps the owner, buyer, intermediary, and advisers understand which deadlines are fixed, which tasks depend on third parties, and which property descriptions are actually ready for transaction documents."]
+    ]
+  }
+}

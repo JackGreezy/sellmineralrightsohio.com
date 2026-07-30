@@ -1,0 +1,69 @@
+{
+ "slug": "fractional-mineral-interests",
+ "title": "Fractional & Small Interests",
+ "type": "situation",
+ "note": "tiny undivided interests, many heirs",
+ "metaTitle": "Selling Fractional Mineral Interests in Ohio",
+ "metaDescription": "Own a tiny fractional mineral interest split among heirs? Learn how small Ohio interests are valued, why buyers still want them, and what a sale involves.",
+ "heroLead": "A one-sixty-fourth interest in forty acres sounds too small to matter, but in Ohio's older mineral deeds, fractions like that are the rule, not the exception.",
+ "intro": [
+  "Ohio's mineral ownership records are full of interests that were divided and redivided across generations. A single 40 or 80 acre tract severed from the surface in the 1940s or 1950s might have passed to four children, then to their combined dozen grandchildren, then to great-grandchildren scattered across several states. Each generation's share shrinks, and by the time you're looking at your own deed, you might own something like a 1/32 or 1/128 undivided interest in a tract you've never seen.",
+  "That doesn't make the interest worthless, and it doesn't make it simple to sell either. Fractional interests come with their own set of practical wrinkles, from how they get valued to who else needs to be tracked down before a transaction closes."
+ ],
+ "sections": [
+  {
+   "heading": "Why the fraction matters more than the acreage",
+   "paragraphs": [
+    "When you own a fractional undivided interest, your ownership isn't tied to a specific corner of the tract, it's a percentage of everything under the whole parcel. If the tract is 80 acres and you own a 1/16 interest, you effectively own 5 net mineral acres, and that net acreage figure, not the surface size of the tract, is what buyers and lessees actually price against.",
+    "The math gets more complicated when the same family fraction has been split further by marriage, remarriage, and children who never formally probated a parent's estate. It's common in Ohio for a current owner to hold something like an undivided 1/6 of a 1/4 interest that was never cleanly re-recorded, meaning the deed trail has to be worked out before anyone can say with certainty what percentage you actually hold."
+   ]
+  },
+  {
+   "heading": "Do buyers even want interests this small?",
+   "paragraphs": [
+    "Yes, and often specifically. Buyers who purchase minerals across many Ohio counties are frequently trying to consolidate fractional interests into larger blocks, because owning a meaningful percentage of a producing unit is more valuable to them than owning scattered slivers across unrelated tracts. A small interest that's individually modest to you can be exactly what fills a gap in a buyer's larger position.",
+    "That said, very small fractional interests sometimes come with royalty checks so tiny that operators hold payments until they cross a minimum threshold, sometimes years apart. If your interest has been sitting unpaid or accumulating in suspense, that history is worth mentioning when you talk to a buyer, since it affects how the interest gets valued."
+   ]
+  },
+  {
+   "heading": "Title work on split family interests",
+   "paragraphs": [
+    "The most common holdup on fractional mineral sales isn't the fraction itself, it's proving the chain of title that got you there. If a parent or grandparent's estate was never probated, or if a sibling's share was verbally agreed to be yours but never deeded over, the county recorder's records won't reflect current reality. Sorting that out sometimes requires a probate filing, an affidavit of heirship, or a quitclaim deed from other family members before a buyer's title company will close.",
+    "It's worth doing this work even if you're not selling right away, because unclear fractional title is exactly the kind of gap that can leave an interest vulnerable to a Dormant Mineral Act abandonment claim if nobody in the family has taken any recorded action on it in twenty years."
+   ]
+  },
+  {
+   "heading": "Getting several small interests valued together",
+   "paragraphs": [
+    "If you or your family hold fractional interests in more than one tract, it often makes sense to have them evaluated as a group rather than one at a time. Grouping interests can streamline the paperwork, since a single deed and a single title review can sometimes cover multiple tracts if they're properly described, saving on the recording and review costs that would otherwise be duplicated for each small piece.",
+    "Whether the interests are producing, leased, or sitting dormant with no lease at all changes the value conversation for each one, so expect a buyer to ask about each tract separately even if the transaction is bundled at the end."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a 1/64 mineral interest even worth selling?",
+   "answer": "It can be, especially if the tract is producing or sits in an active leasing area. Value depends on net mineral acres and royalty history, not the size of the fraction alone, and buyers who consolidate small interests across a county are often specifically looking for pieces like this."
+  },
+  {
+   "question": "What if my share was never formally split from my siblings' shares?",
+   "answer": "That's common with older family interests. An affidavit of heirship or a probate filing can establish each person's percentage on the record, which is usually required before a title company will close a sale."
+  },
+  {
+   "question": "Why hasn't my small interest received a royalty check in years?",
+   "answer": "Operators sometimes hold small payments in suspense until they cross a minimum payout threshold, or until title on a fractional interest is clarified. It's worth requesting a division order statement from the operator to see the actual accounting on your interest."
+  },
+  {
+   "question": "Can I sell just my fraction without my relatives selling theirs?",
+   "answer": "Yes, each owner of an undivided interest can generally sell their own share independently. Your relatives keep whatever percentage they hold, and the buyer simply becomes a co-owner alongside them."
+  }
+ ],
+ "status": "written",
+ "wordCount": 900,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-fractional-mineral-interests-sellmineralrightsohio-com.jpg",
+  "alt": "Fractional & Small Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

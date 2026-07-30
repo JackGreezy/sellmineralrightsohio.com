@@ -1,0 +1,66 @@
+{
+ "slug": "pleasant-city-oh",
+ "title": "Sell Mineral Rights in Pleasant City, OH",
+ "type": "city",
+ "kind": "city",
+ "county": "Guernsey",
+ "group": "Utica Core",
+ "primaryKeyword": "sell mineral rights pleasant city oh",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Pleasant City, OH | Guernsey County",
+ "metaDescription": "Pleasant City sits in Guernsey County's Utica core. See how nearby drilling activity and old family land affect a mineral rights sale here.",
+ "heroLead": "Pleasant City is a small village in Guernsey County, sitting within the core of the Utica/Point Pleasant play, an area that has seen consistent horizontal drilling activity since the mid-2010s.",
+ "intro": [
+  "Guernsey County has been a steady producer in the Utica play, and Pleasant City's location puts it close enough to active development that checking your own mineral status is worth doing carefully rather than assuming nothing is happening nearby."
+ ],
+ "sections": [
+  {
+   "heading": "Guernsey County's core position and operator activity",
+   "paragraphs": [
+    "Operators including Ascent Resources and Encino Energy, the latter holding much of the legacy Chesapeake and Gulfport acreage in this part of the state, have drilled units throughout Guernsey County. A Pleasant City-area tract's value depends on how close it sits to whichever of these units has actually been developed."
+   ]
+  },
+  {
+   "heading": "Shallow well history beneath the surface story",
+   "paragraphs": [
+    "Like much of Guernsey County, Pleasant City-area land may also carry older, shallow well history from decades before the Utica boom. Those older leases typically don't extend to the deep Point Pleasant formation, so it's worth checking the specific depth language in any historical lease you find."
+   ]
+  },
+  {
+   "heading": "Confirming ownership at the Guernsey County Recorder",
+   "paragraphs": [
+    "The Guernsey County Recorder's office in Cambridge holds deed, lease, and unit records for Pleasant City. A title check there confirms your exact ownership share and whether any lease, old or new, is currently active."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is Pleasant City near active Utica drilling?",
+   "answer": "Yes, Guernsey County has seen consistent horizontal drilling activity since the mid-2010s, with operators including Ascent Resources and Encino Energy holding acreage in the county."
+  },
+  {
+   "question": "Do old shallow leases near Pleasant City cover the deep shale rights?",
+   "answer": "Not always. Older leases were often written for shallow formations and may not extend to the deeper Point Pleasant formation. Check the depth language in any historical lease specifically."
+  },
+  {
+   "question": "Where do I check my mineral ownership near Pleasant City?",
+   "answer": "The Guernsey County Recorder's office in Cambridge holds deed and lease records for the entire county."
+  },
+  {
+   "question": "Could my land have both a shallow lease and a separate deep lease?",
+   "answer": "It's possible. Some Guernsey County tracts carry an older shallow-formation lease alongside a newer agreement covering the deep Point Pleasant rights, so check the formation language in each document separately."
+  },
+  {
+   "question": "How do royalty payments typically get distributed among multiple owners?",
+   "answer": "The operator pays each owner directly according to their decimal interest listed on the division order, so co-owners don't need to split a single check among themselves; each receives their own separate payment."
+  }
+ ],
+ "wordCount": 440,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-pleasant-city-oh.jpg",
+  "alt": "Sell Mineral Rights in Pleasant City, OH location",
+  "width": 1600,
+  "height": 1000
+ }
+}

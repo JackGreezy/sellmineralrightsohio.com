@@ -1,0 +1,60 @@
+{
+ "slug": "bowerston-oh",
+ "title": "Sell Mineral Rights in Bowerston, OH",
+ "type": "city",
+ "kind": "city",
+ "county": "Harrison",
+ "group": "Utica Core",
+ "primaryKeyword": "sell mineral rights bowerston oh",
+ "seo": null,
+ "metaTitle": "Sell Mineral Rights in Bowerston, OH | Harrison County",
+ "metaDescription": "Own mineral rights near Bowerston, Harrison County? Learn how spacing units are laid out in this Utica core town, then request a straightforward cash offer.",
+ "heroLead": "Bowerston sits in southern Harrison County, an area where horizontal spacing units have been laid out systematically across the farmland since the play's early years.",
+ "intro": [
+  "If you're trying to understand your mineral interest near Bowerston, it helps to start with how spacing units actually work. Ohio law requires operators to get a permit from the Division of Oil and Gas Resources Management defining a specific unit boundary before drilling a horizontal well, and every mineral owner whose acreage falls inside that boundary gets pooled into the unit and paid their proportional share.",
+  "Harrison County has more of these units laid out than almost anywhere else in the state, and Bowerston sits well within that core development area, so there's a reasonable chance your family's tract is already inside one, whether or not you've kept close track of the paperwork."
+ ],
+ "sections": [
+  {
+   "heading": "How to find your unit",
+   "paragraphs": [
+    "The Ohio Department of Natural Resources publishes permit and unit information, searchable by township, and it's the most reliable public source for confirming whether your specific tract has been included in a spacing unit. If a unit exists, cross-reference it against your deed's legal description to confirm your acreage actually falls within the boundary.",
+    "If you're already receiving royalty payments, your division order will state the unit name directly, saving you the search."
+   ]
+  },
+  {
+   "heading": "What being inside a unit means for value",
+   "paragraphs": [
+    "A tract inside an active, producing spacing unit has real numbers behind it, your decimal interest and recent production volumes, which gives a buyer solid ground to build an offer from. A tract permitted but not yet producing is valued with more weight on timing and projected development. And acreage outside any current unit boundary is valued off nearby comparable activity."
+   ]
+  },
+  {
+   "heading": "Confirming ownership at the county level",
+   "paragraphs": [
+    "Harrison County deed records are held at the recorder's office in Cadiz. Because much of the land around Bowerston has stayed in farm families for generations, confirming exact ownership, especially if multiple heirs are involved, is usually the first real step before an offer can be finalized."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if my Bowerston-area tract is in a spacing unit?",
+   "answer": "Check the Ohio Department of Natural Resources' well and permit database by township, or review your division order if the tract is already producing."
+  },
+  {
+   "question": "What if my tract is permitted but the well isn't drilled yet?",
+   "answer": "It can still be valued and sold, generally with more weight on projected timing than a currently producing tract would carry."
+  },
+  {
+   "question": "Does everyone in a spacing unit get paid the same amount?",
+   "answer": "No, each owner is paid based on their proportional acreage within the unit, reflected as their individual decimal interest on the division order."
+  }
+ ],
+ "status": "written",
+ "wordCount": 477,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-bowerston-oh.jpg",
+  "alt": "Sell Mineral Rights in Bowerston, OH location",
+  "width": 1600,
+  "height": 1000
+ }
+}

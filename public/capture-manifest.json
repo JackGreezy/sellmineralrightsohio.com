@@ -1,0 +1,32 @@
+{
+  "src": "https://www.suzlon.com/",
+  "host": "suzlon.com",
+  "pages": [
+    {
+      "label": "home",
+      "url": "https://www.suzlon.com/",
+      "bytes": 559633
+    },
+    {
+      "label": "about",
+      "url": "https://www.suzlon.com/about-us/",
+      "bytes": 524123
+    },
+    {
+      "label": "contact",
+      "url": "https://www.suzlon.com/contact-us/",
+      "bytes": 94265
+    },
+    {
+      "label": "index",
+      "url": "https://www.suzlon.com/our-businesses/products/wind/",
+      "bytes": 178352
+    },
+    {
+      "label": "slug",
+      "url": "https://www.suzlon.com/our-businesses/products/wind/5mw-bluesky-s175/",
+      "bytes": 81085
+    }
+  ],
+  "capturedAt": "see-fs-mtime"
+}

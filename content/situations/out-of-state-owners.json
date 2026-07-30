@@ -1,0 +1,76 @@
+{
+ "slug": "out-of-state-owners",
+ "title": "Out-of-State Owners",
+ "type": "situation",
+ "note": "absentee owners managing from afar",
+ "metaTitle": "Selling Ohio Mineral Rights From Out of State",
+ "metaDescription": "Live outside Ohio but own minerals there? Learn how out-of-state owners handle title, taxes, and selling Ohio mineral rights without a local trip.",
+ "heroLead": "Owning Ohio minerals from a mailing address in Florida or Texas is more common than most out-of-state owners realize, and it doesn't have to mean a trip back to handle it.",
+ "intro": [
+  "Family land has a way of staying in Ohio even after the family scatters. Grandparents farmed the ground, parents moved for work, and now a mineral interest sits in a county the current owner may have never actually visited, managed instead through occasional mail forwarded from a relative's old address. That distance creates a specific set of headaches, some administrative, some genuinely about missing information most local owners take for granted.",
+  "None of it is unusual, and none of it prevents you from selling, leasing, or otherwise managing the interest properly. It just means a few extra steps to bridge the distance."
+ ],
+ "sections": [
+  {
+   "heading": "The most common problem: the operator can't find you",
+   "paragraphs": [
+    "If an interest has changed hands within the family, moved to a new mailing address, or simply been forgotten about for a stretch, operators frequently lose track of who to send royalty payments to. Ohio law allows operators to hold unpaid royalties in suspense when they can't confirm current ownership, sometimes for years, and unclaimed funds can eventually be reported to the Ohio Department of Commerce's unclaimed funds division.",
+    "If you suspect you own a producing interest but haven't seen a check in a while, checking Ohio's unclaimed funds database and contacting the operator directly with a copy of your deed or probate documents is usually enough to get payments restarted, though it can take a few billing cycles for the paperwork to catch up."
+   ]
+  },
+  {
+   "heading": "Confirming what you actually own without a site visit",
+   "paragraphs": [
+    "You don't need to physically visit the county to verify your interest. County recorder offices across Ohio maintain searchable deed records, many of them online, and the Ohio Department of Natural Resources publishes well permit and production data by county and township. Between those two sources, an out-of-state owner can typically reconstruct the chain of title and check for nearby drilling activity without ever setting foot on the property.",
+    "For older or more complicated title chains, a local landman or title company can pull records on your behalf, which is often faster than trying to interpret handwritten deed books from a distance, especially for older Ohio counties where digitization is incomplete."
+   ]
+  },
+  {
+   "heading": "Selling without a trip to Ohio",
+   "paragraphs": [
+    "Most mineral sales, including for out-of-state sellers, close entirely by mail or overnight courier. A deed gets prepared, sent to you for signature, and typically needs to be notarized, which any notary in your home state can handle, then returned for recording at the county courthouse where the minerals sit. There's rarely a need to appear in person anywhere in the process.",
+    "The one place distance sometimes slows things down is title curative work, if the chain of title has gaps that require a probate filing or affidavit from other family members who are also scattered across different states, coordinating those signatures can take longer than a local, single-owner sale. Starting that process early avoids it becoming the bottleneck at closing."
+   ]
+  },
+  {
+   "heading": "Property taxes and the interest itself",
+   "paragraphs": [
+    "Severed mineral interests in Ohio are sometimes, though not always, separately assessed and taxed depending on the county and whether the interest is producing. It's worth confirming with the county auditor's office whether your interest generates a separate tax bill, since an out-of-state owner who's unaware of a small annual mineral tax bill can end up delinquent without ever having received a notice at a current address.",
+    "Keeping your mailing address current with both the county auditor and any operator paying royalties is one of the simplest things an out-of-state owner can do to avoid administrative surprises down the line."
+   ]
+  },
+  {
+   "heading": "Working with a local point of contact",
+   "paragraphs": [
+    "Some out-of-state owners find it worthwhile to name a local relative, attorney, or property manager as a point of contact for anything requiring in-person attention, such as a surface access dispute or a courthouse filing that can't be handled by mail. This isn't necessary for most straightforward transactions, but it can smooth things out if your interest sits in a county where operators are actively developing and occasional coordination is needed on short notice.",
+    "If you do designate someone locally, make sure operators and the county recorder have that contact on file alongside your own, so paperwork doesn't stall waiting on a single point of failure across a long distance."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need to travel to Ohio to sell my mineral rights?",
+   "answer": "No. Mineral sales are typically completed by mail, with the deed signed and notarized wherever you live, then sent back for recording at the Ohio county courthouse. In-person presence isn't usually required."
+  },
+  {
+   "question": "How do I find out if I'm owed unpaid royalties?",
+   "answer": "Check Ohio's unclaimed funds database through the Department of Commerce, and contact the well operator directly with proof of your ownership, such as a deed or probate document, if you believe payments have been suspended for lack of a current address."
+  },
+  {
+   "question": "How can I verify my mineral interest without visiting the property?",
+   "answer": "County recorder offices maintain deed records, many searchable online, and the Ohio Department of Natural Resources publishes well and permit data by county. A local title company or landman can also pull records on your behalf for a fee."
+  },
+  {
+   "question": "Will I owe Ohio taxes on money from selling my minerals?",
+   "answer": "Tax treatment depends on your personal situation and where you live, so it's worth confirming with a CPA or tax advisor familiar with mineral sales rather than assuming based on general rules."
+  }
+ ],
+ "status": "written",
+ "wordCount": 956,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-out-of-state-owners-sellmineralrightsohio-com.jpg",
+  "alt": "Out-of-State Owners mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

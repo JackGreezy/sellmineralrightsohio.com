@@ -1,0 +1,15 @@
+{
+  "name": "sellmineralrightsohio-com",
+  "version": "1.0.0",
+  "description": "Sell Mineral Rights in Ohio",
+  "private": true,
+  "scripts": {
+    "inject-analytics": "node inject-analytics.js"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

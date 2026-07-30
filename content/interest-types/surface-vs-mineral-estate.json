@@ -1,0 +1,67 @@
+{
+ "slug": "surface-vs-mineral-estate",
+ "title": "Surface vs. Mineral Estate",
+ "type": "interest-type",
+ "metaTitle": "Surface vs. Mineral Estate: Ohio Owner's Guide",
+ "metaDescription": "Understand the difference between surface and mineral estates in Ohio, who has rights to what, and how split ownership affects selling or leasing.",
+ "heroLead": "Two people can each hold a full, legitimate deed to the exact same piece of Ohio ground, and neither one is wrong, because they own different estates.",
+ "intro": [
+  "Ohio law recognizes that land isn't a single, indivisible thing. It can be split into a surface estate, everything visible above ground, farmland, buildings, timber, and a mineral estate, everything of value beneath it, oil, gas, coal, and other resources. Once these two estates are severed from one another through a deed, they exist as separate, independently ownable, sellable, and inheritable properties, even though they occupy the exact same physical footprint.",
+  "This split ownership structure is extremely common across Ohio's older farming counties, and it's the source of a lot of confusion for both surface owners who don't realize someone else owns their minerals, and mineral owners who've never seen the land their interest sits under."
+ ],
+ "sections": [
+  {
+   "heading": "How a tract ends up split in the first place",
+   "paragraphs": [
+    "Severance most often happens through a deed where one party reserves the mineral rights while selling the surface, or conveys the mineral rights separately while keeping the surface. In Ohio, this dates back generations in coal country and gas-producing counties, where a landowner in the early or mid-1900s might have sold mineral rights to a coal or gas company for a modest sum, keeping the farm itself, or the reverse, selling the farm while holding onto the minerals as a hedge on future value.",
+    "Once severed, each estate follows its own chain of title from that point forward. The surface can be sold, subdivided, and passed down through an entirely different set of owners than the minerals, with no requirement that the two ever be reunited or even that the current owners know one another."
+   ]
+  },
+  {
+   "heading": "What each side actually controls",
+   "paragraphs": [
+    "The surface owner controls farming, building, and general use of the land's visible surface, but generally cannot block reasonable access for mineral development, since Ohio law recognizes the mineral estate as dominant, meaning it generally carries an implied right to use as much of the surface as reasonably necessary to develop the minerals. In practice, this access is usually negotiated through a surface use agreement addressing well pad location, road access, and damages, rather than an operator simply showing up unannounced.",
+    "The mineral owner controls leasing decisions and receives royalty or bonus payments, but has no rights over the surface use itself beyond what's reasonably needed for development. Neither party can unilaterally exclude the other from their respective rights, which is why Ohio's oil and gas leasing process typically involves separate negotiations, and sometimes separate compensation, for the mineral lease and the surface use agreement."
+   ]
+  },
+  {
+   "heading": "Why this split matters when selling either estate",
+   "paragraphs": [
+    "If you're selling surface land in a county with active oil and gas history, it's worth confirming whether the minerals were severed at some point in the chain of title, because buyers of surface-only property should know upfront that they won't control what happens beneath their land. Conversely, if you're selling a mineral interest, buyers will want confirmation of exactly what was severed and when, since the original severance deed defines the boundaries of what you actually have the right to sell.",
+    "A courthouse title search at the county recorder's office is the definitive way to answer this question for any specific tract, tracing the deed history back to identify exactly when, if ever, the minerals and surface parted ways."
+   ]
+  },
+  {
+   "heading": "Reunification and the Dormant Mineral Act",
+   "paragraphs": [
+    "Ohio's Dormant Mineral Act provides a specific legal path for surface owners to reunite a severed mineral estate with the surface if the minerals have gone unused for twenty years with no production, lease, or recorded preservation claim. This is the main mechanism by which split estates can come back together in Ohio, and it's a live issue in older, coal-and-gas-history counties where severances from decades ago were never touched again. Surface owners exploring this route, and mineral owners trying to protect against it, both need to understand the same twenty-year framework, just from opposite sides of the transaction."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if the mineral rights under my land were severed?",
+   "answer": "A title search at the county recorder's office where the property sits will show the full chain of deeds, including whether a prior owner reserved or conveyed the minerals separately from the surface at any point."
+  },
+  {
+   "question": "Can a mineral owner drill on my land without my permission as the surface owner?",
+   "answer": "Not without some form of surface access arrangement. While Ohio law generally treats the mineral estate as having an implied right to reasonable surface use for development, operators typically negotiate a surface use agreement addressing access, well pad location, and damages before drilling."
+  },
+  {
+   "question": "If I buy surface-only land, do I get any say in future drilling?",
+   "answer": "Generally limited say, since the mineral owner controls leasing decisions. As the surface owner you'd typically still be entitled to negotiate a surface use agreement and compensation for any access or damages related to development."
+  },
+  {
+   "question": "Can surface and mineral estates ever be reunited?",
+   "answer": "Yes, most commonly through Ohio's Dormant Mineral Act, which allows a surface owner to reclaim a severed mineral interest that's gone twenty years without production, a lease, or a recorded preservation claim."
+  }
+ ],
+ "status": "written",
+ "wordCount": 896,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-sellmineralrightsohio-com.jpg",
+  "alt": "Surface vs. Mineral Estate mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

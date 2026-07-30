@@ -1,0 +1,63 @@
+{
+ "slug": "mineral-appraisal-methods",
+ "title": "How Minerals Are Appraised",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How Ohio Mineral Rights Are Appraised or Valued",
+ "metaDescription": "The methods buyers actually use to value Ohio mineral rights, from discounted cash flow on producing wells to comparable-lease pricing on unleased acreage.",
+ "heroLead": "There is no listed market price for mineral rights the way there is for a stock, so value gets built from a handful of inputs a buyer actually checks.",
+ "intro": [
+  "People sometimes assume there is a chart somewhere with a per-acre number for their county, and that a buyer is either quoting it honestly or lowballing them against it. There is no such chart. Value is assembled from real inputs, and understanding those inputs is the best defense against both a lowball offer and unrealistic expectations."
+ ],
+ "sections": [
+  {
+   "heading": "If the tract is already producing",
+   "paragraphs": [
+    "For a mineral or royalty interest with an active well, the most common approach is a discounted cash flow model built off the well's production history. A buyer looks at monthly or annual volumes reported to the state, applies a decline curve to estimate future output, multiplies by an assumed price deck for oil and gas, applies your royalty or mineral fraction, and discounts those future payments back to a present value using a discount rate that reflects the risk of the estimate being wrong. The decline curve matters enormously here — a well eighteen months into a steep early decline is worth something very different per barrel of remaining reserves than one that has settled into a long, shallow tail.",
+    "Two buyers can look at the same well data and land on different numbers because they use different decline assumptions, different price decks, and different discount rates. That is not necessarily a sign either one is acting in bad faith — it is why getting more than one opinion is useful, and why a buyer who explains their assumptions is more trustworthy than one who simply states a figure."
+   ]
+  },
+  {
+   "heading": "If the tract is unleased or undrilled",
+   "paragraphs": [
+    "Without production history, a buyer has less to model directly, so value leans more heavily on comparable activity: what nearby leases have paid in bonus and royalty terms recently, how many permits have been filed in the township or county in the last year or two, and where your tract sits relative to the productive core of the Utica or Marcellus play versus its flank. A tract a mile from an active pad in Guernsey or Harrison County reads very differently than an identical-sized tract in a county with no recent permitting at all. This is inherently a more speculative valuation than a producing tract, and any number quoted for unleased minerals should come with that speculation acknowledged, not presented as a sure thing.",
+    "Your fractional interest also matters more than people expect. A one-eighth mineral interest inherited across siblings is valued off your net mineral acres, not the gross tract size on the original deed, so two owners of the 'same' 80-acre parcel can have very different net positions depending on how the interest split over generations."
+   ]
+  },
+  {
+   "heading": "What actually moves the number",
+   "paragraphs": [
+    "Commodity prices move it, since both the price deck used in the model and current market sentiment shift with oil and gas markets. Recent activity moves it, since a new permit or a nearby well coming online updates what a buyer can reasonably project. And title condition moves it, since an interest with a clean, easily verified chain of title is worth more to a buyer than an identical interest tangled in an unresolved heirship or a lapsed dormant-mineral question, because the buyer has to price in the cost and time of fixing it. None of these figures should be quoted to you as guaranteed or fixed — any honest number is a range tied to current activity and current prices, not a promise."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What is a decline curve and why does it matter to my value?",
+   "answer": "It is the modeled rate at which a well's production falls over time. Because most Ohio Utica and Marcellus wells decline fastest in the first two to three years, where a well sits on that curve heavily affects how much future value remains to be captured."
+  },
+  {
+   "question": "Why did two buyers give me different offers for the same interest?",
+   "answer": "Different decline assumptions, price decks, and discount rates all produce different present-value estimates from the same underlying production data. It is normal, and it is why getting a second opinion is worthwhile."
+  },
+  {
+   "question": "Does my county matter more than the specific well?",
+   "answer": "Both matter, but if there is an active well on your tract, that well's own data usually outweighs general county-level trends. Without a well, county and township-level activity becomes the main signal."
+  },
+  {
+   "question": "Can I get my minerals professionally appraised instead of just getting offers?",
+   "answer": "Yes, licensed mineral appraisers exist and some owners use them, particularly for estate or divorce purposes. For a straightforward sale, buyer offers built on the same underlying data often arrive at similar ranges."
+  },
+  {
+   "question": "Will my value go up if I wait for gas prices to rise?",
+   "answer": "It can, since price decks used in valuation move with the broader commodity market, but prices can also fall, and waiting carries its own risk. There is no way to guarantee which direction the market moves."
+  }
+ ],
+ "wordCount": 864,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-sellmineralrightsohio-com.jpg",
+  "alt": "How Minerals Are Appraised mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

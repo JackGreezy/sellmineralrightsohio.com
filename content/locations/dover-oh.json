@@ -1,0 +1,56 @@
+{
+ "slug": "dover-oh",
+ "title": "Sell Mineral Rights in Dover, OH",
+ "type": "city",
+ "kind": "city",
+ "county": "Tuscarawas",
+ "group": "Utica Flank",
+ "primaryKeyword": "sell mineral rights dover oh",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Dover, OH",
+ "metaDescription": "Dover sits in Tuscarawas County on the Utica flank, with a long history of shallow oil and gas production. Learn what that means for your minerals.",
+ "heroLead": "Dover is one of the larger towns in Tuscarawas County, and its mineral history reflects a county that's produced oil and gas quietly for generations without ever becoming a Utica hotspot.",
+ "intro": [
+  "Dover sits along the Tuscarawas River across from New Philadelphia, the county seat, in an area whose economy historically leaned on steel, brick manufacturing and farming. Tuscarawas County has hosted shallow conventional and Clinton sandstone wells for decades, and while it falls on the Utica flank rather than the core belt to the east, mineral ownership here is still very real, often tied up in family land that's been passed down since the early 20th century."
+ ],
+ "sections": [
+  {
+   "heading": "A flank county with a deep conventional history",
+   "paragraphs": [
+    "Most of the production history around Dover comes from older, shallower wells rather than modern horizontal Utica development, which has been more selective on this side of Tuscarawas County. If your family has held mineral rights here for generations, there's a reasonable chance an old Clinton sandstone well or lease sits somewhere in the chain of title, even if no one currently receives a royalty check."
+   ]
+  },
+  {
+   "heading": "Sorting out fractional family interests",
+   "paragraphs": [
+    "Dover-area mineral tracts are frequently split among multiple heirs after passing through two or three generations without a formal partition. A title search through the Tuscarawas County Recorder in New Philadelphia is the way to establish your current decimal interest, particularly if the original severance deed used fractional language like 'one-half of all oil and gas' rather than a specific number of net mineral acres."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does Dover have current Utica or Point Pleasant drilling?",
+   "answer": "Development in this part of Tuscarawas County has been lighter than in core counties further east, though activity can vary by township, so it's worth checking specifically for your parcel."
+  },
+  {
+   "question": "My deed mentions an old Clinton sandstone lease. Does that still apply today?",
+   "answer": "It might, if the well is still producing and the lease has been held by production. If the well was plugged or the lease lapsed, a newer lease would be required for any future development."
+  },
+  {
+   "question": "How do I find out how many net mineral acres I actually hold?",
+   "answer": "Your deed states your fractional interest, and multiplying that by the tract's total acreage gives your net mineral acres, though a title search confirms this is accurate against the recorded chain of title."
+  },
+  {
+   "question": "What documents should I have ready before a buyer can quote a real number?",
+   "answer": "Your deed, any lease or assignment, and recent royalty statements if you have them. Without those, a buyer can only offer a rough range based on general area activity rather than your specific interest."
+  }
+ ],
+ "wordCount": 464,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-dover-oh.jpg",
+  "alt": "Sell Mineral Rights in Dover, OH location",
+  "width": 1600,
+  "height": 1000
+ }
+}

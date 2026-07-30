@@ -1,0 +1,64 @@
+{
+ "slug": "documents-checklist",
+ "title": "Documents You Need to Sell",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Ohio Mineral Rights Documents Checklist + Dormant Act",
+ "metaDescription": "The paperwork you need to sell Ohio mineral rights, and the documents that keep an interest from being declared abandoned under the Ohio Dormant Mineral Act.",
+ "heroLead": "Two different checklists live under one roof here: the paperwork a buyer needs to close on your minerals, and the paperwork that proves you never let the interest go dormant in the eyes of Ohio law.",
+ "intro": [
+  "Most people who call us about selling mineral rights in Ohio have never pulled their own deed before. That is normal. Mineral interests usually arrive by inheritance, not by purchase, and the paper trail that came with them is often a shoebox of old documents nobody has read in twenty years. Before any of that paper is worth converting to cash, it has to prove two things: that you actually own the interest, and that the interest is still legally alive under Ohio's dormant mineral rules. This guide walks through both."
+ ],
+ "sections": [
+  {
+   "heading": "What proves you own it",
+   "paragraphs": [
+    "Start with the deed that first severed the minerals from the surface, or the deed, will, or affidavit of heirship that brought the interest to you. In Ohio, mineral interests are frequently severed from the surface estate going back to the early 1900s, which means your name may never appear on a deed at all — you may hold through a chain of inheritance running through a grandparent's estate. If that is your situation, you also need the probate record: the certificate of transfer, the executor's deed, or the affidavit of descent recorded with the county recorder. A buyer's title examiner will trace this chain parcel by parcel, so gaps matter. If you are missing a link, the county recorder's office and the probate court in the county where the minerals sit both keep public copies you can request.",
+    "You will also want your most recent division order or royalty statement if the tract has ever produced, your county auditor's parcel number for the property, and a copy of any lease currently in effect, including its term, bonus, and royalty fraction. None of this needs to be perfectly organized before you call — a competent buyer's title team pulls the recorder's index themselves — but having it on hand shortens the process and helps you check what you are being told your interest is worth."
+   ]
+  },
+  {
+   "heading": "The document that keeps your interest from going dormant",
+   "paragraphs": [
+    "Ohio is one of a small number of states with a Dormant Mineral Act, and it changes the checklist in a way owners in most other states never have to think about. Under Ohio Revised Code 5301.56, a mineral interest that has sat with no activity for twenty years can be claimed by the surface owner as abandoned, and title reverts to the surface. Activity, for this purpose, is called a savings event: a title transfer, a lease, actual production or royalty payment, a tax filing on the mineral interest, or a recorded claim to preserve the interest. If none of those has happened in two decades, the clock is not automatically fatal, but it puts the surface owner in a position to start the formal abandonment process.",
+    "That process runs through the county recorder. The surface owner records a notice of intent to declare the interest abandoned and serves it on the mineral owner, by certified mail if the owner can be located, by publication if not. From there, the mineral owner has sixty days to respond by recording either a claim to preserve the interest or an affidavit stating a savings event occurred within the lookback period. Miss that window and the surface owner can record an affidavit of abandonment that vests title in their name. This is why, if you have not touched your Ohio minerals in years, the single most useful document you can add to your file is a recorded claim to preserve — a short affidavit an Ohio attorney can prepare and file with the recorder, dated and on record before anyone questions your ownership."
+   ]
+  },
+  {
+   "heading": "Why this matters more once a buyer is involved",
+   "paragraphs": [
+    "A buyer's title opinion will flag any interest that has gone quiet for close to twenty years, because an unresolved dormancy question puts the whole transaction at risk. If your family's mineral interest has never been leased, never produced, and never generated a tax bill in your name, that is worth checking before you negotiate a price, not after. It is a fast fix if caught early: a recorded claim to preserve resets the clock. It is a much harder fix once a surface owner has already started the statutory notice process and the sixty-day window has closed.",
+    "None of this is a substitute for legal advice specific to your parcel, and Ohio's dormant mineral case law has shifted more than once on exactly which savings events count and when the lookback period starts, so talk to your CPA or an Ohio real estate attorney about your specific chain of title before you assume either direction, that you are safe or that you have lost the interest. What we can do on our end is pull the recorder's records for your county, confirm what is and is not on file, and tell you plainly whether dormancy is a live issue for your parcel or a non-issue."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need a lawyer to file a claim to preserve my mineral interest?",
+   "answer": "You do not strictly need one to record the affidavit itself, but the form has to cite the correct statutory language and legal description or a recorder can reject it. Most owners in this position use a real estate attorney for a one-time filing rather than risk a defective claim."
+  },
+  {
+   "question": "What counts as a savings event under Ohio's Dormant Mineral Act?",
+   "answer": "A recorded title transfer, an oil and gas lease, actual production or a royalty payment, a tax assessment against the mineral interest, or a recorded claim to preserve filed within the prior twenty years all count. Any one of these resets the clock."
+  },
+  {
+   "question": "I inherited mineral rights and never leased or received a check. Am I at risk?",
+   "answer": "It depends on when the interest last had a savings event, which could predate your inheritance. Pull the recorder's history for the parcel or have an attorney do it. If the last event is approaching twenty years old, filing a claim to preserve now is the low-cost move."
+  },
+  {
+   "question": "Does selling my mineral rights count as a savings event?",
+   "answer": "The sale itself, once recorded, is a title transfer and resets the twenty-year clock for the new owner. It does not retroactively fix a dormancy problem that existed before the sale, so any title issue should be resolved first."
+  },
+  {
+   "question": "What if I can't find the original severance deed?",
+   "answer": "The county recorder's grantor-grantee index can usually locate it by searching backward from your name through the chain of title. A title company or attorney doing a mineral title search will do this as a matter of course."
+  }
+ ],
+ "wordCount": 1163,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-documents-checklist-sellmineralrightsohio-com.jpg",
+  "alt": "Documents You Need to Sell mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}
