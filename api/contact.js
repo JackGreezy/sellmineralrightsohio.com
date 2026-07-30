@@ -27,6 +27,23 @@ function redirect(res, location) {
   res.end();
 }
 
+function emailFallback(res, lead) {
+  const subject = `${SITE.businessName} inquiry: ${lead.name}`;
+  const message = [
+    `Name: ${lead.name}`,
+    `Email: ${lead.email}`,
+    `Phone: ${lead.phone}`,
+    "",
+    lead.message,
+    "",
+    `Source: ${lead.source}`
+  ].join("\n");
+  return redirect(
+    res,
+    `mailto:${SITE.businessEmail}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(message)}`
+  );
+}
+
 function rateLimit(req) {
   const key = clean(req.headers["cf-connecting-ip"]) ||
     clean(String(req.headers["x-forwarded-for"] || "").split(",")[0]) ||
@@ -162,6 +179,7 @@ module.exports = async function handler(req, res) {
     const error = invalid(lead);
     if (error) return json(res, 400, { ok: false, error });
     if (!solicitation(lead)) {
+      if (!clean(process.env.SENDGRID_API_KEY)) return emailFallback(res, lead);
       const recipients = clean(
         process.env.CONTACT_NOTIFICATION_RECIPIENTS ||
         process.env.RANKHOUND_NOTIFICATION_EMAIL ||
