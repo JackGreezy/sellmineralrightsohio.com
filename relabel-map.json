@@ -253,13 +253,34 @@
         },
         {
           "selector": "section.bg-humble-beige.overflow-x-clip.pt-\\[70px\\]",
+          "action": "drop",
+          "reason": "donor world-region map (Asia/Africa/Europe) has no honest Ohio equivalent; replaced below by a native locations card-grid band"
+        },
+        {
+          "action": "clone-band",
+          "clone_of": "[data-rr-band='situations']",
+          "insert_after": "[data-rr-band='situations']",
+          "inner": "card-grid",
+          "source": "locations",
+          "limit": 6,
+          "heading": "h2",
+          "subheading": "header p",
+          "heading_text": "Ohio Coverage From the County Record Out",
+          "subheading_text": "Eastern Ohio mineral interests stay connected to the county recorder, tract, payor history, and Utica or Point Pleasant evidence.",
+          "card": "ul[class*=\"lg:hidden\"] > li",
+          "card_fields": {
+            "title": "h3",
+            "sub": "p",
+            "image": "img",
+            "summary_chars": 145
+          },
+          "view_all": ["View All Ohio Locations", "/locations"]
+        },
+        {
+          "selector": "[data-rr-band='locations']",
           "action": "relabel",
           "ops": [
-            {"sel": ":scope", "self": true, "attrs": {"data-rr-band": "locations"}},
-            {"sel": "h2", "text": "Ohio Coverage From the County Record Out"},
-            {"sel": "p", "nth": 0, "text": "Eastern Ohio mineral interests stay connected to the county recorder, tract, payor history, and Utica or Point Pleasant evidence."},
-            {"sel": "h3", "text": "OHIO"},
-            {"sel": "p", "nth": 1, "text": "Review Canton, Stark County, the Utica fairway, and mineral-producing counties across eastern Ohio."}
+            {"sel": "a.rr-view-all", "html": "<div class=\"flex items-center justify-center p-3 sm:p-[16px] rounded-[4px] shrink-0 transition-all duration-300 border border-ever-teal-100 bg-ever-teal-80 text-white group-hover/viewall:bg-ever-teal-100\"><span class=\"font-semibold leading-[16px] text-[12px] sm:text-[14px] tracking-[0.28px] whitespace-nowrap\">View All Ohio Locations</span></div><div class=\"relative size-[40px] shrink-0 overflow-hidden sm:size-[48px]\"><div class=\"pointer-events-none absolute inset-0 flex items-center justify-center\"><svg aria-hidden=\"true\" class=\"block size-[24px] shrink-0\" fill=\"none\" viewBox=\"0 0 20 20\"><path class=\"fill-bold-amber\" d=\"M8.63 9.53H0.47L0 10L0.47 10.47H8.63L9.1 10L8.63 9.53Z\"></path><path class=\"fill-ever-teal-100\" d=\"M19.53 9.53H11.37L10.9 10L11.37 10.47H19.53L20 10L19.53 9.53Z\"></path><path class=\"fill-ever-teal-100\" d=\"M10.47 8.63V0.47L10 0L9.53003 0.47V8.63L10 9.1L10.47 8.63Z\"></path><path class=\"fill-bold-amber\" d=\"M10.47 19.53V11.37L10 10.9L9.53003 11.37V19.53L10 20L10.47 19.53Z\"></path></svg></div></div>"}
           ]
         },
         {

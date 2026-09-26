@@ -71,6 +71,18 @@ html body.rr-native footer .rr-footer-ia{box-sizing:border-box!important;max-wid
 html body.rr-native footer .rr-footer-ia a{color:#fff!important;text-decoration:none!important}
 html body.rr-native footer .rr-footer-ia a:hover{color:#ffc600!important}
 
+/* Homepage locations band: donor offering-card grid, forced to 3 cols desktop / 2 tablet / 1 mobile
+   (mirrors the engine's own situations-band repair, scoped to our cloned locations band) */
+html body section[data-rr-band="locations"] ul[class*="lg:hidden"]{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:20px!important}
+html body section[data-rr-band="locations"] ul[class*="lg:hidden"]>li{min-width:0!important;min-height:360px!important;grid-column:auto!important;order:0!important}
+html body section[data-rr-band="locations"] ul[class*="lg:hidden"] a,html body section[data-rr-band="locations"] ul[class*="lg:hidden"] a>div{height:100%!important;min-height:360px!important}
+html body section[data-rr-band="locations"] a.rr-view-all{display:flex!important;width:fit-content!important;margin:32px auto 0!important}
+@media(max-width:900px){html body section[data-rr-band="locations"] ul[class*="lg:hidden"]{grid-template-columns:repeat(2,minmax(0,1fr))!important}}
+@media(max-width:760px){
+  html body section[data-rr-band="locations"] ul[class*="lg:hidden"]{grid-template-columns:1fr!important}
+  html body section[data-rr-band="locations"] ul[class*="lg:hidden"]>li,html body section[data-rr-band="locations"] ul[class*="lg:hidden"] a,html body section[data-rr-band="locations"] ul[class*="lg:hidden"] a>div{min-height:320px!important}
+}
+
 /* Carousel arrows: match the donor's teal rounded-square zoom controls */
 html body.rr-native [data-rr-carousel] .rr-carousel-controls{gap:10px!important}
 html body.rr-native [data-rr-carousel] .rr-carousel-control{width:44px!important;height:44px!important;border:0!important;border-radius:8px!important;background:#178c92!important;color:#fff!important;box-shadow:0 1px 2px rgba(0,0,0,.08)!important;transition:background-color .2s ease!important}
