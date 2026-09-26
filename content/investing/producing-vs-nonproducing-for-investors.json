@@ -2,9 +2,69 @@
  "slug": "producing-vs-nonproducing-for-investors",
  "title": "Producing vs. Non-Producing for Investors",
  "type": "investing",
- "status": "stub",
+ "status": "written",
  "bucket": "bucket2",
  "audience": "investor",
+ "metaTitle": "Producing vs. Non-Producing Minerals | Ohio Investing",
+ "metaDescription": "Why producing and non-producing Ohio mineral interests need entirely different underwriting, and where non-producing acreage still holds real value.",
+ "heroLead": "A producing interest is priced off a paper trail. A non-producing interest is priced off a bet on what might happen underneath it.",
+ "intro": [
+  "Producing minerals have a documented income history: division orders, statements, a paid decimal that can be checked against real dollars received. Non-producing minerals have none of that; their value rests on geology, nearby activity, and the odds of future development.",
+  "Treating both categories the same way is a common way buyers overpay for undrilled acreage or underpay for a well-documented producing tract."
+ ],
+ "sections": [
+  {
+   "heading": "Underwriting a producing interest",
+   "paragraphs": [
+    "For producing acreage, the production trail is the evidence: several months of division order statements, the paid decimal, and the decline pattern. That documentation supports a defensible number because it's based on income the tract has actually generated.",
+    "The main risk is overpaying based on a single strong month rather than a stable multi-month average."
+   ]
+  },
+  {
+   "heading": "Underwriting non-producing acreage",
+   "paragraphs": [
+    "Non-producing minerals require a different lens. Without a payment history, value depends on formation, nearby permits, offset well performance, and operator activity, none of which proves what will happen on the specific tract.",
+    "This is where speculative pitches tend to inflate a number using nearby Utica or Point Pleasant activity as though it applies directly to acreage that hasn't itself been drilled or permitted."
+   ]
+  },
+  {
+   "heading": "Why the two shouldn't be blended into one number",
+   "paragraphs": [
+    "When a package includes both a small producing interest and larger non-producing acreage, the temptation is to average them into one price per acre. That hides the fact that most of the documented value sits in the smaller producing piece.",
+    "A clearer approach values the producing portion off its statement history and treats the non-producing portion as a separate line with more conservative assumptions."
+   ]
+  },
+  {
+   "heading": "What this means when deciding whether to sell",
+   "paragraphs": [
+    "Understanding which part of an ownership position is documented income and which is speculative acreage helps evaluate any offer received, including one from the docket, against something more concrete than a single blended number.",
+    "Every review here separates these two categories, and states plainly which part of an offer reflects documented production and which reflects a judgment call on undeveloped acreage."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why is non-producing acreage harder to value than producing minerals?",
+   "answer": "Producing minerals have a documented payment history. Non-producing acreage depends on future development that hasn't happened, so its value rests on geology and nearby activity."
+  },
+  {
+   "question": "Does a nearby producing well prove my undrilled acreage has value?",
+   "answer": "It's relevant context, but it doesn't prove anything about the specific tract. Only production tied directly to the acreage and unit counts as documented value."
+  },
+  {
+   "question": "Should producing and non-producing interests be priced the same way?",
+   "answer": "No. Blending them into one average price per acre tends to obscure how much of the value is documented versus speculative."
+  },
+  {
+   "question": "I own both producing and non-producing minerals. How should I think about selling?",
+   "answer": "Understand which portion is backed by statement history and which is speculative, and expect a credible offer to reflect that difference."
+  },
+  {
+   "question": "Can the docket evaluate a mixed producing and non-producing package?",
+   "answer": "Yes. The documented and speculative portions are broken out separately so it's clear what's driving the number offered."
+  }
+ ],
+ "wordCount": 595,
  "image": {
   "src": "/images/investing/mineral-rights-investing-producing-vs-nonproducing-for-investors-sellmineralrightsohio-com.jpg",
   "alt": "Producing vs. Non-Producing for Investors mineral rights",

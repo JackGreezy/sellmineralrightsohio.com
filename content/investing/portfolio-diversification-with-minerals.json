@@ -2,9 +2,68 @@
  "slug": "portfolio-diversification-with-minerals",
  "title": "Diversifying a Portfolio With Minerals",
  "type": "investing",
- "status": "stub",
+ "status": "written",
  "bucket": "bucket2",
  "audience": "investor",
+ "metaTitle": "Diversifying a Portfolio With Minerals | Ohio Tracts",
+ "metaDescription": "How Ohio mineral rights fit into a diversified portfolio, where the diversification benefit is real, and where it's overstated.",
+ "heroLead": "Mineral rights are genuinely uncorrelated with stocks and bonds in a lot of ways, but a single Ohio tract is its own kind of concentrated bet.",
+ "intro": [
+  "Mineral rights get recommended as a diversifier because their returns tie to commodity prices and well-specific production rather than equity or bond cycles. That part is fair. What gets glossed over is that a single interest, one tract, one or two wells, one operator, is itself concentrated, not diversified.",
+  "Real diversification within minerals comes from holding interests across multiple counties, formations, and operators, not from owning one interest and calling it a diversified asset class."
+ ],
+ "sections": [
+  {
+   "heading": "Why minerals are genuinely uncorrelated",
+   "paragraphs": [
+    "Royalty income depends on oil and gas production and pricing, which moves independently of equity market cycles. That independence is a legitimate portfolio benefit and part of why some institutional portfolios include a small mineral allocation."
+   ]
+  },
+  {
+   "heading": "Why one tract is still a concentrated bet",
+   "paragraphs": [
+    "A single interest depends on a specific formation, a specific operator's decisions, and the production history of specific wells. If the operator slows development, or wells decline faster than expected, there's no offsetting position within that one tract.",
+    "That concentration is easy to miss because the underlying story, commodity exposure, sounds diversified even when the actual holding is one tract in one Ohio county."
+   ]
+  },
+  {
+   "heading": "What real diversification within minerals looks like",
+   "paragraphs": [
+    "Spreading exposure across multiple counties, formations, and operators reduces the risk that any single well or operator decision drives the entire return. That requires either acquiring multiple interests directly or accepting the tradeoffs of a pooled fund structure.",
+    "Most individual owners hold one or a handful of interests, inherited or acquired over time, rather than a deliberately diversified mineral portfolio."
+   ]
+  },
+  {
+   "heading": "Deciding whether to hold or convert to cash",
+   "paragraphs": [
+    "If a single Ohio interest represents a meaningful concentration relative to the rest of a portfolio, converting it to cash through a sale and redeploying elsewhere is a legitimate diversification strategy in its own right.",
+    "The docket can walk through what a specific interest's production trail supports so that decision rests on the tract's own numbers, not a general assumption about minerals as an asset class."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do mineral rights really diversify a stock-and-bond portfolio?",
+   "answer": "The commodity-price exposure is genuinely uncorrelated with equity markets, which is a real benefit. But a single tract is still a concentrated position within that exposure."
+  },
+  {
+   "question": "Is owning one mineral interest the same as a diversified mineral portfolio?",
+   "answer": "No. One interest depends on one operator, one formation, and specific wells. Real diversification comes from spreading exposure across several of each."
+  },
+  {
+   "question": "Should I sell my single Ohio interest to diversify?",
+   "answer": "That can be reasonable if the interest represents a large share of your holdings. Converting it to cash and redeploying elsewhere is itself a form of diversification."
+  },
+  {
+   "question": "What makes commodity-linked income different from stock returns?",
+   "answer": "It depends on production volume, well decline, and commodity pricing rather than equity valuations, which is why the two can move independently."
+  },
+  {
+   "question": "Can the docket tell me what my Ohio interest is worth if I want to diversify?",
+   "answer": "Yes. The production trail and deed chain are reviewed and a number is given based on documented performance."
+  }
+ ],
+ "wordCount": 590,
  "image": {
   "src": "/images/investing/mineral-rights-investing-portfolio-diversification-with-minerals-sellmineralrightsohio-com.jpg",
   "alt": "Diversifying a Portfolio With Minerals mineral rights",

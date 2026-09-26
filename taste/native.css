@@ -1,0 +1,87 @@
+/* sellmineralrightsohio.com — Suzlon-native skin for engine-injected components.
+   Donor tokens: Monda; ever-teal #007078 / #178c92, humble beige #f8f4e1, bold amber #ffc600,
+   dark #303030 / #636363; white 16px-radius cards; teal 4px-radius button with a plus chip. */
+
+/* ---------- Header: donor white pill bar, teal links, teal button ---------- */
+html body.rr-native header a.rr-header-cta{background:#178c92!important;color:#fff!important;border:1px solid #007078!important;border-radius:4px!important;box-shadow:none!important;font-family:Monda,sans-serif!important;font-weight:600!important}
+html body.rr-native header a.rr-header-cta:hover{background:#007078!important}
+html body.rr-native header a.rr-header-phone{padding:0!important;color:#007078!important;font-family:Monda,sans-serif!important;font-size:14px!important;font-weight:600!important;letter-spacing:0!important;text-decoration:none!important}
+
+/* Wordmark: donor logotype — wide-tracked teal caps, one line */
+html body.rr-native .rr-wordmark{display:inline-flex!important;flex-direction:row!important;align-items:baseline!important;gap:.45em!important;width:auto!important;max-width:none!important;height:auto!important;font-family:Monda,sans-serif!important;line-height:1!important;white-space:nowrap!important;text-decoration:none!important}
+html body.rr-native .rr-wordmark .rr-wm-1,html body.rr-native .rr-wordmark .rr-wm-2{font-size:17px!important;font-weight:700!important;letter-spacing:.14em!important;line-height:1!important;text-transform:uppercase!important;white-space:nowrap!important;overflow-wrap:normal!important;opacity:1!important}
+html body.rr-native .rr-wordmark .rr-wm-1{color:#007078!important}
+html body.rr-native .rr-wordmark .rr-wm-2{color:#178c92!important}
+html body.rr-native footer .rr-wordmark .rr-wm-1,html body.rr-native footer .rr-wordmark .rr-wm-2{color:#fff!important;font-size:22px!important}
+
+/* Burger + drawer: donor teal slide-out */
+html body.rr-native header .rr-burger{border:0!important;background:none!important;color:#007078!important}
+html body.rr-native header .rr-burger span{width:20px!important;height:2px!important;background:#007078!important;opacity:1!important}
+html body.rr-native [data-rr-mobile]{background:#007078!important;color:#fff!important}
+html body.rr-native.rr-nav-open [data-rr-mobile]{padding:80px 30px 30px!important;box-shadow:none!important}
+html body.rr-native [data-rr-mobile] .rr-m-link{padding:14px 0!important;border-bottom:1px solid rgba(255,255,255,.18)!important;color:#fff!important;font-family:Monda,sans-serif!important;font-size:20px!important;font-weight:600!important;letter-spacing:-.4px!important;text-transform:none!important;text-decoration:none!important}
+html body.rr-native [data-rr-mobile] .rr-m-link[href^="/contact"]{margin-top:20px!important;padding:14px 16px!important;border:1px solid #fff!important;border-radius:4px!important;background:#178c92!important;font-size:15px!important}
+html body.rr-native [data-rr-mobile] .rr-m-link[href^="tel:"]{border:0!important;color:#ffc600!important;font-size:16px!important}
+html body.rr-native [data-rr-mobile] .rr-x{color:#fff!important}
+html body.rr-native .rr-scrim{background:rgba(0,0,0,.4)!important}
+html body.rr-native header:has(.rr-burger:not(.rr-burger-fallback)) .rr-burger-fallback{display:none!important}
+
+/* ---------- Slug: donor product page — full-bleed photo, beige sheet, teal title ---------- */
+html body.rr-native.rr-taste-slug main{display:block!important;background:#f8f4e1!important}
+html body.rr-native.rr-taste-slug .rr-taste-hero{position:relative!important;left:auto!important;display:flex!important;flex-direction:column-reverse!important;box-sizing:border-box!important;width:100%!important;min-width:0!important;max-width:none!important;min-height:0!important;margin:0!important;padding:0!important;border:0!important;border-radius:0!important;background:#007078!important;box-shadow:none!important;clip-path:none!important;overflow:visible!important}
+html body.rr-native.rr-taste-slug .rr-taste-hero::before,html body.rr-native.rr-taste-slug .rr-taste-hero::after{content:none!important;display:none!important}
+html body.rr-native.rr-taste-slug .rr-taste-hero-media{position:static!important;inset:auto!important;display:block!important;width:100%!important;max-width:none!important;height:clamp(320px,40vw,640px)!important;border-radius:0!important;object-fit:cover!important;opacity:1!important}
+html body.rr-native.rr-taste-slug .rr-taste-hero-copy{position:relative!important;z-index:2!important;box-sizing:border-box!important;width:100%!important;max-width:none!important;margin:-40px 0 0!important;padding:56px max(16px,calc((100vw - 1360px)/2)) 24px!important;border-radius:16px 16px 0 0!important;background:#f8f4e1!important}
+html body.rr-native.rr-taste-slug .rr-taste-hero h1{max-width:16ch!important;min-width:0!important;margin:0!important;color:#007078!important;font-family:Monda,sans-serif!important;font-weight:700!important;text-shadow:none!important;text-transform:none!important}
+html body.rr-native.rr-taste-slug .rr-taste-prose-shell{position:static!important;box-sizing:border-box!important;width:min(820px,calc(100vw - 32px))!important;max-width:none!important;margin:0 max(16px,calc((100vw - 1360px)/2))!important;padding:24px 0 64px!important;border:0!important;border-radius:0!important;background:none!important;box-shadow:none!important}
+html body.rr-native [data-rr-taste-prose]{width:auto!important;max-width:none!important;margin:0!important;padding:0!important;color:#636363!important}
+html body.rr-native [data-rr-taste-prose]>p,html body.rr-native [data-rr-taste-prose] li{margin:0 0 18px!important;color:#636363!important;font-family:Monda,sans-serif!important;font-size:18px!important;line-height:28px!important;letter-spacing:-.36px!important}
+html body.rr-native [data-rr-taste-prose]>h2,html body.rr-native [data-rr-taste-prose]>h3{margin:44px 0 16px!important;color:#007078!important;font-family:Monda,sans-serif!important;font-size:clamp(26px,2.6vw,36px)!important;font-weight:600!important;letter-spacing:-1.2px!important;line-height:1.15!important;text-transform:none!important}
+html body.rr-native [data-rr-taste-prose] a{color:#007078!important;text-decoration:underline!important}
+
+/* Slug FAQ: the donor feature cards — white, 16px radius, teal heads */
+html body.rr-native [data-rr-taste-faq]{margin:0!important;padding-top:48px!important}
+html body.rr-native [data-rr-taste-faq] article p{margin:0 0 12px!important;color:#636363!important}
+html body.rr-native [data-rr-taste-faq] article p:last-child{margin-bottom:0!important}
+html body.rr-native [data-rr-taste-faq] article h3{font-size:22px!important;line-height:28px!important;letter-spacing:-.8px!important;white-space:normal!important}
+
+/* Slug related: donor teal band with white cards */
+html body.rr-native [data-rr-taste-related] a.rounded-\[16px\]{text-decoration:none!important;transition:transform .2s ease!important}
+html body.rr-native [data-rr-taste-related] a.rounded-\[16px\]:hover{transform:translateY(-3px)!important}
+html body.rr-native [data-rr-taste-related] h3{font-size:24px!important;line-height:30px!important;white-space:normal!important}
+html body.rr-native [data-rr-taste-related] .group\/viewall>div:first-child{border-color:#fff!important}
+html body.rr-native [data-rr-taste-related] .group\/viewall>div+div,html body.rr-native [data-rr-taste-cta] .group\/viewall>div+div{border:1px solid currentColor!important;border-radius:4px!important;background:#fff!important;color:#007078!important}
+html body.rr-native [data-rr-taste-cta] a[href^="tel:"]{color:#007078!important;text-decoration:underline!important;text-underline-offset:4px!important}
+
+/* ---------- Contact: donor white card form, teal button ---------- */
+html body.rr-native #contact-form{box-sizing:border-box!important;display:grid!important;grid-template-columns:1fr 1fr!important;gap:20px!important;width:100%!important;max-width:880px!important;margin:32px auto 0!important;padding:32px!important;border:0!important;border-radius:16px!important;background:#fff!important;box-shadow:none!important;position:static!important;transform:none!important}
+html body.rr-native #contact-form .rr-contact-field{display:flex!important;flex-direction:column!important;gap:8px!important;margin:0!important;padding:0!important}
+html body.rr-native #contact-form .rr-contact-field:nth-child(n+3),html body.rr-native #contact-form>button{grid-column:1/-1!important}
+html body.rr-native #contact-form label{margin:0!important;color:#007078!important;font-family:Monda,sans-serif!important;font-size:14px!important;font-weight:600!important;letter-spacing:-.2px!important;text-transform:none!important}
+html body.rr-native #contact-form input,html body.rr-native #contact-form textarea{box-sizing:border-box!important;width:100%!important;padding:12px 14px!important;border:1px solid #d9d4bd!important;border-radius:4px!important;background:#fffdf5!important;color:#303030!important;font:400 16px/1.4 Monda,sans-serif!important;box-shadow:none!important}
+html body.rr-native #contact-form input:focus,html body.rr-native #contact-form textarea:focus{border-color:#178c92!important;outline:0!important}
+html body.rr-native #contact-form textarea{min-height:150px!important}
+html body.rr-native #contact-form button[type=submit]{justify-self:start!important;padding:16px 20px!important;border:1px solid #007078!important;border-radius:4px!important;background:#178c92!important;color:#fff!important;font:600 14px/16px Monda,sans-serif!important;letter-spacing:.28px!important;text-transform:none!important;cursor:pointer!important;box-shadow:none!important}
+html body.rr-native #contact-form button[type=submit]:hover{background:#007078!important}
+html body.rr-native .rr-contact-map{position:relative!important;inset:auto!important;box-sizing:border-box!important;width:100%!important;max-width:880px!important;height:340px!important;margin:32px auto 0!important;border:0!important;border-radius:16px!important;overflow:hidden!important;box-shadow:none!important;transform:none!important}
+
+/* ---------- Footer: donor teal footer ---------- */
+html body.rr-native footer .rr-footer-map{box-sizing:border-box!important;width:auto!important;max-width:1360px!important;height:260px!important;min-height:260px!important;margin:24px auto 32px!important;border:0!important;border-radius:16px!important;background:#0b5f66!important;box-shadow:none!important;filter:none!important;overflow:hidden!important}
+html body.rr-native footer .rr-footer-ia{box-sizing:border-box!important;max-width:1360px!important;margin:0 auto!important;padding:0 16px 32px!important;gap:10px 22px!important;font-family:Monda,sans-serif!important;font-size:13px!important;letter-spacing:0!important;text-transform:none!important}
+html body.rr-native footer .rr-footer-ia a{color:#fff!important;text-decoration:none!important}
+html body.rr-native footer .rr-footer-ia a:hover{color:#ffc600!important}
+
+/* Carousel arrows: match the donor's teal rounded-square zoom controls */
+html body.rr-native [data-rr-carousel] .rr-carousel-controls{gap:10px!important}
+html body.rr-native [data-rr-carousel] .rr-carousel-control{width:44px!important;height:44px!important;border:0!important;border-radius:8px!important;background:#178c92!important;color:#fff!important;box-shadow:0 1px 2px rgba(0,0,0,.08)!important;transition:background-color .2s ease!important}
+html body.rr-native [data-rr-carousel] .rr-carousel-control:hover{background:#007078!important}
+html body.rr-native [data-rr-carousel] .rr-carousel-control::before{width:9px!important;height:9px!important;border-color:#fff!important}
+html body.rr-native [data-rr-carousel] .rr-carousel-control:disabled{background:#a9c9cb!important;opacity:1!important}
+
+@media(max-width:767px){
+  html body.rr-native #contact-form{grid-template-columns:1fr!important;padding:20px!important}
+  html body.rr-native.rr-taste-slug .rr-taste-hero-copy{padding:40px 16px 16px!important}
+  html body.rr-native.rr-taste-slug .rr-taste-prose-shell{margin:0 16px!important;width:auto!important}
+  html body.rr-native .rr-wordmark .rr-wm-1,html body.rr-native .rr-wordmark .rr-wm-2{font-size:14px!important;letter-spacing:.1em!important}
+  html body.rr-native footer .rr-footer-map{margin:24px 16px!important;height:220px!important;min-height:220px!important}
+}

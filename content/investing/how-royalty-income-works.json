@@ -2,9 +2,69 @@
  "slug": "how-royalty-income-works",
  "title": "How Royalty Income Works",
  "type": "investing",
- "status": "stub",
+ "status": "written",
  "bucket": "bucket2",
  "audience": "investor",
+ "metaTitle": "How Royalty Income Works | Ohio Mineral Rights",
+ "metaDescription": "A plain walkthrough of how Ohio royalty income is calculated, deducted, and paid, from the lease royalty rate to the net check.",
+ "heroLead": "The number on a division order statement rarely matches what a new owner expected, because most of the steps between wellhead and mailbox are never explained upfront.",
+ "intro": [
+  "Royalty income looks simple: a well produces, the operator sells the oil or gas, and the mineral owner gets a share. In practice several steps sit between production and payment, and each can move the final number.",
+  "Understanding those steps matters whether an interest is already producing or being considered for purchase, because the lease royalty rate is never the number that actually reaches an account."
+ ],
+ "sections": [
+  {
+   "heading": "The royalty rate is only the starting point",
+   "paragraphs": [
+    "A lease typically sets a royalty fraction, applied to the owner's net mineral acres within the producing unit. That produces the paid decimal, a number specific to the tract and the owner's fractional share, not a round lease fraction.",
+    "Two owners under the same lease can have very different paid decimals depending on how the unit and their fractional ownership were calculated."
+   ]
+  },
+  {
+   "heading": "What gets deducted before the check is cut",
+   "paragraphs": [
+    "Operators typically deduct post-production costs, gathering, processing, and transportation, before calculating the owner's payment, depending on lease language. Severance taxes apply as well. Gross wellhead value and net paid amount are two different numbers.",
+    "A useful statement itemizes these deductions by product and month, so gross volume and price can be traced down to the net payment."
+   ]
+  },
+  {
+   "heading": "Why payments lag and fluctuate",
+   "paragraphs": [
+    "Royalty is typically paid on a lag, often 60 to 90 days behind production, to allow volume and price data to be finalized. Payments fluctuate with volume, price, and occasional prior-period adjustments.",
+    "A single low or delayed month isn't automatically a red flag. A pattern of unexplained gaps is worth raising with the operator."
+   ]
+  },
+  {
+   "heading": "Reading a statement before relying on it",
+   "paragraphs": [
+    "A useful statement shows the well or unit, product and volume, price received, itemized deductions, the owner's decimal interest, and the net amount paid. If several of these are missing, ask the operator for a fuller breakdown.",
+    "Reviewing several months of statements is standard practice before the paid decimal and deduction pattern are checked against the deed chain and lease."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between the lease royalty rate and the paid decimal?",
+   "answer": "The lease royalty rate is the fraction set in the lease. The paid decimal applies that fraction to a specific ownership share within the producing unit, which is why it's a much smaller, tract-specific number."
+  },
+  {
+   "question": "Why is my royalty check lower than the well's gross value?",
+   "answer": "Post-production costs and severance taxes are typically deducted first, depending on the lease. Gross wellhead value and net paid amount are rarely the same figure."
+  },
+  {
+   "question": "Why does payment arrive months after production?",
+   "answer": "Operators typically run 60 to 90 days behind to finalize volume and price data. That lag is standard, not a sign of a problem."
+  },
+  {
+   "question": "What should I check on a division order statement?",
+   "answer": "The well or unit name, product and volume, price, itemized deductions, the decimal interest, and the net amount paid. Missing fields are worth asking the operator to clarify."
+  },
+  {
+   "question": "Can the docket review my Ohio royalty statements before I decide to sell?",
+   "answer": "Yes. Division order statements are read as part of every Ohio review, before any offer is discussed."
+  }
+ ],
+ "wordCount": 600,
  "image": {
   "src": "/images/investing/mineral-rights-investing-how-royalty-income-works-sellmineralrightsohio-com.jpg",
   "alt": "How Royalty Income Works mineral rights",

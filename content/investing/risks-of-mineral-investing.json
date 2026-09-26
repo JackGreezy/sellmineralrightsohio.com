@@ -2,9 +2,69 @@
  "slug": "risks-of-mineral-investing",
  "title": "The Real Risks of Mineral Investing",
  "type": "investing",
- "status": "stub",
+ "status": "written",
  "bucket": "bucket2",
  "audience": "investor",
+ "metaTitle": "The Real Risks of Mineral Investing | Ohio Tracts",
+ "metaDescription": "The actual risks in Ohio mineral investing, title and preservation risk, decline, concentration, and operator dependence, without the sales-pitch framing.",
+ "heroLead": "The risks in mineral investing rarely show up in the pitch. They show up in the deed chain, the decline curve, and whatever notice or preservation history sits behind the tract.",
+ "intro": [
+  "Mineral rights get marketed with a lot of upside language and very little discussion of what can go wrong. The risks here are different enough from stocks or real estate that they deserve to be named plainly.",
+  "None of the risks below mean minerals are a bad investment. They mean the case needs to survive contact with them before a number is agreed to."
+ ],
+ "sections": [
+  {
+   "heading": "Title and preservation risk",
+   "paragraphs": [
+    "If ownership isn't cleanly established through the deed chain, an interest can be worth less than represented, or a sale can stall while heirship or a missing preservation filing gets resolved. This is especially relevant for older Ohio interests that may fall under Dormant Mineral Act notice requirements.",
+    "This is the most common issue found when reviewing inherited or long-held interests, and it's resolvable in most cases, but it changes the realistic closing timeline."
+   ]
+  },
+  {
+   "heading": "Decline risk",
+   "paragraphs": [
+    "Producing wells decline. The rate varies by formation and well design, but no producing interest pays the same amount indefinitely. A valuation built on a single strong month overstates what the interest is likely to keep paying.",
+    "This risk is manageable with good statement history and honest expectations, but not if it's ignored entirely."
+   ]
+  },
+  {
+   "heading": "Concentration risk",
+   "paragraphs": [
+    "A single tract depends on one operator's decisions, one formation's performance, and a small number of specific wells. There's no internal diversification within one interest.",
+    "Owners holding one or two interests, which describes most individual mineral owners, are carrying this concentration whether or not they've thought about it in those terms."
+   ]
+  },
+  {
+   "heading": "Operator and development risk",
+   "paragraphs": [
+    "Mineral owners don't control drilling, spacing, or development pace. Those decisions belong entirely to the operator, and a change in strategy can slow or accelerate development regardless of what an owner wants.",
+    "This is part of why non-producing acreage is inherently more speculative than producing acreage: the owner depends on a decision they have no say in."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the biggest risk in buying or holding Ohio mineral rights?",
+   "answer": "Title and preservation risk is the most common issue found, followed by overestimating future income based on one strong statement month."
+  },
+  {
+   "question": "Can a mineral owner do anything about declining production?",
+   "answer": "Not directly. What an owner can control is having accurate expectations built on multi-month statement history rather than one good check."
+  },
+  {
+   "question": "Is one mineral interest riskier than owning several?",
+   "answer": "Yes, in the sense that one interest carries full exposure to one operator, one formation, and a small set of wells, with nothing offsetting a bad outcome."
+  },
+  {
+   "question": "Do mineral owners control when a well gets drilled?",
+   "answer": "No. Development decisions belong to the operator. Owners can track activity and permits, but can't direct the pace of drilling."
+  },
+  {
+   "question": "I'm concerned my Ohio interest carries more risk than it's worth managing. Can the docket help?",
+   "answer": "Yes. The title status and production trail are reviewed so holding can be weighed against converting to cash through a sale."
+  }
+ ],
+ "wordCount": 600,
  "image": {
   "src": "/images/investing/mineral-rights-investing-risks-of-mineral-investing-sellmineralrightsohio-com.jpg",
   "alt": "The Real Risks of Mineral Investing mineral rights",

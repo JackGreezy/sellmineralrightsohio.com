@@ -2,9 +2,69 @@
  "slug": "how-to-evaluate-a-mineral-package",
  "title": "How to Evaluate a Mineral Package",
  "type": "investing",
- "status": "stub",
+ "status": "written",
  "bucket": "bucket2",
  "audience": "investor",
+ "metaTitle": "How to Evaluate a Mineral Package | Ohio County Docket",
+ "metaDescription": "A step-by-step way to evaluate an Ohio mineral package before buying: confirm the deed chain, check the preservation history, then read the well evidence.",
+ "heroLead": "Most mineral packages arrive as a one-page summary. A real evaluation needs the deed chain and the recorder's file behind that summary.",
+ "intro": [
+  "A mineral package usually arrives with a county, formation, net mineral acres, and an asking price attached. That's a starting point for a conversation, not enough to evaluate a purchase. The work is confirming what's actually being sold and whether production supports the number.",
+  "The process is the same whether the package is one small tract or a larger multi-county position. It just repeats more times."
+ ],
+ "sections": [
+  {
+   "heading": "Start with the deed chain",
+   "paragraphs": [
+    "Confirm the legal description, the county, and the instrument establishing the seller's ownership. In Ohio, many mineral interests were severed decades ago and may fall under Dormant Mineral Act notice and preservation requirements, so the chain matters as much as the acreage figure quoted.",
+    "If the seller can't produce the deed, or any required preservation filing, that's the first thing to resolve before production numbers matter."
+   ]
+  },
+  {
+   "heading": "Confirm the acreage actually being sold",
+   "paragraphs": [
+    "Net mineral acres and gross acres aren't the same, and a package can be quoted with whichever number looks larger. Ask specifically for net mineral acres tied to the tract, and confirm how it was calculated.",
+    "Also confirm whether a depth or formation limitation applies. Some Ohio interests are limited to specific formations rather than everything beneath the surface."
+   ]
+  },
+  {
+   "heading": "Read the well evidence, not the pitch",
+   "paragraphs": [
+    "Ask for several months of division order statements tied to the specific tract, not general county activity. The paid decimal should be consistent with the fractional interest being sold.",
+    "For non-producing acreage, treat nearby Utica or Point Pleasant permits as context, not value. Undrilled acreage carries real uncertainty a strong neighboring well doesn't resolve."
+   ]
+  },
+  {
+   "heading": "Put the whole file together before offering a number",
+   "paragraphs": [
+    "A complete evaluation file includes the deed, any preservation filing, several months of statements, and any lease or unit documentation available, in a form another reviewer could check.",
+    "Every Ohio offer here is built off that kind of file, with the documentation gaps stated plainly rather than priced over."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the first thing to ask for when evaluating a mineral package?",
+   "answer": "The deed or instrument establishing the seller's ownership, and any Dormant Mineral Act preservation filing if the interest is older. Without those, acreage and production numbers can't be verified."
+  },
+  {
+   "question": "What's the difference between net mineral acres and gross acres?",
+   "answer": "Gross acres describe the whole tract. Net mineral acres reflect the seller's actual fractional ownership, which is the number that matters for valuation."
+  },
+  {
+   "question": "How many months of statements should I ask for?",
+   "answer": "At least half a year of consecutive statements gives a far more reliable picture than a single one."
+  },
+  {
+   "question": "Does a nearby Utica well prove my acreage has value?",
+   "answer": "It provides context, not proof. Only production tied directly to the specific tract and unit counts toward documented value."
+  },
+  {
+   "question": "Can the docket evaluate an Ohio mineral package I'm considering?",
+   "answer": "Yes. Send the deed chain and any statements available, and the docket will walk through what's verified before any number is discussed."
+  }
+ ],
+ "wordCount": 605,
  "image": {
   "src": "/images/investing/mineral-rights-investing-how-to-evaluate-a-mineral-package-sellmineralrightsohio-com.jpg",
   "alt": "How to Evaluate a Mineral Package mineral rights",

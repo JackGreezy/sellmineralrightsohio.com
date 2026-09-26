@@ -2,14 +2,69 @@
  "slug": "passive-royalty-income",
  "title": "Passive Royalty Income",
  "type": "investing",
- "status": "stub",
+ "status": "written",
  "bucket": "bucket2",
  "audience": "investor",
- "primaryKeyword": "passive royalty income",
- "seo": {
-  "vol": 20,
-  "cpc": null
- },
+ "metaTitle": "Passive Royalty Income | What It Really Requires",
+ "metaDescription": "Ohio royalty income is genuinely passive day to day, but it still requires upfront title diligence and ongoing statement review to stay that way.",
+ "heroLead": "Passive doesn't mean unattended. Royalty income can arrive without daily involvement, but only after the deed chain behind it was confirmed upfront.",
+ "intro": [
+  "Royalty income is one of the more genuinely passive assets available: once ownership is established and a well is producing, checks arrive on the operator's schedule without any operational work. That part is accurate.",
+  "What gets left out is the diligence required before that passive period begins, and the periodic review required to keep it that way, tracking statements and catching a decimal or notice issue before it becomes a bigger problem."
+ ],
+ "sections": [
+  {
+   "heading": "What makes it genuinely passive",
+   "paragraphs": [
+    "A mineral owner has no operational responsibility for a well. Drilling, production, and marketing decisions belong entirely to the operator. Once title is established and a well is producing, the owner's role is limited to reviewing statements.",
+    "That's a real difference from active real estate ownership, where ongoing involvement is part of the return."
+   ]
+  },
+  {
+   "heading": "The upfront work that makes it passive later",
+   "paragraphs": [
+    "Before a check arrives, ownership has to be established through the deed chain, and, for many older Ohio interests, any Dormant Mineral Act notice or preservation issue has to be resolved. Skipping that is how owners end up disputing a decimal or a missing payment months later.",
+    "This upfront work is where most of the effort in mineral ownership actually lives, front-loaded before income starts."
+   ]
+  },
+  {
+   "heading": "What still requires periodic attention",
+   "paragraphs": [
+    "Division orders can change when a well is reworked, a unit is adjusted, or an operator changes. A passive owner still needs to review statements periodically to catch a decimal that's shifted or a payment that's stopped without explanation.",
+    "Ignoring statements for years is how owners miss a title issue or an operator error while it's still recent enough to resolve cleanly."
+   ]
+  },
+  {
+   "heading": "When passive ownership stops making sense",
+   "paragraphs": [
+    "For some owners, even periodic review becomes more trouble than the income is worth, particularly on small or aging interests. That's often when converting the interest into a single recorded sale becomes the more practical option.",
+    "If keeping up with an Ohio interest has stopped being worth the effort, the docket can walk through what the statement history actually supports for a sale."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is owning Ohio mineral rights really as passive as it sounds?",
+   "answer": "Day to day, yes. But it requires real upfront diligence to establish clean title, and periodic review afterward to catch statement or notice issues."
+  },
+  {
+   "question": "Does the Dormant Mineral Act ever affect an already-producing interest?",
+   "answer": "It can, particularly for older severed interests where a preservation filing was never recorded. That's worth confirming even on a producing tract."
+  },
+  {
+   "question": "What could interrupt otherwise passive income?",
+   "answer": "A division-order change, an operator change, or a title question can all interrupt payments, none of which require operational work, but all of which require attention."
+  },
+  {
+   "question": "At what point does a small interest stop being worth monitoring?",
+   "answer": "That's specific to each owner, but when the review effort clearly outweighs the income, converting to a recorded sale is often the more practical path."
+  },
+  {
+   "question": "Can the docket help me decide whether to keep monitoring or sell?",
+   "answer": "Yes. Send the statement history and the docket will walk through what the tract actually supports."
+  }
+ ],
+ "wordCount": 600,
  "image": {
   "src": "/images/investing/mineral-rights-investing-passive-royalty-income-sellmineralrightsohio-com.jpg",
   "alt": "Passive Royalty Income mineral rights",

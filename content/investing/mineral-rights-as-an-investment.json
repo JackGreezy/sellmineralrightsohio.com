@@ -2,14 +2,69 @@
  "slug": "mineral-rights-as-an-investment",
  "title": "Mineral Rights as an Investment",
  "type": "investing",
- "status": "stub",
+ "status": "written",
  "bucket": "bucket2",
  "audience": "investor",
- "primaryKeyword": "mineral rights investment",
- "seo": {
-  "vol": 210,
-  "cpc": 10.17
- },
+ "metaTitle": "Mineral Rights as an Investment | Ohio County Docket",
+ "metaDescription": "Buying Ohio mineral rights as an investment starts with the deed chain and the recorded notice, not the royalty check a seller waves around.",
+ "heroLead": "A royalty check is an outcome. Before it means anything as an investment, it has to be tied to a specific deed chain in a specific Ohio county.",
+ "intro": [
+  "Mineral rights get pitched as passive income, and under the right conditions they can be. But the pitch usually skips the county docket work: whose name is on the deed, whether a reservation was preserved under Ohio's Dormant Mineral Act, and whether the paid decimal on recent statements actually matches the fraction being sold.",
+  "Skip that work and the investment case is built on a number someone else chose to show you, not on a record you can check yourself."
+ ],
+ "sections": [
+  {
+   "heading": "The deed chain comes before the check",
+   "paragraphs": [
+    "Ohio mineral ownership is frequently severed from the surface across decades of reservations, and many older interests fell under Dormant Mineral Act notice requirements at some point. Before any cash-flow conversation is useful, the deed chain needs to show clean title with any required preservation filing already recorded.",
+    "A seller who can't produce that chain isn't necessarily sitting on a worthless interest, but the docket work has to happen before a number means anything."
+   ]
+  },
+  {
+   "heading": "Reading Utica and Point Pleasant evidence honestly",
+   "paragraphs": [
+    "Once title is confirmed, the well evidence is next: is production tied to the specific tract and unit, and does the decimal on recent division orders match the fraction actually being sold. A strong well two townships over doesn't establish value for acreage that isn't in that unit.",
+    "Watch for a package priced off one unusually strong month rather than a multi-month average. Utica and Point Pleasant wells decline like any other, and one good statement doesn't establish a trend."
+   ]
+  },
+  {
+   "heading": "Where the real risk sits",
+   "paragraphs": [
+    "The two risks that matter most are title risk and decline risk. Title risk means the reservation, the recorded notice, or the heirship chain isn't as clean as represented. Decline risk means today's statement isn't next year's statement.",
+    "Neither shows up in a one-page summary. Both show up in the county recorder's office and in the statement history."
+   ]
+  },
+  {
+   "heading": "What a recorder-ready file looks like",
+   "paragraphs": [
+    "A defensible acquisition file keeps the deed, any preservation filing, the division orders, and the closing paperwork together, in a form another reviewer could check against the same county records.",
+    "If a seller can't produce that file, that's useful information on its own. It doesn't mean the interest is worthless, it means the docket has to be opened before the paid decimal means anything."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is an Ohio mineral interest a good investment?",
+   "answer": "It can be, but it needs its own underwriting. It's illiquid, title-dependent, and tied to well decline and commodity prices, so a stock-market framework doesn't apply."
+  },
+  {
+   "question": "What documents matter most before buying an Ohio mineral interest?",
+   "answer": "The deed establishing ownership, any Dormant Mineral Act preservation filing, and several months of division order statements. Without those, a number is a guess."
+  },
+  {
+   "question": "Why does the Dormant Mineral Act matter for older interests?",
+   "answer": "It set notice and preservation requirements for severed mineral interests. An interest that wasn't properly preserved can carry real title risk that a summary sheet won't mention."
+  },
+  {
+   "question": "Do Utica and Point Pleasant wells keep paying the same amount?",
+   "answer": "No. Like any producing well, they decline over time. A single strong month doesn't establish a stable baseline."
+  },
+  {
+   "question": "Can you evaluate an Ohio mineral package I'm considering?",
+   "answer": "Yes. The docket reviews the deed chain and well evidence before any number is discussed."
+  }
+ ],
+ "wordCount": 615,
  "image": {
   "src": "/images/investing/mineral-rights-investing-mineral-rights-as-an-investment-sellmineralrightsohio-com.jpg",
   "alt": "Mineral Rights as an Investment mineral rights",

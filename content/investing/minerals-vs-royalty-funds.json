@@ -2,14 +2,69 @@
  "slug": "minerals-vs-royalty-funds",
  "title": "Direct Minerals vs. Royalty Funds",
  "type": "investing",
- "status": "stub",
+ "status": "written",
  "bucket": "bucket2",
  "audience": "investor",
- "primaryKeyword": "royalty fund",
- "seo": {
-  "vol": 40,
-  "cpc": 15.57
- },
+ "metaTitle": "Direct Minerals vs. Royalty Funds | Ohio Comparison",
+ "metaDescription": "The real tradeoffs between owning a direct Ohio mineral interest and buying into a pooled royalty fund, from control to liquidity to fees.",
+ "heroLead": "A direct Ohio mineral interest and a share of a royalty fund both produce royalty income, but the ownership and paperwork behind them are nothing alike.",
+ "intro": [
+  "Direct ownership means holding title to a specific tract, with a specific deed chain and production trail behind it. A royalty fund means owning a share of a pooled entity holding many interests across counties and operators.",
+  "Both can generate royalty income, but control, transparency, liquidity, and fees are different enough that they shouldn't be compared as the same asset in a different wrapper."
+ ],
+ "sections": [
+  {
+   "heading": "Direct ownership means you can see the county record",
+   "paragraphs": [
+    "With a direct interest, the deed, the division order statements, and the lease terms for the specific tract can all be requested and checked against the county recorder. Nothing is pooled or averaged.",
+    "That transparency comes with more work: tracking statements, watching for division-order changes, and handling title questions when they arise."
+   ]
+  },
+  {
+   "heading": "Fund ownership means diversification, less visibility",
+   "paragraphs": [
+    "A royalty fund pools many tracts, spreading production and price risk more broadly than a single interest could. That diversification is real, but it costs visibility into any individual tract's production trail.",
+    "Fund structures also typically carry management fees that reduce the net return relative to what the underlying properties actually produce."
+   ]
+  },
+  {
+   "heading": "Liquidity works differently for each",
+   "paragraphs": [
+    "A direct interest is illiquid by nature; selling it means finding a buyer willing to underwrite that specific tract. A publicly traded royalty fund can often be bought or sold in real time, at whatever price the market is offering.",
+    "Neither profile is inherently better. It depends on whether control over the timing and terms of an exit matters more than the convenience of a tradable security."
+   ]
+  },
+  {
+   "heading": "Which fits depends on what's being solved for",
+   "paragraphs": [
+    "If an Ohio interest is already held and the question is whether to keep it, sell it, or consolidate into something more diversified, the honest answer depends on that tract's own production trail and liquidity needs, not a blanket rule.",
+    "The docket works exclusively with direct Ohio mineral interests, and can walk through what a specific tract's file actually supports before it's compared against any other option."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is a royalty fund safer than owning Ohio mineral rights directly?",
+   "answer": "It's more diversified, which reduces single-tract risk, but it comes with less visibility and typically higher fees than a direct, traceable interest."
+  },
+  {
+   "question": "Can a direct mineral interest be sold as easily as fund shares?",
+   "answer": "Not in the same way. Direct interests are illiquid and require finding a buyer willing to underwrite the specific tract, which takes longer but allows more control over terms."
+  },
+  {
+   "question": "Do royalty funds charge fees that reduce the return?",
+   "answer": "Typically yes. Management fees are standard in pooled structures and reduce the net return relative to the underlying properties' actual production."
+  },
+  {
+   "question": "Should I convert a direct interest into a royalty fund investment?",
+   "answer": "That depends on the goal. Direct ownership offers control and traceability; a fund offers liquidity and diversification."
+  },
+  {
+   "question": "I own a direct Ohio mineral interest and want to know its value. Can the docket help?",
+   "answer": "Yes. The docket underwrites direct interests using the deed chain and production trail behind the specific tract."
+  }
+ ],
+ "wordCount": 605,
  "image": {
   "src": "/images/investing/mineral-rights-investing-minerals-vs-royalty-funds-sellmineralrightsohio-com.jpg",
   "alt": "Direct Minerals vs. Royalty Funds mineral rights",

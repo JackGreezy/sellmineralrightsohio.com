@@ -2,9 +2,69 @@
  "slug": "inflation-and-mineral-income",
  "title": "Inflation and Mineral Income",
  "type": "investing",
- "status": "stub",
+ "status": "written",
  "bucket": "bucket2",
  "audience": "investor",
+ "metaTitle": "Inflation and Mineral Income | Ohio Royalty Investing",
+ "metaDescription": "How inflation actually interacts with Ohio mineral and royalty income, and where the commodity-price link helps or hurts a real return.",
+ "heroLead": "Mineral income sometimes gets sold as an inflation hedge. The real relationship is narrower: it tracks inflation only when energy prices are doing the work.",
+ "intro": [
+  "Royalty income is tied to commodity prices, and commodity prices sometimes rise alongside broader inflation. That relationship gets marketed as a clean hedge, but it isn't automatic and isn't the same as an asset with a built-in cost-of-living adjustment.",
+  "Knowing where the link holds and where it breaks down matters before treating a mineral interest as an inflation play rather than what it is: a royalty tied to volume and price on a specific Ohio tract."
+ ],
+ "sections": [
+  {
+   "heading": "Where the inflation link comes from",
+   "paragraphs": [
+    "Oil and gas prices are set globally and regionally, driven by supply and demand, not a domestic price index. When energy costs are a meaningful driver of broader inflation, rising commodity prices and rising royalty checks can move together, which is where the hedge pitch comes from.",
+    "That link runs through energy prices specifically, not inflation generally. When inflation is driven by other factors, oil and gas prices can move independently or even in the opposite direction."
+   ]
+  },
+  {
+   "heading": "Volume decline works against the hedge",
+   "paragraphs": [
+    "Even during rising prices, a producing well's volume is typically declining. Rising price can offset declining volume for a while, but the two forces pull in opposite directions, and decline doesn't pause because prices are up.",
+    "This is why a mineral interest isn't a clean substitute for an asset with a contractual inflation adjustment."
+   ]
+  },
+  {
+   "heading": "Post-production costs move too",
+   "paragraphs": [
+    "Post-production costs, gathering, processing, and transportation, are deducted before the net royalty is calculated. Those costs can rise with broader inflation, eating into any gain from higher commodity prices before it reaches the owner.",
+    "High inflation and high energy prices at the same time don't automatically translate into a proportionally higher net check once the full deduction picture is accounted for."
+   ]
+  },
+  {
+   "heading": "What this means for valuing an interest",
+   "paragraphs": [
+    "Treat commodity-price sensitivity as one variable in the underwriting, not a reason to pay a premium on the assumption that an interest will track inflation indefinitely. The deed chain and paid decimal still matter more than a macro thesis about energy prices.",
+    "Every review here looks at how a specific interest has actually performed across different price environments in its own statement history, not a general assumption about where prices are headed."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is Ohio mineral income a reliable inflation hedge?",
+   "answer": "It can track inflation when energy prices are a driver of that inflation, but it isn't contractual or automatic. It runs through commodity prices, not a general cost-of-living link."
+  },
+  {
+   "question": "Does higher oil and gas price always mean a higher royalty check?",
+   "answer": "Not necessarily. Volume decline and rising post-production costs can offset the benefit of higher commodity prices."
+  },
+  {
+   "question": "Should I buy Ohio mineral rights specifically as an inflation hedge?",
+   "answer": "That would be a risky primary strategy. The deed chain and paid decimal on the specific tract matter more than a broad inflation thesis."
+  },
+  {
+   "question": "How do post-production costs affect the inflation relationship?",
+   "answer": "Those costs can rise with inflation too, reducing the net benefit an owner sees from higher commodity prices before the check is calculated."
+  },
+  {
+   "question": "Can the docket show how a specific Ohio interest has performed across price cycles?",
+   "answer": "Yes. The statement history behind a tract shows how it has actually behaved through different price environments."
+  }
+ ],
+ "wordCount": 590,
  "image": {
   "src": "/images/investing/mineral-rights-investing-inflation-and-mineral-income-sellmineralrightsohio-com.jpg",
   "alt": "Inflation and Mineral Income mineral rights",

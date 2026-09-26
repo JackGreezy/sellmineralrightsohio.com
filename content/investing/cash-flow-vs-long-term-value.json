@@ -2,9 +2,69 @@
  "slug": "cash-flow-vs-long-term-value",
  "title": "Cash Flow vs. Long-Term Value",
  "type": "investing",
- "status": "stub",
+ "status": "written",
  "bucket": "bucket2",
  "audience": "investor",
+ "metaTitle": "Cash Flow vs. Long-Term Value | Ohio Mineral Investing",
+ "metaDescription": "Weighing current royalty income against long-term Ohio mineral value means reading the decline curve and the deed chain, not one strong statement.",
+ "heroLead": "Two Ohio interests with the same monthly check can carry very different long-term value once the decline curve and the remaining formation are actually compared.",
+ "intro": [
+  "Every mineral purchase trades off two things: what the interest pays now, and what it might still be worth years out. Weighted too far toward current income, a buyer can overpay for a well already deep into decline. Weighted too far toward future upside, a buyer can overpay for acreage that may never see another permit.",
+  "Neither side of that trade is answered honestly by a single royalty statement. Both need the production trail and the county deed chain behind them."
+ ],
+ "sections": [
+  {
+   "heading": "What a current statement actually tells you",
+   "paragraphs": [
+    "A current statement shows what the well is paying today, net of the paid decimal and deductions. It doesn't show where the well sits on its decline curve, whether nearby permits point to more development, or whether the Point Pleasant interval below the Utica still has untapped value.",
+    "A high check on a mature well can represent less remaining value than a smaller check on a well still early in its production life."
+   ]
+  },
+  {
+   "heading": "Where long-term value actually comes from",
+   "paragraphs": [
+    "Long-term value in an Ohio mineral interest usually comes from additional wells in the same unit, a second producing formation under the same tract, or acreage that hasn't been drilled at all yet. Each one depends on operator decisions the owner doesn't control.",
+    "That uncertainty is why upside belongs on its own line, separate from documented current income, not folded into one blended number."
+   ]
+  },
+  {
+   "heading": "Reading the decline curve honestly",
+   "paragraphs": [
+    "Ask for several months of division order statements, not one. A single strong month can reflect a price spike or a delayed payment catching up rather than a stable trend.",
+    "If a seller can only produce one statement, that alone is worth noting before any number gets discussed."
+   ]
+  },
+  {
+   "heading": "Balancing the two before an offer is made",
+   "paragraphs": [
+    "A defensible offer accounts for documented cash flow and a conservative view of remaining upside separately. Overweighting current income risks overpaying for a dying well; overweighting speculative upside risks paying for acreage that may never be developed.",
+    "Every Ohio offer here is built off the deed chain and the production trail together, with the documented and speculative parts of the number kept visibly separate."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Should current royalty income or long-term value matter more?",
+   "answer": "Both, but they should be evaluated separately. Current income should be backed by several months of statements; long-term value should be treated as a forecast."
+  },
+  {
+   "question": "How can I tell if a well is near the end of its productive life?",
+   "answer": "The decline curve across multiple statements is the clearest signal, more reliable than any single month's check."
+  },
+  {
+   "question": "Does a nearby permit guarantee my acreage gets developed?",
+   "answer": "No. A permit shows intent for a specific location, not a promise for every tract nearby. It's context, not proof."
+  },
+  {
+   "question": "How many months of statements should I gather?",
+   "answer": "At least half a year of consecutive statements gives a far more honest picture than a single check."
+  },
+  {
+   "question": "Can the docket help me weigh cash flow against long-term value on my tract?",
+   "answer": "Yes. The deed chain and production trail are reviewed together so near-term and long-term value stay separate, not blended."
+  }
+ ],
+ "wordCount": 605,
  "image": {
   "src": "/images/investing/mineral-rights-investing-cash-flow-vs-long-term-value-sellmineralrightsohio-com.jpg",
   "alt": "Cash Flow vs. Long-Term Value mineral rights",
