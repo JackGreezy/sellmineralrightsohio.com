@@ -13,7 +13,7 @@ Release blockers:
 - Every footer contains exactly one Google Maps embed and zero other `img`, `picture`, `svg`, `video`, `source`, or `canvas` media elements.
 - The street address is never rendered as visible text, schema, alt text, or form copy. It may appear only URL-encoded inside Google Maps embeds and non-visible business metadata.
 - The contact form posts to the local `/api/contact` handler, routes to `ohio@sellmineralrightsohio.com`, and exposes exactly Name, Email, Phone, and Message.
-- Every desktop header shows `330-555-1034`, retains visible routes, and includes a clear contact CTA without overlap. The mobile drawer, close control, scrim, focus behavior, and scroll lock must work.
+- Every desktop header shows `330-542-5468`, retains visible routes, and includes a clear contact CTA without overlap. The mobile drawer, close control, scrim, focus behavior, and scroll lock must work.
 - Any shipped carousel must have functional controls or be intentionally converted into a touch-scroll track with no dead arrows.
 - Homepage bands cover every shipped taxonomy in importance order, never alphabetical source order.
 - Every taxonomy slug page uses the Suzlon Monda/teal/amber system, exactly one mapped hero image, a wide centered reading measure, a domain-specific FAQ treatment, intentional related navigation, and a strong final form plus phone CTA.

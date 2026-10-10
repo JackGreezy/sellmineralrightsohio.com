@@ -29,7 +29,7 @@
       "footer_logo_slot": "footer > div.hidden a[aria-label=\"Home\"]",
       "nav_button_selector": "div.hidden > button",
       "html_map": {
-        "header > div > div:last-child": "<div class=\"flex gap-3 items-center text-ever-teal-100\"><a class=\"hidden lg:flex font-medium text-[14px] leading-[20px] tracking-[-0.28px] whitespace-nowrap text-ever-teal-100\" href=\"tel:+13305551034\">330-555-1034</a><a class=\"hidden lg:flex items-center justify-center rounded-[4px] bg-ever-teal-80 px-4 py-3 font-semibold text-[13px] leading-[16px] tracking-[0.28px] whitespace-nowrap text-white\" href=\"/contact#contact-form\">Request an Ohio Review</a><a aria-label=\"Menu\" class=\"flex size-[24px] shrink-0 cursor-pointer items-center justify-center touch-manipulation\" href=\"#mobile-navigation-fallback\"><span></span><span></span><span></span></a></div>"
+        "header > div > div:last-child": "<div class=\"flex gap-3 items-center text-ever-teal-100\"><a class=\"hidden lg:flex font-medium text-[14px] leading-[20px] tracking-[-0.28px] whitespace-nowrap text-ever-teal-100\" href=\"tel:+13305425468\">330-542-5468</a><a class=\"hidden lg:flex items-center justify-center rounded-[4px] bg-ever-teal-80 px-4 py-3 font-semibold text-[13px] leading-[16px] tracking-[0.28px] whitespace-nowrap text-white\" href=\"/contact#contact-form\">Request an Ohio Review</a><a aria-label=\"Menu\" class=\"flex size-[24px] shrink-0 cursor-pointer items-center justify-center touch-manipulation\" href=\"#mobile-navigation-fallback\"><span></span><span></span><span></span></a></div>"
       },
       "mobile_menu_slot": "nav[class*=\"mt-[40px]\"]",
       "burger_selector": "a[aria-label=\"Menu\"]",
