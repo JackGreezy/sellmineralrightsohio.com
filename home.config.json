@@ -50,5 +50,944 @@
   "brand_apple_icon": "/brand/apple-touch-icon.png",
   "brand_repair_css_append": "a.rr-approved-logo-link{display:flex!important;align-items:center!important;justify-content:flex-start!important;flex-shrink:0!important;width:min(186px,14vw)!important;max-width:100%!important;height:46px!important;overflow:visible!important;text-decoration:none!important;padding:0!important}\nimg.rr-approved-logo,img.rr-brand-logo{display:block!important;visibility:visible!important;opacity:1!important;width:100%!important;max-width:100%!important;height:100%!important;max-height:46px!important;object-fit:contain!important;object-position:left center!important;filter:none!important}\n@media(max-width:760px){a.rr-approved-logo-link{width:min(168px,46vw)!important;height:40px!important}img.rr-approved-logo{max-height:40px!important}}\n/* rr-logo-call-start */\n.rr-mobile-call{--call-bg:#297b78;--call-fg:#ffffff;--call-radius:6px}\n.rr-mobile-call{display:none!important}\n@media(max-width:760px),(hover:none) and (pointer:coarse){\n body{padding-bottom:calc(84px + env(safe-area-inset-bottom,0px))!important}\n .rr-mobile-call{display:flex!important;position:fixed!important;inset:auto 18px calc(18px + env(safe-area-inset-bottom,0px)) auto!important;width:56px!important;height:56px!important;min-width:56px!important;align-items:center!important;justify-content:center!important;background:var(--call-bg)!important;color:var(--call-fg)!important;border:2px solid var(--call-fg)!important;border-radius:var(--call-radius,6px)!important;box-shadow:0 3px 12px #0004!important;z-index:900!important;text-decoration:none!important;transform:none!important;opacity:1!important;visibility:visible!important}\n .rr-mobile-call:focus-visible{outline:3px solid var(--call-fg)!important;outline-offset:3px!important}\n .rr-mobile-call-icon{display:block!important;width:24px!important;height:24px!important;background:currentColor!important;mask:url('/brand/phone.svg') center/contain no-repeat;-webkit-mask:url('/brand/phone.svg') center/contain no-repeat}\n body:has(input:focus,textarea:focus) .rr-mobile-call{display:none!important}\n}\n/* rr-logo-call-end */\n",
   "brand_runtime_script": "/brand/visibility.js?v=5d6424499781",
-  "brand_logo_variant": ""
+  "brand_logo_variant": "",
+  "location_hero_images": {
+    "/locations/harrison-county": {
+      "src": "/ours/locations/sell-mineral-rights-harrison-county-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Harrison County, OH"
+    },
+    "/locations/belmont-county": {
+      "src": "/ours/locations/sell-mineral-rights-belmont-county-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Belmont County, OH"
+    },
+    "/locations/monroe-county": {
+      "src": "/ours/locations/sell-mineral-rights-monroe-county-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Monroe County, OH"
+    },
+    "/locations/carroll-county": {
+      "src": "/ours/locations/sell-mineral-rights-carroll-county-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Carroll County, OH"
+    },
+    "/locations/guernsey-county": {
+      "src": "/ours/locations/sell-mineral-rights-guernsey-county-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Guernsey County, OH"
+    },
+    "/locations/noble-county": {
+      "src": "/ours/locations/sell-mineral-rights-noble-county-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Noble County, OH"
+    },
+    "/locations/tuscarawas-county": {
+      "src": "/ours/locations/sell-mineral-rights-tuscarawas-county-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Tuscarawas County, OH"
+    },
+    "/locations/washington-county": {
+      "src": "/ours/locations/sell-mineral-rights-washington-county-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Washington County, OH"
+    },
+    "/locations/columbiana-county": {
+      "src": "/ours/locations/sell-mineral-rights-columbiana-county-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Columbiana County, OH"
+    },
+    "/locations/cadiz-oh": {
+      "src": "/ours/locations/sell-mineral-rights-cadiz-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Cadiz, OH"
+    },
+    "/locations/st-clairsville-oh": {
+      "src": "/ours/locations/sell-mineral-rights-st-clairsville-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in St. Clairsville, OH"
+    },
+    "/locations/cambridge-oh": {
+      "src": "/ours/locations/sell-mineral-rights-cambridge-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Cambridge, OH"
+    },
+    "/locations/marietta-oh": {
+      "src": "/ours/locations/sell-mineral-rights-marietta-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Marietta, OH"
+    },
+    "/locations/new-philadelphia-oh": {
+      "src": "/ours/locations/sell-mineral-rights-new-philadelphia-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in New Philadelphia, OH"
+    },
+    "/locations/carrollton-oh": {
+      "src": "/ours/locations/sell-mineral-rights-carrollton-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Carrollton, OH"
+    },
+    "/locations/caldwell-oh": {
+      "src": "/ours/locations/sell-mineral-rights-caldwell-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Caldwell, OH"
+    },
+    "/locations/woodsfield-oh": {
+      "src": "/ours/locations/sell-mineral-rights-woodsfield-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Woodsfield, OH"
+    },
+    "/locations/east-liverpool-oh": {
+      "src": "/ours/locations/sell-mineral-rights-east-liverpool-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in East Liverpool, OH"
+    },
+    "/locations/amsterdam-oh": {
+      "src": "/ours/locations/sell-mineral-rights-amsterdam-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Amsterdam, OH"
+    },
+    "/locations/antioch-oh": {
+      "src": "/ours/locations/sell-mineral-rights-antioch-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Antioch, OH"
+    },
+    "/locations/baltic-oh": {
+      "src": "/ours/locations/sell-mineral-rights-baltic-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Baltic, OH"
+    },
+    "/locations/barnhill-oh": {
+      "src": "/ours/locations/sell-mineral-rights-barnhill-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Barnhill, OH"
+    },
+    "/locations/batesville-oh": {
+      "src": "/ours/locations/sell-mineral-rights-batesville-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Batesville, OH"
+    },
+    "/locations/beallsville-oh": {
+      "src": "/ours/locations/sell-mineral-rights-beallsville-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Beallsville, OH"
+    },
+    "/locations/bethesda-oh": {
+      "src": "/ours/locations/sell-mineral-rights-bethesda-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bethesda, OH"
+    },
+    "/locations/beverly-oh": {
+      "src": "/ours/locations/sell-mineral-rights-beverly-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Beverly, OH"
+    },
+    "/locations/bolivar-oh": {
+      "src": "/ours/locations/sell-mineral-rights-bolivar-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bolivar, OH"
+    },
+    "/locations/bowerston-oh": {
+      "src": "/ours/locations/sell-mineral-rights-bowerston-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bowerston, OH"
+    },
+    "/locations/bridgeport-oh": {
+      "src": "/ours/locations/sell-mineral-rights-bridgeport-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Bridgeport, OH"
+    },
+    "/locations/byesville-oh": {
+      "src": "/ours/locations/sell-mineral-rights-byesville-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Byesville, OH"
+    },
+    "/locations/calcutta-oh": {
+      "src": "/ours/locations/sell-mineral-rights-calcutta-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Calcutta, OH"
+    },
+    "/locations/clarington-oh": {
+      "src": "/ours/locations/sell-mineral-rights-clarington-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Clarington, OH"
+    },
+    "/locations/cumberland-oh": {
+      "src": "/ours/locations/sell-mineral-rights-cumberland-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Cumberland, OH"
+    },
+    "/locations/damascus-oh": {
+      "src": "/ours/locations/sell-mineral-rights-damascus-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Damascus, OH"
+    },
+    "/locations/dennison-oh": {
+      "src": "/ours/locations/sell-mineral-rights-dennison-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Dennison, OH"
+    },
+    "/locations/dover-oh": {
+      "src": "/ours/locations/sell-mineral-rights-dover-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Dover, OH"
+    },
+    "/locations/dundee-oh": {
+      "src": "/ours/locations/sell-mineral-rights-dundee-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Dundee, OH"
+    },
+    "/locations/east-palestine-oh": {
+      "src": "/ours/locations/sell-mineral-rights-east-palestine-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in East Palestine, OH"
+    },
+    "/locations/east-rochester-oh": {
+      "src": "/ours/locations/sell-mineral-rights-east-rochester-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in East Rochester, OH"
+    },
+    "/locations/empire-oh": {
+      "src": "/ours/locations/sell-mineral-rights-empire-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Empire, OH"
+    },
+    "/locations/fairview-oh": {
+      "src": "/ours/locations/sell-mineral-rights-fairview-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Fairview, OH"
+    },
+    "/locations/flushing-oh": {
+      "src": "/ours/locations/sell-mineral-rights-flushing-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Flushing, OH"
+    },
+    "/locations/glenmoor-oh": {
+      "src": "/ours/locations/sell-mineral-rights-glenmoor-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Glenmoor, OH"
+    },
+    "/locations/gnadenhutten-oh": {
+      "src": "/ours/locations/sell-mineral-rights-gnadenhutten-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Gnadenhutten, OH"
+    },
+    "/locations/graysville-oh": {
+      "src": "/ours/locations/sell-mineral-rights-graysville-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Graysville, OH"
+    },
+    "/locations/guilford-lake-oh": {
+      "src": "/ours/locations/sell-mineral-rights-guilford-lake-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Guilford Lake, OH"
+    },
+    "/locations/hanoverton-oh": {
+      "src": "/ours/locations/sell-mineral-rights-hanoverton-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Hanoverton, OH"
+    },
+    "/locations/harrisville-oh": {
+      "src": "/ours/locations/sell-mineral-rights-harrisville-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Harrisville, OH"
+    },
+    "/locations/holloway-oh": {
+      "src": "/ours/locations/sell-mineral-rights-holloway-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Holloway, OH"
+    },
+    "/locations/homeworth-oh": {
+      "src": "/ours/locations/sell-mineral-rights-homeworth-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Homeworth, OH"
+    },
+    "/locations/hopedale-oh": {
+      "src": "/ours/locations/sell-mineral-rights-hopedale-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Hopedale, OH"
+    },
+    "/locations/irondale-oh": {
+      "src": "/ours/locations/sell-mineral-rights-irondale-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Irondale, OH"
+    },
+    "/locations/jewett-oh": {
+      "src": "/ours/locations/sell-mineral-rights-jewett-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Jewett, OH"
+    },
+    "/locations/kimbolton-oh": {
+      "src": "/ours/locations/sell-mineral-rights-kimbolton-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Kimbolton, OH"
+    },
+    "/locations/lafferty-oh": {
+      "src": "/ours/locations/sell-mineral-rights-lafferty-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lafferty, OH"
+    },
+    "/locations/leesville-oh": {
+      "src": "/ours/locations/sell-mineral-rights-leesville-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Leesville, OH"
+    },
+    "/locations/leetonia-oh": {
+      "src": "/ours/locations/sell-mineral-rights-leetonia-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Leetonia, OH"
+    },
+    "/locations/lisbon-oh": {
+      "src": "/ours/locations/sell-mineral-rights-lisbon-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lisbon, OH"
+    },
+    "/locations/lloydsville-oh": {
+      "src": "/ours/locations/sell-mineral-rights-lloydsville-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lloydsville, OH"
+    },
+    "/locations/lore-city-oh": {
+      "src": "/ours/locations/sell-mineral-rights-lore-city-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lore City, OH"
+    },
+    "/locations/lowell-oh": {
+      "src": "/ours/locations/sell-mineral-rights-lowell-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lowell, OH"
+    },
+    "/locations/lower-salem-oh": {
+      "src": "/ours/locations/sell-mineral-rights-lower-salem-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Lower Salem, OH"
+    },
+    "/locations/malvern-oh": {
+      "src": "/ours/locations/sell-mineral-rights-malvern-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Malvern, OH"
+    },
+    "/locations/martins-ferry-oh": {
+      "src": "/ours/locations/sell-mineral-rights-martins-ferry-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Martins Ferry, OH"
+    },
+    "/locations/matamoras-oh": {
+      "src": "/ours/locations/sell-mineral-rights-matamoras-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Matamoras, OH"
+    },
+    "/locations/minerva-oh": {
+      "src": "/ours/locations/sell-mineral-rights-minerva-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Minerva, OH"
+    },
+    "/locations/negley-oh": {
+      "src": "/ours/locations/sell-mineral-rights-negley-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Negley, OH"
+    },
+    "/locations/new-waterford-oh": {
+      "src": "/ours/locations/sell-mineral-rights-new-waterford-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in New Waterford, OH"
+    },
+    "/locations/newcomerstown-oh": {
+      "src": "/ours/locations/sell-mineral-rights-newcomerstown-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Newcomerstown, OH"
+    },
+    "/locations/pleasant-city-oh": {
+      "src": "/ours/locations/sell-mineral-rights-pleasant-city-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Pleasant City, OH"
+    },
+    "/locations/port-washington-oh": {
+      "src": "/ours/locations/sell-mineral-rights-port-washington-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Port Washington, OH"
+    },
+    "/locations/pottery-addition-oh": {
+      "src": "/ours/locations/sell-mineral-rights-pottery-addition-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Pottery Addition, OH"
+    },
+    "/locations/quaker-city-oh": {
+      "src": "/ours/locations/sell-mineral-rights-quaker-city-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Quaker City, OH"
+    },
+    "/locations/rayland-oh": {
+      "src": "/ours/locations/sell-mineral-rights-rayland-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Rayland, OH"
+    },
+    "/locations/rogers-oh": {
+      "src": "/ours/locations/sell-mineral-rights-rogers-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Rogers, OH"
+    },
+    "/locations/salineville-oh": {
+      "src": "/ours/locations/sell-mineral-rights-salineville-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Salineville, OH"
+    },
+    "/locations/sarahsville-oh": {
+      "src": "/ours/locations/sell-mineral-rights-sarahsville-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Sarahsville, OH"
+    },
+    "/locations/sardis-oh": {
+      "src": "/ours/locations/sell-mineral-rights-sardis-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Sardis, OH"
+    },
+    "/locations/senecaville-oh": {
+      "src": "/ours/locations/sell-mineral-rights-senecaville-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Senecaville, OH"
+    },
+    "/locations/sherrodsville-oh": {
+      "src": "/ours/locations/sell-mineral-rights-sherrodsville-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Sherrodsville, OH"
+    },
+    "/locations/stafford-oh": {
+      "src": "/ours/locations/sell-mineral-rights-stafford-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Stafford, OH"
+    },
+    "/locations/stone-creek-oh": {
+      "src": "/ours/locations/sell-mineral-rights-stone-creek-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Stone Creek, OH"
+    },
+    "/locations/stratton-oh": {
+      "src": "/ours/locations/sell-mineral-rights-stratton-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Stratton, OH"
+    },
+    "/locations/sugarcreek-oh": {
+      "src": "/ours/locations/sell-mineral-rights-sugarcreek-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Sugarcreek, OH"
+    },
+    "/locations/summerfield-oh": {
+      "src": "/ours/locations/sell-mineral-rights-summerfield-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Summerfield, OH"
+    },
+    "/locations/summitville-oh": {
+      "src": "/ours/locations/sell-mineral-rights-summitville-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Summitville, OH"
+    },
+    "/locations/washingtonville-oh": {
+      "src": "/ours/locations/sell-mineral-rights-washingtonville-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Washingtonville, OH"
+    },
+    "/locations/waterford-oh": {
+      "src": "/ours/locations/sell-mineral-rights-waterford-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Waterford, OH"
+    },
+    "/locations/yorkville-oh": {
+      "src": "/ours/locations/sell-mineral-rights-yorkville-oh.jpg",
+      "alt": "Local view for Sell Mineral Rights in Yorkville, OH"
+    },
+    "/locations/stark-county": {
+      "src": "/ours/locations/sell-mineral-rights-stark-county-oh.jpg",
+      "alt": "Stark County Courthouse and Annex in Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Responsive display cropping."
+    },
+    "/locations/canton-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/jefferson-county": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/steubenville-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/adena-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/bannock-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/barnesville-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/bellaire-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/belle-valley-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/belmont-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/belpre-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/bergholz-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/blaine-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/bloomingdale-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/brilliant-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/brookside-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/buffalo-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/columbiana-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/connorville-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/deersville-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/dellroy-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/devola-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/dexter-city-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/dillonvale-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/east-springfield-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/freeport-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/glencoe-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/hannibal-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/jerusalem-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/la-croft-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/lake-mohawk-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/lake-tomahawk-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/lansing-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/lewisville-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/little-hocking-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/macksburg-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/magnolia-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/midvale-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/miltonsburg-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/mineral-city-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/mingo-junction-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/morristown-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/mount-pleasant-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/neffs-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/new-alexandria-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/new-athens-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/newport-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/old-washington-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/parral-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/pekin-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/powhatan-point-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/reno-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/richmond-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/roswell-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/salem-heights-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/salem-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/salesville-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/sandyville-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/scio-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/shadyside-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/strasburg-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/tiltonsville-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/tippecanoe-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/toronto-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/tuscarawas-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/uhrichsville-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/vincent-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/wellsville-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/wilkshire-hills-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/wilson-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/wintersville-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/wolfhurst-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    },
+    "/locations/zoar-oh": {
+      "src": "/ours/locations/regional-canton-oh.jpg",
+      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
+      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "regional": true,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+    }
+  }
 }
