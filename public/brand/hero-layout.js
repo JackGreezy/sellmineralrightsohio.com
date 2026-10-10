@@ -49,6 +49,10 @@
     addEventListener('load', schedule, {once: true});
     addEventListener('scroll', () => {if (scrollY <= 4) schedule();}, {passive: true});
     document.fonts?.ready.then(schedule);
+    const headers = [...document.querySelectorAll('header, [role="banner"]')];
+    const transition = event => {if (headers.some(header => header.contains(event.target) || event.target.contains(header))) schedule();};
+    document.addEventListener('transitionend', transition, true);
+    document.addEventListener('animationend', transition, true);
     const observer = new ResizeObserver(schedule);
     document.querySelectorAll('header, [role="banner"]').forEach(header => observer.observe(header));
   }
