@@ -411,583 +411,731 @@
     "/locations/stark-county": {
       "src": "/ours/locations/sell-mineral-rights-stark-county-oh.jpg",
       "alt": "Stark County Courthouse and Annex in Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Responsive display cropping."
+      "regional": false,
+      "region": "Ohio",
+      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "attributionRequired": true
     },
     "/locations/canton-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/jefferson-county": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/steubenville-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/adena-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/bannock-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/barnesville-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/bellaire-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/belle-valley-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/belmont-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/belpre-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/bergholz-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/blaine-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/bloomingdale-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/brilliant-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/brookside-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/buffalo-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/columbiana-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/connorville-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/deersville-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/dellroy-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/devola-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/dexter-city-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/dillonvale-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/east-springfield-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/freeport-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/glencoe-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/hannibal-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/jerusalem-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/la-croft-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/lake-mohawk-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/lake-tomahawk-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/lansing-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/lewisville-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/little-hocking-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/macksburg-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/magnolia-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/midvale-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/miltonsburg-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/mineral-city-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/mingo-junction-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/morristown-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/mount-pleasant-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/neffs-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/new-alexandria-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/new-athens-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/newport-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/old-washington-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/parral-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/pekin-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/powhatan-point-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/reno-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/richmond-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/roswell-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/salem-heights-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/salem-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/salesville-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/sandyville-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/scio-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/shadyside-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/strasburg-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/tiltonsville-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/tippecanoe-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/toronto-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/tuscarawas-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/uhrichsville-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/vincent-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/wellsville-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/wilkshire-hills-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/wilson-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/wintersville-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/wolfhurst-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     },
     "/locations/zoar-oh": {
-      "src": "/ours/locations/regional-canton-oh.jpg",
-      "alt": "Regional view: Stark County Courthouse, Canton, Ohio",
-      "credit": "Stark County Courthouse, Canton, Ohio. Regional Ohio photograph. Photo: <a href=\"https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg\" rel=\"noopener\">Niagara66 / Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"noopener\">CC BY-SA 4.0</a>. Resized/cropped for display.",
+      "src": "/ours/locations/regional-antioch-oh.jpg",
+      "alt": "View of Antioch, Ohio",
       "regional": true,
       "region": "Ohio",
-      "source": "https://commons.wikimedia.org/wiki/File:Stark_County_Courthouse_and_Annex_1.jpg"
+      "source": "https://commons.wikimedia.org/wiki/File:Antioch_from_Union_Road.jpg",
+      "license": "Public domain",
+      "attributionRequired": false,
+      "caption": "Regional Ohio view: Antioch, Ohio."
     }
   }
 }
